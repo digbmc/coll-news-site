@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: The 2021 Digital Scholarship Summer Fellows Present:
     text: It's Nice To Meet You
-    button: Learn More
+    button: Tell Me More
     buttonlink: "#services"
 
   services:
