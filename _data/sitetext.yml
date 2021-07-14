@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: The 2021 Digital Scholarship Summer Fellows Present
-    text: Visualizations of The College News Issues (1914-1968)
+    text: Text Mining The College News (1914-1968)
     button: Learn More
     buttonlink: "#portfolio"
 
