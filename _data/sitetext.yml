@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: The 2021 Digital Scholarship Summer Fellows Present
     text: It's Nice To Meet You
     button: Learn More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   services:
     title: "Services"
