@@ -16,11 +16,10 @@ en: &DEFAULT_EN
     button: Learn More
     buttonlink: "#portfolio"
     
-   
-   header:
+  project summary:
     title: Project Summary
     text: The digital collection of The College News, a Bryn Mawr student publication that ran from 1914 to 1968, offers a rich resource for studying college history over a crucial period of social change. The 2021 Digital Scholarship Summer Fellows derived meaning from this extensive text corpus by crafting two collaborative web-based map visualizations, a structured dataset including every issue of The College News, and a tactile data manifestation created in the Makerspace. Our use of computational methods and distant reading to extract names, places, and terms from The College News is intended to serve members of the Bryn Mawr community who wish to identify patterns and marginalized histories revealed through the words of alumnae from prior generations.
-    section: Project Summary
+    section: project summary
 
   portfolio:
     title: "Portfolio"
