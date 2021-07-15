@@ -1,0 +1,23 @@
+---
+layout: default
+title: Data Viz
+---
+
+{% include nav.html %}
+
+{% if page.background == "grey" or page.background == "gray" %}
+<script>
+document.getElementById("page-top").className="bg-light";
+</script>
+{% endif %}
+
+<div class ="container" id="pagecontainer">
+  <div class="col-lg-12 text-center">
+      <h2 class="section-heading text-uppercase">Data Visualization Test</h2>
+      <h3 class="section-subheading text-muted">Project information and description</h3>
+  </div>
+  <div>
+  <iframe src="https://digbmc.github.io/dssf-2021/resources/issue_length.html" frameborder="0" style="border: none" height=600 width=100%></iframe>
+  </div>
+
+</div>
