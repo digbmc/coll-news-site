@@ -15,11 +15,12 @@ en: &DEFAULT_EN
     text: Text Mining The College News (1914-1968)
     button: Learn More
     buttonlink: "#portfolio"
-    
-  services:
-    title: "Our Project"
+   
+  about:
+    title: "About"
+    subtitle: "learn about our work"
     text: "The digital collection of The College News, a Bryn Mawr student publication that ran from 1914 to 1968, offers a rich resource for studying college history over a crucial period of social change. The 2021 Digital Scholarship Summer Fellows derived meaning from this extensive text corpus by crafting two collaborative web-based map visualizations, a structured dataset including every issue of The College News, and a tactile data manifestation created in the Makerspace. Our use of computational methods and distant reading to extract names, places, and terms from The College News is intended to serve members of the Bryn Mawr community who wish to identify patterns and marginalized histories revealed through the words of alumnae from prior generations."
-    section: project summary
+    section: about
 
   portfolio:
     title: "Portfolio"
@@ -28,7 +29,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
+    title: "Timeline"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -58,28 +59,7 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+ 
 
   team:
     title: "OUR AMAZING TEAM"
@@ -87,16 +67,10 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "Applebee"
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
@@ -117,21 +91,6 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
