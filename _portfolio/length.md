@@ -5,16 +5,17 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Issue length
+  subtitle: Data visualization
+  thumbnail: assets/img/portfolio/issue-length.png 
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-<iframe src="https://digbmc.github.io/dssf-2021/resources/issue_length.html" frameborder="0" style="border: none" height=600 width="100%"></iframe>
+<div class = 'embed-responsive embed-responsive-16by9'>
+<iframe src="./issue_length.html" allowfullscreen></iframe>
+</div>
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: July 2021
+- Author: Alice
 
