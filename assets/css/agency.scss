@@ -3,7 +3,7 @@
 @charset "utf-8";
 // Core variables and mixins
 @import "base/variables.scss";
-@import "base/mixins.scss";
+@import "base/mixigins.scss";
 
 // Custom colors
 $primary: {{ site.data.style.highlight | default: "#8B4513" }} !default;
