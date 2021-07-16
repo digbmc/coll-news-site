@@ -33,6 +33,7 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 collections:
   portfolio:
   projects:
+    output: True
 
 markdown: kramdown
 
