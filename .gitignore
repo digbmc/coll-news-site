@@ -5,3 +5,4 @@ _site
 Gemfile.lock
 .DS_Store
 cn-site.code-workspace
+notes.md
