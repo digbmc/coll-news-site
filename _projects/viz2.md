@@ -4,7 +4,8 @@ title: Issue Length
 
 caption:
   title: Scatterplot
-  thumbnail: assets/img/portfolio/issue-length.png
+  thumbnail: assets/img/portfolio/issue-length-thumb.png 
+
 ---
 
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
