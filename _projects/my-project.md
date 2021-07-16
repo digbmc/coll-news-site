@@ -1,5 +1,5 @@
 ---
-title: Project page
+title: Wordcloud
 layout: project
 subtitle: This is what I've been up to.
 image: assets/img/portfolio/owl-cloud.png
@@ -10,6 +10,7 @@ caption:
   subtitle: shaped like an owl
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png
 ---
+
 
 Changes to content!
 
