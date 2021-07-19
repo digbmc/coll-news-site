@@ -9,6 +9,7 @@ caption:
   title: Map
   subtitle: Locations mentioned in the College News
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  alt: map of locations mentioned in College News
 
 ---
 
@@ -18,3 +19,4 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 <iframe class="embed-responsive-item" src= "{{ site.baseurl }}/viz/map.html" allowfullscreen></iframe>
 </div>
 
+<a class="btn btn-primary" href="{{ site.baseurl }}/viz/map.html">View fullscreen</a>

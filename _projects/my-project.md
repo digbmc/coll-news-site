@@ -9,6 +9,7 @@ caption:
   title: Wordcloud
   subtitle: shaped like an owl
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png
+  alt: Word cloud in the shape of an owl
 ---
 
 

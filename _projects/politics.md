@@ -9,6 +9,8 @@ caption:
   title: Political topics
   subtitle: Issues 1950-1968
   thumbnail: assets/img/portfolio/50s60s-viz-thumb.png
+  alt: data visualization of 50s and 60s topics
+
 ---
 
  <div id="vis"></div>

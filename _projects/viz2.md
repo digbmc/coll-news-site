@@ -4,7 +4,8 @@ title: Issue Length
 
 caption:
   title: Scatterplot
-  thumbnail: assets/img/portfolio/issue-length-thumb.png 
+  thumbnail: assets/img/portfolio/issue-length-thumb.png
+  alt: scatterplot graph 
 
 ---
 
