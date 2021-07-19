@@ -62,40 +62,35 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "August 6th"
+    end: "Project Conclusion"
 
  
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Meet the Fellows"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Applebee"
-        role: "Lead Designer"
+      - name: "Aanandi Murlidharan"
+        role: "Placeholder role"
         image: assets/img/team/500x500.jpg
         
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Al Nash"
+        role: "Placeholder role"
         image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        
+      - name: "Avery Matteo"
+        role: "Placeholder role"
+        image: assets/img/team/500x500.jpg    
+        
+      - name: "Linda Chen"
+        role: "Placeholder role"
+        image: assets/img/team/500x500.jpg  
+        
+      - name: "Marianela Luna-Torrado"
+        role: "Placeholder role"
+        image: assets/img/team/500x500.jpg  
 
   footer:
     legal: "Privacy Policy"
