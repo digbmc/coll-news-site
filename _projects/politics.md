@@ -129,9 +129,11 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
       {"year": 1967, "frequency": 0.107509786, "topic": "civil rights"},
       {"year": 1967, "frequency": 0.088230678, "topic": "cold war"}
     ]
-  }}
+  }
 };
 
+  var embedOpt = {"renderer": "svg", "mode": "vega-lite"};
+  
       function showError(el, error){
           el.innerHTML = ('<div class="error" style="color:red;">'
                           + '<p>JavaScript Error: ' + error.message + '</p>'
