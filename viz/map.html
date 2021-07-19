@@ -29,6 +29,7 @@
                     }).addTo(mymap);
             function addPopups(feature, layer) {
                 layer.bindPopup("<h1>Place: "+feature.properties.name+"</h1>"+"<p>Count: "+feature.properties.count+"</p><p>Issues: "+feature.properties.issues+"<\p><p>Variations: "+feature.properties.variations+"</p>");
+                layer.on('click', function(e) {this.openPopup();});
             }
             var markers = L.markerClusterGroup();
             var geoLayer = L.geoJSON(locations, 
