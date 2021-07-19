@@ -129,7 +129,7 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
       {"year": 1967, "frequency": 0.107509786, "topic": "civil rights"},
       {"year": 1967, "frequency": 0.088230678, "topic": "cold war"}
     ]
-  }
+  }}
 };
 
       function showError(el, error){
