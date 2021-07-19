@@ -131,9 +131,8 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
     ]
   }
 };
+      var embedOpt = {"renderer": "svg", "mode": "vega-lite"};
 
-  var embedOpt = {"renderer": "svg", "mode": "vega-lite"};
-  
       function showError(el, error){
           el.innerHTML = ('<div class="error" style="color:red;">'
                           + '<p>JavaScript Error: ' + error.message + '</p>'
