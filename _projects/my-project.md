@@ -1,7 +1,7 @@
 ---
-title: Wordcloud
+title: Wordcloud #title for the visulization
 layout: project
-subtitle: This is what I've been up to.
+subtitle: by Applebee 
 image: assets/img/portfolio/owl-cloud.png
 alt:
 
