@@ -1,7 +1,7 @@
 ---
 title: Wordcloud #title for the visulization
 layout: project
-subtitle: by Applebee 
+subtitle: by Applebee Owl'68 # author of the visualization along with the class year 
 image: assets/img/portfolio/owl-cloud.png
 alt:
 
