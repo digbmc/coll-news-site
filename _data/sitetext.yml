@@ -72,6 +72,18 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
+      - name: "Alice McGrath"
+        role: "Placeholder role"
+        image: assets/img/team/500x500.jpg
+        
+      - name: "Rosemarie Fettig"
+        role: "Placeholder role"
+        image: assets/img/team/500x500.jpg  
+        
+      - name: "Stella Fritzell"
+        role: "Placeholder role"
+        image: assets/img/team/500x500.jpg  
+        
       - name: "Aanandi Murlidharan"
         role: "Placeholder role"
         image: assets/img/team/500x500.jpg
@@ -90,7 +102,7 @@ en: &DEFAULT_EN
         
       - name: "Marianela Luna-Torrado"
         role: "Placeholder role"
-        image: assets/img/team/500x500.jpg  
+        image: assets/img/team/500x500.jpg
 
   footer:
     legal: "Privacy Policy"
