@@ -1,7 +1,7 @@
 ---
 title: Map
 subtitle: Locations mentioned in the College News
-# image: assets/img/portfolio/03-.jpg 
+# image: assets/img/portfolio/map-thumb.png 
 alt:
 
 caption:
