@@ -1,21 +1,21 @@
 ---
-title: Wordcloud #title for the visulization
+title: Wordcloud # title for the visulization
 layout: project
-subtitle: by Applebee Owl'68 # author of the visualization along with the class year 
-image: assets/img/portfolio/owl-cloud.png
-alt:
+author: by Applebee Owl '68 # author of the visualization along with the class year 
+subtitle: Subtitle goes here
+image: assets/img/portfolio/owl-cloud.png # if using image for viz
+alt: Word cloud
 
-caption:
-  title: Wordcloud #title for the visualization
-  subtitle: #author for the indivudual project but not for group
-  thumbnail: assets/img/portfolio/owl-cloud-thumb.png #screenshot for your visualization. 
+caption: # info that appears on homepage
+  title: Wordcloud
+  subtitle: Subtitle here
+  thumbnail: assets/img/portfolio/owl-cloud-thumb.png # screenshot for your visualization. 
   alt: Word cloud in the shape of an owl
 ---
 <!--  
-insert visualization 
+insert visualization code or embedding here
+If using an image file for viz, use image variable in header
 --> 
-
-image: assets/img/portfolio/owl-cloud.png
 
 Insert visualization above text description
 

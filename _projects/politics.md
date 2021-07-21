@@ -2,6 +2,7 @@
 title: Political Topics from the 50s and 60s
 layout: project
 subtitle: Lorem ipsum dolor sit amet consectetur.
+author:
 image:
 alt: 
 
