@@ -11,15 +11,18 @@ caption:
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png #screenshot for your visualization. 
   alt: Word cloud in the shape of an owl
 ---
-
-#insert visualization 
+<!--  
+insert visualization 
+--> 
 
 image: assets/img/portfolio/owl-cloud.png
+
 Insert visualization above text description
 
 #add text description. 
-
+<!--  
 Insert your description for the project here.
+--> 
 
 {:.list-inline}
 - Date: July 2021
