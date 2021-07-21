@@ -24,7 +24,4 @@ Here is where the text visualization will go. Below your visualization will be a
 Insert your description for the project here.
 --> 
 
-{:.list-inline}
-- Date: July 2021
-- Client: Window
-- Category: Photography
+
