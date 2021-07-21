@@ -7,16 +7,17 @@ alt:
 
 caption:
   title: Wordcloud #title for the visualization
-  subtitle: shaped like an owl
+  subtitle: #author for the indivudual project but not for group
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png #screenshot for your visualization. 
   alt: Word cloud in the shape of an owl
 ---
 
 #insert visualization 
 
+image: assets/img/portfolio/owl-cloud.png
 Insert visualization above text description
 
-# add text description. 
+#add text description. 
 
 Insert your description for the project here.
 
