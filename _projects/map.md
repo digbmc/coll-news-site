@@ -2,13 +2,13 @@
 title: Map
 layout: project
 subtitle: Locations mentioned in the College News
-# image: assets/img/portfolio/03-.jpg 
+# image: assets/img/portfolio/map-thumb.png 
 alt:
 
 caption:
   title: Map
   subtitle: Locations mentioned in the College News
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/map-thumb.png
   alt: map of locations mentioned in College News
 
 ---
