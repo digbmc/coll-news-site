@@ -7,7 +7,7 @@ alt:
 caption:
   title: Map
   subtitle: Locations mentioned in the College News
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/map-thumb.png
 
 ---
 
