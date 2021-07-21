@@ -3,13 +3,13 @@ title: Place Names in Wartime Issues # title for the visulization
 layout: project
 author: by Avery Matteo # author of the visualization along with the class year 
 subtitle: A map documenting locations mentioned in wartime issues of the College News corpus
-image: assets/img/portfolio/owl-cloud.png # if using image for viz
+image: file:///Users/averymatteo/Desktop/screenshots/Screen%20Shot%202021-07-21%20at%202.14.17%20PM.png # if using image for viz
 alt: Google my Maps representation of locations mentioned in wartime issues
 
 caption: # info that appears on homepage
   title: Place Names in Wartime Issues
   subtitle: Interactive map
-  thumbnail: assets/img/portfolio/owl-cloud-thumb.png # screenshot for your visualization. 
+  thumbnail: file:///Users/averymatteo/Desktop/screenshots/Screen%20Shot%202021-07-21%20at%202.14.17%20PM.png # screenshot for your visualization. 
   alt: Google my Maps representation of locations mentioned in wartime issues
 ---
 <!--  
@@ -21,5 +21,5 @@ Insert visualization above text description
 
 Here is where the text visualization will go. Below your visualization will be a short explaination of your project. This is will be below your visualization. 
 <!--  
-Insert your description for the project here.
+Text description test
 --> 
