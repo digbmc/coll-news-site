@@ -19,7 +19,7 @@ image: assets/img/portfolio/owl-cloud.png
 
 Insert visualization above text description
 
-#add text description. 
+Here is where the text visualization will go. Below your visualization will be a short explaination of your project. This is will be below your visualization. 
 <!--  
 Insert your description for the project here.
 --> 
