@@ -89,11 +89,11 @@ en: &DEFAULT_EN
         
       - name: "Al Nash"
         role: "Placeholder role"
-        image: assets/img/team/al.jpeg
+        image: assets/img/team/
         
       - name: "Avery Matteo"
         role: "Placeholder role"
-        image: assets/img/team/avery.jpeg 
+        image: assets/img/team/ 
         
       - name: "Linda Chen"
         role: "Placeholder role"
@@ -101,7 +101,7 @@ en: &DEFAULT_EN
         
       - name: "Marianela Luna-Torrado"
         role: "Placeholder role"
-        image: assets/img/team/marianela.jpeg
+        image: assets/img/team/
 
   footer:
     legal: "Privacy Policy"
