@@ -38,7 +38,7 @@ caption:
     
 ### y-axis: relative frequency
 
-   The relative frequency of a topic in a chunk of text refers to the number of words dedicated to this topic divided by the total wordcount in a given chunk. The topic modeling tool computes the relative frequency of topics per chunk as a part of its output. We then calculated the relative frequency of topics each year by finding the mean of relative frequency in chunks published in that year.
+  The relative frequency of a topic in a chunk of text refers to the number of words dedicated to this topic divided by the total wordcount in a given chunk. The topic modeling tool computes the relative frequency of topics per chunk as a part of its output. We then calculated the relative frequency of topics each year by finding the mean of relative frequency in chunks published in that year.
     
     
 ### Topic Modeling
