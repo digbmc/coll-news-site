@@ -74,6 +74,7 @@ en: &DEFAULT_EN
       - name: "Alice McGrath"
         role: "Project Director"
         image: assets/img/team/alice.jpeg
+        bio: Alice is a Digital Scholarship Specialist in LITS.
         
       - name: "Rosemarie Fettig"
         role: "Research Coordinator"
