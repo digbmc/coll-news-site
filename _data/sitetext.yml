@@ -68,39 +68,39 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR TEAM"
-    subtext: Do we want any text here?
+    subtext: Special thanks to Allison Mills, Bronwen Densmore, and Molly Kuchler for offering their support as project consultants.
     section: team
     people:
       - name: "Alice McGrath"
-        role: "Placeholder role"
+        role: "Project Director"
         image: assets/img/team/alice.jpeg
         
       - name: "Rosemarie Fettig"
-        role: "Placeholder role"
+        role: "Research Coordinator"
         image: assets/img/team/500x500.jpg  
         
       - name: "Stella Fritzell"
-        role: "Placeholder role"
+        role: "Project Manager"
         image: assets/img/team/stella.jpeg
         
       - name: "Aanandi Murlidharan"
-        role: "Placeholder role"
+        role: "Digital Scholarship Summer Fellow"
         image: assets/img/team/aanandi.jpeg
         
       - name: "Al Nash"
-        role: "Placeholder role"
+        role: "Digital Scholarship Summer Fellow
         image: assets/img/team/al.jpeg
         
       - name: "Avery Matteo"
-        role: "Placeholder role"
+        role: "Digital Scholarship Summer Fellow"
         image: assets/img/team/avery.jpeg
         
       - name: "Linda Chen"
-        role: "Placeholder role"
+        role: "Digital Scholarship Summer Fellow"
         image: assets/img/team/linda.jpeg  
         
       - name: "Marianela Luna-Torrado"
-        role: "Placeholder role"
+        role: "Digital Scholarship Summer Fellow"
         image: assets/img/team/marianela.jpeg
 
   footer:
