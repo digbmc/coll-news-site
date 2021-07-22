@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: The 2021 Digital Scholarship Summer Fellows Present
-    text: Text Mining The College News (1914-1968)
+    text: Text Mining The Bryn Mawr College News
     button: Learn More
     buttonlink: "#about"
    
@@ -106,10 +106,10 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/digbmc/college-news
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
