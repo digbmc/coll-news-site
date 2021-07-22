@@ -52,7 +52,7 @@ caption:
     
     
 ### Visualization:
-   We graphed the data using Altair, a python library for data visualization based on Vega and Vega-lite. We chose a line chart because we would like to investigate whether a pattern or trend exists in a given topic.
+   We graphed the data using [Altair](https://altair-viz.github.io/), a python library for data visualization based on [Vega](https://vega.github.io/vega/) and [Vega-lite](http://vega.github.io/vega-lite/). We chose a line chart because we would like to investigate whether a pattern or trend exists in a given topic.
 
 
 
