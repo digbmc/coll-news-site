@@ -8,7 +8,7 @@ alt: Google my Maps representation of locations mentioned in wartime issues
 caption: # info that appears on homepage
   title: Place Names in Wartime Issues
   subtitle: Interactive map
-  thumbnail: file:///Users/averymatteo/Desktop/screenshots/Screen%20Shot%202021-07-21%20at%202.14.17%20PM.png # screenshot for your visualization. 
+  thumbnail: assets/img/portfolio/map-war.png # screenshot for your visualization. 
   alt: Google my Maps representation of locations mentioned in wartime issues
 ---
 

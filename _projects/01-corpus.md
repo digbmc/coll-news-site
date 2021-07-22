@@ -9,7 +9,7 @@ alt:
 caption: # info that appears on homepage
   title: Our Corpus
   subtitle: about the college news corpus
-  thumbnail: # screenshot for your visualization. 
+  thumbnail: assets/img/portfolio/owl-cloud-thumb.png 
   alt: college news corpus
 ---
 <!--  

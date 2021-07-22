@@ -23,8 +23,8 @@ en: &DEFAULT_EN
     section: about
 
   projects:
-    title: "Collaborative Visualizations"
-    text: "What we've done with our data"
+    title: "Collaborative Work"
+    text: "Exploring the College News"
     section: projects
 
   portfolio:
