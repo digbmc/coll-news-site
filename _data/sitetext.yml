@@ -29,7 +29,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Individual Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Explore our secondary visualizations"
     section: portfolio
     closebutton: "Close Project"
 
