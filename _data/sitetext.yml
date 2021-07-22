@@ -86,7 +86,7 @@ en: &DEFAULT_EN
         
       - name: "Aanandi Murlidharan"
         role: "Digital Scholarship Summer Fellow"
-        image: assets/img/team/aanandi.jpeg
+        image: assets/img/team/aanandi.jpg
         
       - name: "Al Nash"
         role: "Digital Scholarship Summer Fellow"
