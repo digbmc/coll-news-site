@@ -82,7 +82,7 @@ en: &DEFAULT_EN
         
       - name: "Stella Fritzell"
         role: "Project Manager"
-        image: assets/img/team/stella.jpeg
+        image: assets/img/team/stella.jpg
         
       - name: "Aanandi Murlidharan"
         role: "Digital Scholarship Summer Fellow"
