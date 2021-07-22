@@ -1,5 +1,6 @@
 #Color Customization
-#highlight: "98ff98"
+#highlight: "#ADD8E6" # use for spot color/link text on dark backgrounds
+#second: "#871F78" # use for spot color/link text on light backgrounds
 #white: "#FF0000"
 #black: "#000"
 
