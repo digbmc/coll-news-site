@@ -4,6 +4,7 @@ layout: project
 subtitle: Subtitle goes here
 image: assets/img/portfolio/applebee.png # if using image for viz
 alt: owl with a waistcoat
+order: 6
 
 caption: # info that appears on homepage
   title: Letters to the Editor

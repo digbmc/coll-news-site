@@ -5,6 +5,7 @@ subtitle: Lorem ipsum dolor sit amet consectetur.
 author:
 image:
 alt: 
+order: 4
 
 caption:
   title: Political topics

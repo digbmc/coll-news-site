@@ -2,6 +2,7 @@
 layout: project
 title: Our Data
 subtitle: 1340 Issues
+order: 2
 
 caption:
   title: Our Data

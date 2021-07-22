@@ -4,6 +4,7 @@ subtitle: A dapper owl
 layout: project
 image: assets/img/portfolio/applebee.png
 alt: an owl in a waistcoat
+order: 2
 
 caption:
   title: Applebee

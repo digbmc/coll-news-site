@@ -4,6 +4,7 @@ layout: project
 subtitle: Locations mentioned in the College News
 # image: assets/img/portfolio/map-thumb.png 
 alt:
+order: 3
 
 caption:
   title: Map

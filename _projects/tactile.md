@@ -1,16 +1,17 @@
 ---
-title: Our Corpus # title for the visulization
+title: Tactile Visualization # title for the visulization
 layout: project
-author:  # author of the visualization along with the class year 
-subtitle: Subtitle goes here
+# author of the visualization along with the class year 
+subtitle: tactile
 image:  # if using image for viz
-alt: 
+alt: image of wooden map
+order: 5
 
 caption: # info that appears on homepage
-  title: Our Corpus
-  subtitle: about the college news corpus
-  thumbnail: assets/img/portfolio/owl-cloud-thumb.png 
-  alt: college news corpus
+  title: Tactile Visalization 
+  subtitle: 1931-1949
+  thumbnail:  assets/img/portfolio/03-thumbnail.jpg
+  alt: Word cloud in the shape of an owl
 ---
 <!--  
 insert visualization code or embedding here
