@@ -7,8 +7,8 @@ image:  # if using image for viz
 alt: 
 
 caption: # info that appears on homepage
-  title: OUr Corpus
-  subtitle: Subtitle here
+  title: Our Corpus
+  subtitle: about the college news corpus
   thumbnail: # screenshot for your visualization. 
   alt: college news corpus
 ---
