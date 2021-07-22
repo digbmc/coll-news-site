@@ -68,7 +68,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR TEAM"
-    subtext: Special thanks to Allison Mills, Bronwen Densmore, and Molly Kuchler for offering their support as project consultants.
+    subtext: "Special thanks to Allison Mills, Bronwen Densmore, and Molly Kuchler for offering their support as project consultants."
     section: team
     people:
       - name: "Alice McGrath"
