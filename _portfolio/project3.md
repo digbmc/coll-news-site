@@ -1,6 +1,7 @@
 ---
 title: Map
 subtitle: Locations mentioned in the College News
+layout: project
 # image: assets/img/portfolio/map-thumb.png 
 alt:
 

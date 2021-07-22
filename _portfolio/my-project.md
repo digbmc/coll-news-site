@@ -2,6 +2,7 @@
 title: Project page
 subtitle: This is what I've been up to.
 image: assets/img/portfolio/owl-cloud.png
+layout: project
 alt:
 
 caption:

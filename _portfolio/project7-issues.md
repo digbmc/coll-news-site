@@ -1,6 +1,7 @@
 ---
 title: College News Issue Length Over Time
 subtitle: Lorem ipsum dolor sit amet consectetur.
+layout: project
 alt: 
 
 caption:
