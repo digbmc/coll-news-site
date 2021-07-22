@@ -88,7 +88,7 @@ en: &DEFAULT_EN
         image: assets/img/team/aanandi.jpeg
         
       - name: "Al Nash"
-        role: "Digital Scholarship Summer Fellow
+        role: "Digital Scholarship Summer Fellow"
         image: assets/img/team/al.jpeg
         
       - name: "Avery Matteo"
