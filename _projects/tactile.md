@@ -9,7 +9,7 @@ alt: image of wooden map
 caption: # info that appears on homepage
   title: Tactile Visalization 
   subtitle: 1931-1949
-  thumbnail: assets/img/portfolio/owl-cloud-thumb.png # screenshot for your visualization. 
+  thumbnail:  # screenshot for your visualization. 
   alt: Word cloud in the shape of an owl
 ---
 <!--  
