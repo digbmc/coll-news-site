@@ -1,9 +1,10 @@
 ---
 layout: project
-title: Issue Length
+title: Our Data
+subtitle: 1340 Issues
 
 caption:
-  title: Scatterplot
+  title: Our Data
   thumbnail: assets/img/portfolio/issue-length-thumb.png
   alt: scatterplot graph 
 
@@ -13,10 +14,13 @@ caption:
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
 
+Our team scraped our data from the Tri-College Digital Collections website, including the full OCRed text and some additional metadata for each issue. We then performed some basic corpus cleaning and analysis using the Natural Language Toolkit ([NLTK](https://www.nltk.org/)).
 
 <div id="vis"></div>
 
-Markdown text that explains the viz 
+ This visualization shows the size of each issue in our corpus, both in pages (taken from the metadata in the digital collections record) and in number of words. Each point represents an issue of *The College News* and contains a link to that issue's record on the Digital Collections site.
+
+ The graph was created using the python library Altair.
 
   <script>
     (function(vegaEmbed) {

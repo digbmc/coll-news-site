@@ -32,6 +32,7 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 
 collections:
   portfolio:
+    output: True
   projects:
     output: True
 
