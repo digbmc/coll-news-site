@@ -33,7 +33,7 @@ caption:
 
 ### x-axis: timeline and its context
 
-   Our timeline starts from years 1950 and ends in year 1968, when the Bryn Mawr College News merged with Haverford’s student newspaper. We have chosen this time period for our political topics visualization because we are aware of the history backdrop of the Cold War, Vietnam war, and civil rights movement, and therefore interested in investigating the political awareness and engagement in the Bryn Mawr community during this period of political and social change.
+  Our timeline starts from years 1950 and ends in year 1968, when the Bryn Mawr College News merged with Haverford’s student newspaper. We have chosen this time period for our political topics visualization because we are aware of the history backdrop of the Cold War, Vietnam war, and civil rights movement, and therefore interested in investigating the political awareness and engagement in the Bryn Mawr community during this period of political and social change.
     
     
 ### y-axis: relative frequency
