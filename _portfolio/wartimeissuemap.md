@@ -17,6 +17,4 @@ insert visualization code or embedding here
 
 Insert visualization above text description
 
-Here is where the text visualization will go. Below your visualization will be a short explaination of your project. This is will be below your visualization. 
-
 While Bryn Mawr College’s social world seems to resemble an insulated bubble, the College News corpus from 1914-1968 makes it abundantly clear that Bryn Mawr’s student body was largely comprised of engaged global citizens who delegated attention not only to pressing campus issues but broader concerns as well. However, considering that Bryn Mawr is an institution that has historically placed an emphasis on the West, I surmised that students’ interests during periods of war and conflict would be primarily focused on Europe and North America. In order to explore my hypothesis, I used a topic modeling tool to identify geopolitical entities (GPEs) and created a map visualization using the CSV data.
