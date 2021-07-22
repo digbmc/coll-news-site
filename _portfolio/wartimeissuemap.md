@@ -3,7 +3,6 @@ title: Place Names in Wartime Issues # title for the visulization
 layout: project
 author: by Avery Matteo # author of the visualization along with the class year 
 subtitle: A map documenting locations mentioned in wartime issues of the College News corpus
-image: file:///Users/averymatteo/Desktop/screenshots/Screen%20Shot%202021-07-21%20at%202.14.17%20PM.png # if using image for viz
 alt: Google my Maps representation of locations mentioned in wartime issues
 
 caption: # info that appears on homepage
@@ -12,14 +11,12 @@ caption: # info that appears on homepage
   thumbnail: file:///Users/averymatteo/Desktop/screenshots/Screen%20Shot%202021-07-21%20at%202.14.17%20PM.png # screenshot for your visualization. 
   alt: Google my Maps representation of locations mentioned in wartime issues
 ---
-<!--  
+
 insert visualization code or embedding here 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ep4CjIcVGGvyQXFljUXzaUUpYhjsi-iI" width="640" height="480"></iframe>
---> 
 
 Insert visualization above text description
 
 Here is where the text visualization will go. Below your visualization will be a short explaination of your project. This is will be below your visualization. 
-<!--  
-Text description test
---> 
+
+While Bryn Mawr College’s social world seems to resemble an insulated bubble, the College News corpus from 1914-1968 makes it abundantly clear that Bryn Mawr’s student body was largely comprised of engaged global citizens who delegated attention not only to pressing campus issues but broader concerns as well. However, considering that Bryn Mawr is an institution that has historically placed an emphasis on the West, I surmised that students’ interests during periods of war and conflict would be primarily focused on Europe and North America. In order to explore my hypothesis, I used a topic modeling tool to identify geopolitical entities (GPEs) and created a map visualization using the CSV data.
