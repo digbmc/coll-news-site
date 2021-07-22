@@ -31,7 +31,6 @@ en: &DEFAULT_EN
     title: "Individual Projects"
     text: "Explore our secondary visualizations"
     section: portfolio
-    closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
