@@ -42,10 +42,11 @@ h6 {
     margin-bottom: 15px;
   }
   h3.section-subheading {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 400;
     // font-style: italic;
-    margin-bottom: 75px;
+    color: $gray-700;
+    margin-bottom: 50px;
     text-transform: none;
     // @include serif-font;
   }
