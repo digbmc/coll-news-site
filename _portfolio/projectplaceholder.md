@@ -11,9 +11,9 @@ caption:
   subtitle: Placeholder
   thumbnail: assets/img/portfolio/placeholderimage.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+<div style="text-align: center">
+  <img alt="My Image" src="assets/img/portfolio/placeholderimage.png" width="1653" height="993"/>
+</div>
+
+this is either a placeholder of my project or my actual individual project depending on whether i manage to import my data to D3 on time.
