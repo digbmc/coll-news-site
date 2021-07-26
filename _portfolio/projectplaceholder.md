@@ -13,7 +13,7 @@ caption:
 ---
 
 <div style="text-align: center">
-  <img alt="My Image" src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/placeholderimage.png?raw=true"/>
+  <img alt="My Image" src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/placeholderimage.png?raw=true" width="700" height="400"/>
 </div>
 
 this is either a placeholder of my project or my actual individual project depending on whether i manage to import my data to D3 on time.
