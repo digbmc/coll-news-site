@@ -4,7 +4,7 @@ layout: project
 author: by Al Nash '23 # author of the visualization along with the class year
 subtitle: Mentions of non-Protestant religions over time
 alt:  Chart of religions mentioned in the College News corpus # idk I'll work on it
-order: 8
+order: 7
 
 caption: # info that appears on homepage
   title: Religions in the College News
