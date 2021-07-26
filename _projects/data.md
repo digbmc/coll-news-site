@@ -17,7 +17,7 @@ caption:
 
 Our team scraped OCR text and metadata from each College News issue between 1914 and 1968 on the Tri-College Digital Collections website. We then performed text cleaning and analysis of the corpus using the [Natural Language Toolkit (NLTK)](https://www.nltk.org/). 
 
-<div id="vis"></div>
+<div class="figure justify-content-center"><div id="vis"></div></div>
 
 This visualization, created with the Python library [Altair](https://altair-viz.github.io/), displays the word count of each issue. Visitors can discover more information by hovering over any data point on the graph, which will reveal the issue date, volume, number, quantity of words, and object ID. Click on a point to be redirected to the College News issue on the [Tri-College Libraries Digital Collections database](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news), which includes the TIFF image scan of the issue, transcript text, and additional metadata.
 

@@ -2,11 +2,11 @@
 body {
   overflow-x: hidden;
   @include body-font;
-  font-size: 1.25rem;
 }
 
 p {
   line-height: 1.75;
+  font-size: 18px
 }
 
 a {
@@ -30,8 +30,24 @@ h6 {
   @include heading-font;
 }
 
+/* h1.project-title {
+
+} */
+
+h2.project-subtitle {
+  font-size: 22px;
+  font-weight: normal;
+  color: $gray-700
+}
+
 .project {
-  padding: 150px 0 !important;
+  padding: 200px 0 !important;
+}
+
+.figure {
+  padding: 25px 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .page-section {
@@ -46,7 +62,7 @@ h6 {
     font-weight: 400;
     // font-style: italic;
     color: $gray-700;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     text-transform: none;
     // @include serif-font;
   }

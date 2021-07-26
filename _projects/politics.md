@@ -18,25 +18,6 @@ caption:
  <div id="vis"></div>
 
 
-
-### Topics:
-
-"0.	political policy president government conference alliance party gov mr foreign united news states discussion general affairs national issue state issues"
-
-"1.	american africa country europe south world west east york travel french home days time city african france _ trip air"
-
-"3.	world mr war people united states man peace great country con problem life time today nations ing china problems ed"
-
-"4.	school scholarship york scholar high prepared mary pennsylvania ann elizabeth jane alumnae national regional college anne nancy rhoads barbara city"
-
-"5.	students bryn mawr student college year campus work committee program haverford colleges group class service school faculty ing summer stu"
-
-"6.	civil state government rights negro people ment law public social american south action labor tion white aid education support union"
-
-"7.	play world good man show time ing life love story audience don men played cigarette part stage great back young"
-
-"8.	mr university american dr professor history science miss department art english work political research study philosophy de college mrs mawr"
-   
    The abundance of stop words and OCR noise in The College News predicates that the topic modeling tool, when analyzing our corpus, won’t always produce meaningful results. Therefore, we have chosen to only visualize topics containing meaningful content. There are two topics excluded from the line chart due to their lack of specific information: “2. college mawr bryn news ee pa ardmore 5 ave editor ae page 3 year 2 1 company lancaster wednesday weeks” and “9. page 30 8 1 continued 4 2 room 5 col 3 00 7 music april march 15 6 common friday”.
 
 
@@ -65,6 +46,17 @@ caption:
   We graphed the data using [Altair](https://altair-viz.github.io/), a python library for data visualization based on [Vega](https://vega.github.io/vega/) and [Vega-lite](http://vega.github.io/vega-lite/). We chose a line chart because we would like to investigate whether a pattern or trend exists in a given topic.
 
 
+
+| Topic | Most common words |
+| ----- | ----------------- |
+|   0.    |  political policy president government conference alliance party gov mr foreign united news states discussion general affairs national issue state issues                 |
+| 1. |	american africa country europe south world west east york travel french home days time city african france _ trip air |
+| 3.	| world mr war people united states man peace great country con problem life time today nations ing china problems ed |
+| 4. | school scholarship york scholar high prepared mary pennsylvania ann elizabeth jane alumnae national regional college anne nancy rhoads barbara city |
+| 5. |	students bryn mawr student college year campus work committee program haverford colleges group class service school faculty ing summer stu |
+| 6. |	civil state government rights negro people ment law public social american south action labor tion white aid education support union |
+| 7. |	play world good man show time ing life love story audience don men played cigarette part stage great back young |
+| 8. |	mr university american dr professor history science miss department art english work political research study philosophy de college mrs mawr |
 
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
