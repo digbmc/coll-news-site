@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     subtitle: "Our project goals & background"
-    text: "The digital collection of [The College News](https://github.com/digbmc/college-news/tree/main/data), a Bryn Mawr student publication active from 1914 to 1968, is a rich resource for studying institutional history over a crucial period of social change. The 2021 Digital Scholarship Fellows created a corpus from these issues, two web-based visualizations, and a tactile visualization. The team used computational methods to extract names, places, and terms from The College News with the goal of simplifying access to marginalized stories."
+    text: "The digital collection of The College News, a Bryn Mawr student publication active from 1914 to 1968, is a rich resource for studying institutional history over a crucial period of social change. The 2021 Digital Scholarship Fellows [created a corpus from these issues](https://github.com/digbmc/college-news/tree/main/data), two web-based visualizations, and a tactile visualization. The team used computational methods to extract names, places, and terms from The College News with the goal of simplifying access to marginalized stories."
     section: about
 
   projects:
