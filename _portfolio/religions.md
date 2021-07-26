@@ -17,9 +17,8 @@ insert visualization code or embedding here
 If using an image file for viz, use image variable in header
 --> 
 
-Potential intro text.
 
-<div id="vis"></div>
+<div id="vis" align="center"></div>
 
 <!--  
 Insert your description for the project here.
