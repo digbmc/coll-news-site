@@ -13,7 +13,7 @@ caption:
 ---
 
 <div style="text-align: center">
-  <img alt="My Image" src="assets/img/portfolio/placeholderimage.png" width="1653" height="993"/>
+  <img alt="My Image" src="assets/img/portfolio/placeholderimage.png"/>
 </div>
 
 this is either a placeholder of my project or my actual individual project depending on whether i manage to import my data to D3 on time.
