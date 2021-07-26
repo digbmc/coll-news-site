@@ -1,5 +1,5 @@
 ---
-title: Place Names in College News Wartime Issues # title for the visulization
+title: Place Names in Wartime Issues # title for the visulization
 layout: project
 author: by Avery Matteo '22 # author of the visualization along with the class year 
 subtitle: A map documenting locations mentioned in wartime issues of the College News corpus
