@@ -10,7 +10,7 @@ order: 1
 caption: # info that appears on homepage
   title: Our Corpus
   subtitle: About the College News Corpus
-  thumbnail: assets/img/projects/corpusimage.jpg
+  thumbnail: assets/img/portfolio/corpusimage.jpg
   alt: college news corpus
 ---
 <!--  
