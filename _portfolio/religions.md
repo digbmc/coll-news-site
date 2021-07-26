@@ -18,7 +18,7 @@ If using an image file for viz, use image variable in header
 --> 
 
 
-<div id="vis" align="center"></div>
+<div id="vis"></div>
 
 <!--  
 Insert your description for the project here.
