@@ -47,12 +47,12 @@ caption:
     
 ### y-axis: relative frequency
 
-  The relative frequency of a topic in a chunk of text refers to the number of words dedicated to this topic divided by the total wordcount in a given chunk. The topic modeling tool computes the relative frequency of topics per chunk as a part of its output. We then calculated the relative frequency of topics each year by finding the mean of relative frequency in chunks published in that year.
+  The relative frequency of a topic in a chunk of text refers to the number of words dedicated to this topic divided by the total wordcount in a given chunk. The [Topic Modeling Tool](https://github.com/senderle/topic-modeling-tool) computes the relative frequency of topics per chunk as a part of its output. We then calculated the relative frequency of topics each year by finding the mean of relative frequency in chunks published in that year.
     
     
 ### Topic Modeling
 
-  Topic Modeling allows us to analyze our large corpus through extracting topics. A "topic" consists of a cluster of words that frequently occur together. This form of computational text analysis relies on an algorithm called “Latent Dirichlet Allocation” and contains an aleatory aspect. Therefore, despite using the same corpus as the input, the output of topic modeling will be slightly different every time.
+  [Topic Modeling](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) allows us to analyze our large corpus through extracting topics. A "topic" consists of a cluster of words that frequently occur together. This form of computational text analysis relies on an algorithm called [“Latent Dirichlet Allocation”](https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2) and contains an aleatory aspect. Therefore, despite using the same corpus as the input, the output of topic modeling will be slightly different every time.
     
     
 ### Our Approach
