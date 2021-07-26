@@ -15,13 +15,11 @@ caption:
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
 
-Our team scraped our data from the Tri-College Digital Collections website, including the full OCRed text and some additional metadata for each issue. We then performed some basic corpus cleaning and analysis using the Natural Language Toolkit ([NLTK](https://www.nltk.org/)).
+Our team scraped OCR text and metadata from each College News issue between 1914 and 1968 on the Tri-College Digital Collections website. We then performed text cleaning and analysis of the corpus using the [Natural Language Toolkit (NLTK)](https://www.nltk.org/). 
 
 <div id="vis"></div>
 
- This visualization shows the size of each issue in our corpus, both in pages (taken from the metadata in the digital collections record) and in number of words. Each point represents an issue of *The College News* and contains a link to that issue's record on the Digital Collections site.
-
- The graph was created using the python library Altair.
+This visualization, created with the Python library Altair, displays the word count of each issue. Visitors can discover more information by hovering over any data point on the map, which will reveal the issue date, volume, number, quantity of words, and object ID. Click on a point to be redirected to the College News issue on the Tri-College Libraries Digital Collections database, which includes the TIFF image scan of the issue, transcript text, and additional metadata.
 
   <script>
     (function(vegaEmbed) {
