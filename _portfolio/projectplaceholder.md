@@ -2,9 +2,10 @@
 title: Invidual Project
 subtitle: Individual Project (Linda--placeholder)
 layout: project
+author: Linda Chen
 image: assets/img/portfolio/placeholderimage.png
 alt: placeholder image with my data
-order: 7
+order: 3
 
 caption:
   title: Individual Project

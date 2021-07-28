@@ -1,13 +1,15 @@
 ---
-title: Map
-subtitle: Locations mentioned in the College News
+title: Individual project
+subtitle: Placeholder
+author: Mr. Syntax Error
 layout: project
 # image: assets/img/portfolio/map-thumb.png 
 alt:
+order: 4
 
 caption:
-  title: Map
-  subtitle: Locations mentioned in the College News
+  title: Individual project
+  subtitle: placeholder
   thumbnail: assets/img/portfolio/map-thumb.png
 
 ---

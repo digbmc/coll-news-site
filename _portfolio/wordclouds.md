@@ -1,14 +1,14 @@
 ---
-title: Project page
-subtitle: This is what I've been up to.
+title: Wordclouds
+subtitle: Each decade of the college news
 image: assets/img/portfolio/owl-cloud.png
 layout: project
 alt:
-order: 5
+order: 
 
 caption:
-  title: Wordcloud
-  subtitle: shaped like an owl
+  title: Wordclouds
+  subtitle: Each decade of *The College News*
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png
 ---
 Changes to content!

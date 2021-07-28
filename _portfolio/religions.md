@@ -4,7 +4,7 @@ layout: project
 author: by Al Nash '23 
 subtitle: Frequency and context of mentions of different religions
 alt:  Chart of religions mentioned in the College News corpus 
-order: 7
+order: 1
 
 caption: 
   title: Religions in the College News
