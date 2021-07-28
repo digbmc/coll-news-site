@@ -1,5 +1,5 @@
 <!-- Portfolio Grid -->
-<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].portfolio.section | default: "portfolio" }}">
+<section class="page-section portfolio" id="{{ site.data.sitetext[site.locale].portfolio.section | default: "projects" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -18,7 +18,7 @@
           </div>
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="{{ project.caption.alt }}">
         </a>
-        <div class="portfolio-caption">
+        <div class="portfolio-caption bg-light">
           <h4>{{ project.caption.title }}</h4>
           <p class="section-subheading">{{ project.caption.subtitle }}</p>
         </div>
