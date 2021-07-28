@@ -15,7 +15,7 @@ caption:
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
 
-Our team scraped OCR text and metadata from each College News issue between 1914 and 1968 on the Tri-College Digital Collections website. We then performed text cleaning and analysis of the corpus using Natural Language Processing (NLP), which is a branch of artificial intelligence that allows computers to understand, interpret, and manipulate human language. We used the [Natural Language Toolkit (NLTK)](https://www.nltk.org/) platform to work with our text data.
+Our team scraped OCR text and metadata from each College News issue between 1914 and 1968 on the Tri-College Digital Collections website. We then performed text cleaning and analysis of the corpus using Natural Language Processing (NLP), which is a branch of artificial intelligence that allows computers to understand, interpret, and manipulate human language. The [Natural Language Toolkit (NLTK)](https://www.nltk.org/) platform permitted us to derive patterns, context, and topics of interest from the text corpus.
 
 <div class="figure justify-content-center"><div id="vis"></div></div>
 
