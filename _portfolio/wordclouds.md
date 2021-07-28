@@ -14,22 +14,22 @@ caption:
 <div class="container-fluid">
   <div class="row">
     <div class="col-lg-4 col-sm-6">
-      <img src="assets/img/portfolio/wordcloud1910s.png">
+      <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1910s.png">
     </div>
     <div class="col-lg-4 col-sm-6">
-      <img src="assets/img/portfolio/wordcloud1920s.png">
+      <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1920s.png">
     </div>
     <div class="col-lg-4 col-sm-6">
-      <img src="assets/img/portfolio/wordcloud1930s.png">
+      <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1930s.png">
     </div>
     <div class="col-lg-4 col-sm-6">
-      <img src="assets/img/portfolio/wordcloud1940s.png">
+      <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1940s.png">
     </div>
     <div class="col-lg-4 col-sm-6">
-      <img src="assets/img/portfolio/wordcloud1950s.png">
+      <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1950s.png">
     </div>
     <div class="col-lg-4 col-sm-6">
-      <img src="assets/img/portfolio/wordcloud1960s.png">
+      <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1960s.png">
     </div>
   </div>
   <div class="container-fluid">
