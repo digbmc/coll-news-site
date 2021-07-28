@@ -13,11 +13,23 @@ caption:
 ---
 <div class="container-fluid">
   <div class="row">
-    <div class="col-lg-4 col-sm-6" style="background-color:lavender;">.col-lg-4</div>
-    <div class="col-lg-4 col-sm-6" style="background-color:lavenderblush;">.col-lg-4</div>
-    <div class="col-lg-4 col-sm-6" style="background-color:lavender;">.col-lg-4</div>
-    <div class="col-lg-4 col-sm-6" style="background-color:lavender;">.col-lg-4</div>
-    <div class="col-lg-4 col-sm-6" style="background-color:lavenderblush;">.col-lg-4</div>
-    <div class="col-lg-4 col-sm-6" style="background-color:lavender;">.col-lg-4</div>
+    <div class="col-lg-4 col-sm-6">
+      <img assets/img/portfolio/wordcloud1910s.png>
+    </div>
+    <div class="col-lg-4 col-sm-6">
+      <img assets/img/portfolio/wordcloud1920s.png>
+    </div>
+    <div class="col-lg-4 col-sm-6">
+      <img assets/img/portfolio/wordcloud1930s.png>
+    </div>
+    <div class="col-lg-4 col-sm-6">
+      <img assets/img/portfolio/wordcloud1940s.png>
+    </div>
+    <div class="col-lg-4 col-sm-6">
+      <img assets/img/portfolio/wordcloud1950s.png>
+    </div>
+    <div class="col-lg-4 col-sm-6">
+      <img assets/img/portfolio/wordcloud1960s.png>
+    </div>
   </div>
   <div class="container-fluid">
