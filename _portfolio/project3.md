@@ -4,8 +4,6 @@ subtitle: Placeholder
 author: Mr. Syntax Error
 auth_year: "'22"
 layout: project
-# image: assets/img/portfolio/map-thumb.png 
-alt:
 order: 4
 
 caption:
