@@ -14,7 +14,7 @@ caption:
 <div class="container-fluid">
   <div class="row">
     <div class="col-lg-4 col-sm-6">
-      <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1910s.png">
+      <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1910s.png" style="width:100%">
     </div>
     <div class="col-lg-4 col-sm-6">
       <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1920s.png">
