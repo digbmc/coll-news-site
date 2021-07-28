@@ -3,13 +3,14 @@ title: Wordclouds
 subtitle: Each decade of the college news
 image: assets/img/portfolio/owl-cloud.png
 layout: project
-alt:
+author: DSSF Team
 order: 
 
 caption:
   title: Wordclouds
-  subtitle: Each decade of *The College News*
+  subtitle: By decade, 1910s to 1960s
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png
+  alt: A word cloud shaped like an owl
 ---
 Changes to content!
 
