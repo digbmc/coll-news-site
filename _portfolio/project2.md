@@ -2,7 +2,8 @@
 title: Individual project
 subtitle: Placeholder
 layout: project
-author: Applebee
+author: Applebee Owl
+auth_year: "'68"
 image: assets/img/portfolio/applebee.png
 alt: an owl in a waistcoat
 order: 

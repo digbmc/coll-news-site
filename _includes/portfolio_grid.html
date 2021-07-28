@@ -21,7 +21,7 @@
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
           <p class="text-muted"><strong>{{ project.caption.subtitle }}</strong></p>
-          <p class="text-muted">{{ project.author }}</p>
+          <p class="text-muted">By {{ project.author }} {{ project.auth_year }}</p>
         </div>
       </div>
 	{% endfor %}
