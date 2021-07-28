@@ -1,14 +1,14 @@
 ---
 title: Letters to the Editor # title for the visulization
 layout: project
-subtitle: Learn more about letter cataloging
+subtitle: 
 image: assets/img/portfolio/applebee.png # if using image for viz
 alt: owl with a waistcoat
 order: 6
 
 caption: # info that appears on homepage
   title: Letters to the Editor
-  subtitle: Subtitle here
+  subtitle: Learn more about letter cataloging
   thumbnail: assets/img/portfolio/applebee-thumb.png 
 ---
 
