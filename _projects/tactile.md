@@ -8,10 +8,10 @@ alt: image of wooden map
 order: 5
 
 caption: # info that appears on homepage
-  title: Tactile Visalization 
+  title: Tactile Visualization 
   subtitle: 1931-1949
   thumbnail:  assets/img/portfolio/03-thumbnail.jpg
-  alt: Word cloud in the shape of an owl
+  alt: Wooden map with LED lights depciting the concentration of students graduated from each state
 ---
 <!--  
 insert visualization code or embedding here
