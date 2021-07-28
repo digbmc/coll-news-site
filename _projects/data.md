@@ -17,7 +17,7 @@ caption:
 
 <div class="figure justify-content-center"><div id="vis"></div></div>
 
-This visualization, created with the Python library [Altair](https://altair-viz.github.io/), displays the word count of each issue. Visitors can discover more information by hovering over any data point on the graph, which will reveal the issue date, volume, number, quantity of words, and object ID. Click on a point to be redirected to the College News issue on the [Tri-College Libraries Digital Collections database](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news), which includes the TIFF image scan of the issue, transcript text, and additional metadata.
+This visualization, created with the Python library [Altair](https://altair-viz.github.io/), displays the word count of each issue. Visitors can discover more information by hovering over any data point on the graph, which will reveal the issue date, volume, number, quantity of words, and object ID. Click on a point to be redirected to the College News issue on the [Tri-College Libraries Digital Collections website](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news), which includes the TIFF image scan of the issue, transcript text, and additional metadata.
 
   <script>
     (function(vegaEmbed) {
