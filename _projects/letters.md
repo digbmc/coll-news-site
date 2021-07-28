@@ -1,7 +1,7 @@
 ---
 title: Letters to the Editor # title for the visulization
 layout: project
-subtitle: Subtitle goes here
+subtitle: Learn more about letter cataloging
 image: assets/img/portfolio/applebee.png # if using image for viz
 alt: owl with a waistcoat
 order: 6
