@@ -1,11 +1,11 @@
 ---
-title: Individual project
-subtitle: Placeholder
+title: Negro and Related Words in The College News
+subtitle: View their frequency and context
 layout: project
-author: Applebee Owl
-auth_year: "'68"
+author: Marianela Luna-Torrado
+auth_year: "'24"
 image: 
-alt: an owl in a waistcoat
+alt:
 order: 
 
 caption:
