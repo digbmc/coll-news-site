@@ -25,16 +25,16 @@ I used the [Topic Modeling Tool](https://github.com/senderle/topic-modeling-tool
 
 ## Topics and Associated Keywords
 
-0 - mawr rhoads art league bryn merion radnor denbigh alliance interfaith
-1 - art catholic jewish jew time greek roman church period century
-2 - room lecture mr common dr college interfaith bryn university mawr
-3 - hindu moslem american government india school catholic woman british country
-4 - year president interfaith association freshman hall committee league council student
-5 - jew arab jewish state palestine mr country world german problem
-6 - religion buddhism zen life mr confucianism nature page china man
-7 - religion islam god christianity muslim judaism christian people life born
-8 - interfaith student group church religious discussion service campus jewish faith
-9 - jewish book philosophy catholic judaism jew modern study life rabbi
+0. mawr rhoads art league bryn merion radnor denbigh alliance interfaith
+1. art catholic jewish jew time greek roman church period century
+2. room lecture mr common dr college interfaith bryn university mawr
+3. hindu moslem american government india school catholic woman british country
+4. year president interfaith association freshman hall committee league council student
+5. jew arab jewish state palestine mr country world german problem
+6. religion buddhism zen life mr confucianism nature page china man
+7. religion islam god christianity muslim judaism christian people life born
+8. interfaith student group church religious discussion service campus jewish faith
+9. jewish book philosophy catholic judaism jew modern study life rabbi
 
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
