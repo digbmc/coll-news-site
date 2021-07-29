@@ -9,7 +9,7 @@ caption:
   title: Wordclouds
   subtitle: By decade, 1910s to 1960s
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png
-  alt: A word cloud shaped like an owl
+  alt: Word clouds shaped like owls
 ---
 <div class="container-fluid">
   <div class="row">
@@ -32,4 +32,4 @@ caption:
       <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1960s.png?raw=true" class="img-responsive">
     </div>
   </div>
-  <div class="container-fluid">
+ 
