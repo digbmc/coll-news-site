@@ -42,23 +42,24 @@ en: &DEFAULT_EN
       - title: "Python & Data Management Training"
         year: "Stage 1"
         desc: "The Digital Scholarship Summer Fellows arrived with varying degrees of technological experience and exposure to digital scholarship. To ensure each individual was equipped with the knowledge needed to participate in the program, the first three weeks on site were spent navigating laptop files with command line and growing acclimated with Python fundamentals. Learning Python basics allowed the fellows to engage with data analysis methods such as [web scraping](https://www.techopedia.com/definition/5212/web-scraping), [data visualization](https://www.techopedia.com/definition/30180/data-visualization), [distant reading](https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of the College News corpus, and other tools vital to the project."
-        image: assets/img/timeline/1.jpg
-        alt:
+      #  image: assets/img/timeline/1.jpg
+        color: blue
       - title: "Research"
         year: "Stage 2"
         desc: "In the early stages of research, team members spent substantial time exploring issues of the College News in order to identify topics of interest for our collaborative and individual research projects. Fellows then began the process of transforming their topics of interest into quantitative data through experimentation with [data cleaning](https://www.sisense.com/glossary/data-cleaning/), [Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1), [topic modeling](https://monkeylearn.com/blog/introduction-to-topic-modeling/), keyword searching, and context searching. The team also decided upon a tactile visualization — a flat wooden map with LED lights depicting the concentration of graduated students from each U.S. state. This was made possible by extracting the place names attached to a number of graduation issues between 1935 and 1968."
-        image: assets/img/timeline/2.jpg
-        alt:
+       # image: assets/img/timeline/2.jpg
+        color: blueviolet
+       # alt:
       - title: "Development"
         year: "Stage 3"
         desc: "The development stage consisted of many disparate components that individual members were tasked with completing. Some team members exercised their newly acquired coding capabilities by supporting back-end work, while others chose to gather more experience with HTML and CSS by working on front-end website development. Throughout this stage, individual and collaborative projects were refined while website templates and features were evaluated for use."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
+        #image: assets/img/timeline/3.jpg
+        color: red
       - title: "Publication"
         year: "Stage 4"
         desc: "To prepare for publication, the fellows used [Jekyll](https://jekyllrb.com/) —  a tool that transforms plain text into a static website — to find a fitting template, make appropriate edits, and deploy the Github-hosted project website. Additionally.. (insert Makerspace information here after we get closer to the finish line)"
-        image: assets/img/timeline/4.jpg
-        alt:
+        #image: assets/img/timeline/4.jpg
+        color: orange
         # you can enforce the alignment
         align: right
     end: "Project Conclusion"
