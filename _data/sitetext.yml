@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     subtitle: "Our project deliverables and goals"
-    text: "The digital collection of [The College News](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news), a Bryn Mawr student publication active from 1914 to 1968, is a rich resource for studying institutional history over a crucial period of social change. This resource was used by the 2021 Digital Scholarship Fellows to create a corpus, two web-based visualizations, and a tactile visualization. Specifically, computational methods extracted names, places, and terms from The College News with the goal of simplifying access to marginalized stories."
+    text: "The digital collection of [The College News](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news), a Bryn Mawr College student publication active from 1914 to 1968, is a valuable asset for studying institutional history over a crucial period of social change. The 2021 Digital Scholarship Fellows used this resource to create a corpus, two web-based visualizations, and a tactile visualization. The team executed these projects by using computational methods to extract names, places, and terms from The College News with the goal of simplifying access to marginalized stories."
     section: about
 
   projects:
