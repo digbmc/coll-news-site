@@ -32,5 +32,4 @@ caption:
        <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1960s.png?raw=true" class="img-responsive">
      </div>
    </div>
-   <div class="container-fluid">
- 
+</div>
