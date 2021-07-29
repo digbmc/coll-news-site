@@ -11,8 +11,8 @@ order:
 caption:
   title: Individual project
   subtitle: Placeholder
-  thumbnail: assets/img/portfolio/applebee-thumb.png
-  alt: owl in a waistcoat
+  thumbnail: assets/img/portfolio/mlt-draft-viz-pic.png
+  alt: 
 ---
 
 <div id="vis"></div>
