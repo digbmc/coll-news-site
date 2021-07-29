@@ -1,5 +1,5 @@
 ---
-title: "Negro" and Related Words in The College News
+title: "'Negro' and Related Words in The College News"
 subtitle: View their frequency and context
 layout: project
 author: Marianela Luna-Torrado
@@ -9,7 +9,7 @@ alt:
 order: 
 
 caption:
-  title: "Negro" in The College News
+  title: "'Negro' in The College News"
   subtitle: View frequency and context
   thumbnail: assets/img/portfolio/mlt-draft-viz-pic.png
   alt: 
