@@ -22,8 +22,6 @@ caption:
      <div class="col-lg-4 col-sm-6">
        <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1930s.png?raw=true" class="img-fluid">
      </div>
-  </div>
-  <div class="row">
      <div class="col-lg-4 col-sm-6">
        <img src="https://github.com/digbmc/coll-news-site/blob/main/assets/img/portfolio/wordcloud1940s.png?raw=true" class="img-fluid">
      </div>
