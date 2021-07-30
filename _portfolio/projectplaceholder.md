@@ -1,17 +1,17 @@
 ---
-title: Invidual Project
-subtitle: Individual Project (Linda--placeholder)
+title: Mentions of Cigarette and Smoking in The College News
 layout: project
-author: Linda Chen
-auth_year: '23
-image: assets/img/portfolio/placeholderimage.png
-alt: placeholder image with my data
+author: Al Nash
+auth_year: "'23"
+subtitle: Relative Frequency Visualized in a Bar Graph
+alt: Individual Project
 order: 3
 
-caption:
-  title: Mention of Smoking and Cigarette in The College News Over Time
+caption: 
+  title: Mentions of Cigarette and Smoking in The College News
   subtitle: Relative Frequency Visualized in a Bar Graph
-  thumbnail:   
+  thumbnail: assets/img/portfolio/image.png
+  alt: Individual Project
 ---
 
  <div id="vis"></div>
