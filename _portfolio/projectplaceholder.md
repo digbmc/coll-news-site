@@ -12,6 +12,7 @@ caption:
   title: Mention of Smoking and Cigarette in The College News Over Time
   subtitle: [placeholder] Relative Frequency Visualized in a Bar Graph
   thumbnail: assets/img/portfolio/placeholderimage.png
+  
 ---
 
 <div id="vis">
