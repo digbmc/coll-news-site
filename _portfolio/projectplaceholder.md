@@ -1,7 +1,7 @@
 ---
 title: Mentions of Cigarette and Smoking in The College News
 layout: project
-author: Al Nash
+author: Linda Chen
 auth_year: "'23"
 subtitle: Relative Frequency Visualized in a Bar Graph
 alt: Individual Project
