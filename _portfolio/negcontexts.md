@@ -17,9 +17,9 @@ caption:
 
 <div id="vis"></div>
 
-Use this area to add your visualization (an image, an embed, or code) and describe your project. 
+Need to write up how to use and reason for topic.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+I began by using Voyant to search our corpus for different race related words. The word 'negro' and its various forms appeared several times, hence my topic focus. To learn further about these words, I wrote a script that searched every issue in the corpus for a keyword and its count. This information was saved to a CSV file and showed that many issues didn't mention the keyword at all. I then wrote another script that searched every issue in the corpus for a keyword, and if an issue had it, grabbed its context (100 characters before and after the keyword).  These two scripts were eventually combined into one new script. I adjusted the new script so it did the functions described previously plus grabbed the first and last contexts for issues with more than one instance of a keyword. This information was saved to a CSV file once more. Next steps: cleaning in OpenRefine, using Altair.
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
