@@ -15,14 +15,11 @@ caption:
   
 ---
 
-<div id="vis">
+ <div id="vis"></div>
 
   I have always been interested in discovering trends and patterns within our volumious corpus, so at the initial stage of my individual project, I ran a few keyword searches through the whole corpus using python library [Regular Expression (RegEx)](https://docs.python.org/3/library/re.html). I chose to look into the frequency of the word "cigarette" mostly because of the abundance of tobacco ads in The College News. The keyword search of "cigarette" and "smoking" returned over 2800 results--a shockingly high number to my generation considering its nowadays well-known negative impact on health. After a casual discussion with a few members on the project team, I realized the frequency of smoking related terms might form a pattern that potentially correlates to national policies concerning the tobacco industry during the runtime of The College News (1914-1968).
   To take the next step with my data, I imported my csv file containing the results of the keyword search to [Pandas](https://pandas.pydata.org/), a python library for data analysis, as a DataFrame, and calculated the relative frequency of smoking and cigarette by dividing their yearly counts by the total wordcount of all College News issues published that year.
   Finally, I graphed my data using [Altair](https://altair-viz.github.io/), a python library for interactive data visualization, to make the bar graph above (to be elaborated, and if i manage to have D3 load my data I'll do a screenshot of my graph and put it here as well).
-
-
-</div>
 
 
 
