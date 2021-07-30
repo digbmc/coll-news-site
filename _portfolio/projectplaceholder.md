@@ -118,6 +118,3 @@ caption:
     })(vegaEmbed);
 
   </script>
-</div>
-
-this is either a placeholder of my project or my actual individual project depending on whether i manage to import my data to D3 on time.
