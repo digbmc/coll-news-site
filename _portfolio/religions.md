@@ -3,13 +3,13 @@ title: Religions in the College News
 layout: project
 author: Al Nash
 auth_year: "'23"
-subtitle: Frequency and context of mentions of different religions
+subtitle: Frequency and topics
 alt:  Chart of religions mentioned in the College News corpus 
 order: 1
 
 caption: 
   title: Religions in the College News
-  subtitle: Frequency and context of mentions of different religions
+  subtitle: Frequency and topics
   thumbnail: assets/img/portfolio/religion-thumb.png 
   alt: Chart of religions mentioned in the College News corpus
 ---
