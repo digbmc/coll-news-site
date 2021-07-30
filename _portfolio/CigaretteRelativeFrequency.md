@@ -5,7 +5,7 @@ author: Linda Chen
 auth_year: "'23"
 subtitle: Relative Frequency Visualized in a Bar Graph
 alt: Individual Project
-order: 3
+order: 2
 
 caption: 
   title: Mentions of Cigarette and Smoking in The College News
