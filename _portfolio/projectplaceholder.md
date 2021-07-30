@@ -3,18 +3,19 @@ title: Invidual Project
 subtitle: Individual Project (Linda--placeholder)
 layout: project
 author: Linda Chen
-auth_year: 
+auth_year: '23
 image: assets/img/portfolio/placeholderimage.png
 alt: placeholder image with my data
 order: 3
 
 caption:
-  title: Individual Project
-  subtitle: Placeholder
+  title: Mention of Smoking and Cigarette in The College News Over Time
+  subtitle: [placeholder] Relative Frequency Visualized in a Bar Graph
   thumbnail: assets/img/portfolio/placeholderimage.png
 ---
 
 <div id="vis"></div>
+
 
 
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
