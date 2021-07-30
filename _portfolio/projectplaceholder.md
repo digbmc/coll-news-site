@@ -14,12 +14,14 @@ caption:
   thumbnail: assets/img/portfolio/placeholderimage.png
 ---
 
-<div style="text-align: center">
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+<div id="vis"></div>
+
+
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
-
   <script>
+  
     (function(vegaEmbed) {
       var spec = {
   "config": {
@@ -102,7 +104,7 @@ caption:
     ]
   }
 };
-      var embedOpt = {"renderer": "svg", "mode": "vega-lite"};
+      var embedOpt = {"mode": "vega-lite"};
 
       function showError(el, error){
           el.innerHTML = ('<div class="error" style="color:red;">'
