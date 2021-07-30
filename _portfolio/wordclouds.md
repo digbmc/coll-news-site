@@ -11,7 +11,7 @@ caption:
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png
   alt: Word clouds shaped like owls
 ---
-The word clouds represent the most frequent words used in the College News issues for each decade. Larger font size corresponds with higher frequency. Stopwords (like "a", "the", and other words) were not included. The word clouds were generated using the Python [WordCloud module](https://amueller.github.io/word_cloud/) and using an owl-shaped image mask. Word clouds are an engaging way to visualize the whole corpus, and we decided to separate them by decade to show how things changed over time without having an overwhelming number of images to look at.
+
 <div class="container-fluid">
    <div class="row">
      <div class="col-lg-4 col-sm-6">
@@ -40,3 +40,4 @@ The word clouds represent the most frequent words used in the College News issue
      </div>
    </div>
 </div>
+The word clouds represent the most frequent words used in the College News issues for each decade. Larger font size corresponds with higher frequency. Stopwords (like "a", "the", and other words) were not included. The word clouds were generated using the Python [WordCloud module](https://amueller.github.io/word_cloud/) and using an owl-shaped image mask. Word clouds are an engaging way to visualize the whole corpus, and we decided to separate them by decade to show how things changed over time without having an overwhelming number of images to look at.
