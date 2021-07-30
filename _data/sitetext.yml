@@ -108,6 +108,7 @@ en: &DEFAULT_EN
     social:
       - url: https://github.com/digbmc/college-news
         icon: "fab fa-github"
+        label: 'Github repository for our data'
 
 
 en-US:
