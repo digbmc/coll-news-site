@@ -37,6 +37,10 @@ caption:
   "data": {"name": "data-0b5625db42c83f249625f7c34b292cc9"},
   "mark": {"type": "bar", "color": "#2F04AC", "size": 15},
   "encoding": {
+    "opacity": {
+      "condition": {"value": 1, "selection": "selector006"},
+      "value": 0.7
+    },
     "tooltip": [
       {"type": "quantitative", "field": "year"},
       {"type": "quantitative", "field": "relative_frequency"}
@@ -47,6 +51,9 @@ caption:
       "axis": {"format": "%", "title": "Relative Frequency"},
       "field": "relative_frequency"
     }
+  },
+  "selection": {
+    "selector006": {"type": "single", "on": "mouseover", "nearest": true}
   },
   "width": 1000,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json",
