@@ -19,9 +19,11 @@ If using an image file for viz, use image variable in header
 --> 
 
 
-Our corpus is a structured data set that includes every issue from the [Bryn Mawr College News](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news). The College News ran from 1914-1968 before becoming what is now known as the [Bi-Co News](https://bicollegenews.com). This newspaper ran weekly (except on national holidays) and is compromised of 1,340 issues.
+The centerpiece of our program is a collection of every issue published by the [Bryn Mawr College News](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news) between 1914 and 1968. The newspaper ran weekly — except on national holidays — and is comprised of 1,340 issues. After 1968, the publication transformed into what is now known as the [Bi-College News](https://bicollegenews.com), a joint journalistic endeavor with Haverford College.
 
-This work was made possible by a 2012 Special Collections project, which digitized the college's newspaper issues and yearbooks. The project was done under the umbrella of Albert M. Greenfield Digital Center for the History of Women's Education which operated as part of Special Collections from 2010 to 2016. The transcriptions of the College News issues used to produce the corpus were created by processing high-resolution TIFF files of digitized microfilm using the optical character recognition [(OCR)](https://searchcontentmanagement.techtarget.com/definition/OCR-optical-character-recognition) program [Tesseract](https://github.com/tesseract-ocr/tesseract).
+While digitally exploring these issues, team members have noted the importance of The College News as a physical medium that served as a vital communicator of social, cultural, and academic happenings on campus. We would also like to acknowledge that our work would not have been possible without the 2012 Special Collections project that sought to preserve these historically rich issues by digitizing them, ultimately providing us access to the OCR transcripts necessary to carry out text mining. These transcripts were created by by processing high-resolution TIFF files of digitized microfilm using the optical character recognition [(OCR)](https://searchcontentmanagement.techtarget.com/definition/OCR-optical-character-recognition) program [Tesseract](https://github.com/tesseract-ocr/tesseract).
+
+To explore our code, visit our [Github repository](https://github.com/digbmc/college-news) or check out the [Tri-College Libraries Digital Collections](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news) to browse issues.
 
 <!--  
 Insert your description for the project here.
