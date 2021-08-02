@@ -24,4 +24,4 @@ To bring this visualization to life, I used a [Named Entity Recognition (NER)](h
 
 While my intention is to leave this map up for individual interpretation, the College News wartime issues seem to reveal that Bryn Mawr's student body was largely comprised of engaged global citizens who delegated attention not only to pressing campus issues, but to salient political concerns that reached beyond the scope of the College as well.
 
-
+Confused by the labels? GPE_clean represents words that underwent data cleaning — meaning that incorrectly spelled, formatted, incomplete, or duplicate place names have been fixed or removed. The widget header that appears when a location is selected represents a College News issue in the following format: “cn year-month-day.txt”.
