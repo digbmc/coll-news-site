@@ -9,7 +9,7 @@ order: 1
 
 caption: # info that appears on homepage
   title: The College News
-  subtitle: The history of the newspaper and text corpus
+  subtitle: History of the newspaper and text corpus
   thumbnail: assets/img/portfolio/corpusimage.jpg
   alt: Front page image of The College News
 ---
