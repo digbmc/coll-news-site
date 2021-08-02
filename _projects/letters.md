@@ -1,14 +1,14 @@
 ---
 title: Letters to the Editor # title for the visulization
 layout: project
-subtitle: 
+subtitle: 152 Issues and Over 600 Letters
 image: assets/img/portfolio/applebee.png # if using image for viz
-alt: owl with a waistcoat
+alt: an owl in a waistcoat
 order: 6
 
 caption: # info that appears on homepage
   title: Letters to the Editor
-  subtitle: Learn more about letter cataloging
+  subtitle: Learn about letter cataloging
   thumbnail: assets/img/portfolio/applebee-thumb.png 
 ---
 
@@ -17,6 +17,8 @@ caption: # info that appears on homepage
 <!--  
 Insert your description for the project below.
 --> 
-In nearly every issue of the College News, a handful of letters to the editor were published, on topics ranging from niche campus controversies to global current affairs and written by students (from Bryn Mawr and other institutions), faculty, staff, and even readers outside the campus community. These letters offer a unique window into student life at the time of their publication – in the case of this project, the 1960s. The Letters to the Editor metadata project was created out of a desire to get more up close and personal with a subsection of the enormous College News corpus, so that we could give more human attention to a smaller dataset and perform manual data cleaning. We chose the Letters to the Editor since we wanted to learn more about how students and the wider Bryn Mawr community (and beyond!) engaged with the College News, and we knew that the 1960s were a unique time both on campus and around the world, so we hoped that focusing on that decade would provide an interesting snapshot for future researchers. 
+Nearly every issue of the College News had a handful of Letters to the Editor written by Bryn Mawr students, faculty, staff, and even readers not in the campus community. These letters provide a glimpse into life at the time of publication as their topics range from niche campus controversies to global affairs.
 
-We cataloged the 1960s Letters to the Editor by creating descriptive metadata for each individual letter, noting the name of the letter writer, the writer’s affiliation (e.g. student, faculty/staff, or outside the BMC community), and the topic of the letter. To ensure consistency in the topics we assigned to each letter, we used Library of Congress Subject Headings, a controlled vocabulary of terms for library cataloging. We also created individual text files of each letter, so that they could be more easily studied or used in further text analysis projects. The metadata and text files will be available via the [GitHub repository](https://github.com/digbmc/college-news) for the College News project.
+The Letters to the Editor project fulfilled a desire to focus on a smaller section of the large College News corpus. By reading letters from issues in the 1960s and creating metadata, the fellows were able to see how readers engaged with the College News during an eventful decade.
+
+Metadata for each letter includes its writer, their affiliation (student, faculty, staff, etc.), and topic. Library of Congress Subject Headings, a standardized list of cataloging terms, were used to categorize letter topics. Additionally, a text file was assembled for each letter so its content could be easily accessed and studied. All metadata and text files will be available on the College News project Github.
