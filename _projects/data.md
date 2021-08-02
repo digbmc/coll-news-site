@@ -12,13 +12,16 @@ caption:
 
 ---
 
+This visualization, created with the [metadata wordcount CSV file](https://github.com/digbmc/college-news/blob/main/data/cn-metadata-wordcounts.csv) located in our [Github repository](https://github.com/digbmc/college-news) and using the Python library [Altair](https://altair-viz.github.io/), displays the word count of each issue. Visitors can discover more information by hovering over any data point on the graph, which will reveal the issue date, volume, number, quantity of words, and object ID. Click on a point to be redirected to the College News issue on the [Tri-College Libraries Digital Collections website](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news), which includes the TIFF image scan of the issue, transcript text, and additional metadata.
+
+
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
 
 <div class="figure justify-content-center"><div id="vis"></div></div>
 
-This visualization, created with the Python library [Altair](https://altair-viz.github.io/), displays the word count of each issue. Visitors can discover more information by hovering over any data point on the graph, which will reveal the issue date, volume, number, quantity of words, and object ID. Click on a point to be redirected to the College News issue on the [Tri-College Libraries Digital Collections website](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news), which includes the TIFF image scan of the issue, transcript text, and additional metadata.
+TEXT HERE BY LUNCH
 
   <script>
     (function(vegaEmbed) {
