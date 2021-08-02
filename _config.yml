@@ -46,3 +46,8 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+
+exclude:
+- notes.md
+- cn-site.code-workspace
+- README.md
