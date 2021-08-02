@@ -6,7 +6,7 @@ order: 2
 
 caption:
   title: Our Data
-  subtitle: Explore the word count of each issue 
+  subtitle: Examine the texts that made our projects possible
   thumbnail: assets/img/portfolio/issue-length-thumb.png
   alt: scatterplot graph 
 
