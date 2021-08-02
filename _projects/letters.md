@@ -2,17 +2,17 @@
 title: Letters to the Editor # title for the visulization
 layout: project
 subtitle: 152 Issues, 600+ Letters
-image: assets/img/portfolio/applebee.png # if using image for viz
-alt: an owl in a waistcoat
+image: assets/img/portfolio/lte-in-issue.png # if using image for viz
+alt: letters to the editor in an issue
 order: 6
 
 caption: # info that appears on homepage
   title: Letters to the Editor
   subtitle: Learn about letter cataloging
-  thumbnail: assets/img/portfolio/applebee-thumb.png 
+  thumbnail: assets/img/portfolio/lte-thumbnail.png
 ---
 
-<img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img/portfolio/applebee.png" alt="an owl in a waistcoat">
+<img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img/portfolio/lte-in-issue.png" alt="letters to the editor in the 2/10/1967 issue">
 
 <!--  
 Insert your description for the project below.
