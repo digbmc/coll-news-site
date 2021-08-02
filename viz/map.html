@@ -18,7 +18,9 @@
         <div id="maptest" style="height: 90vh; width: 100%"></div>
         <script src="GPE_output.geojson"></script>
         <script>
+            // create the map and set initial location and zoom level
             var mymap = L.map('maptest').setView([40, -25], 2);
+            // create the imagery tile (using unique/personal token) and add to the map
             L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
                         attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
                         maxZoom: 18,
@@ -27,16 +29,22 @@
                         zoomOffset: -1,
                         accessToken: 'pk.eyJ1IjoiYW5hc2gxOCIsImEiOiJja3FzajhremIxemYyMm9xcWkxd3QzbnVvIn0.dohQuDA2XclaVtcpD8m9SA'
                     }).addTo(mymap);
+            // bind popup to display when a marker is clicked
             function addPopups(feature, layer) {
                 layer.bindPopup("<h1>Place: "+feature.properties.name+"</h1>"+"<p>Count: "+feature.properties.count+"</p><p>Issues: "+feature.properties.issues+"<\p><p>Variations: "+feature.properties.variations+"</p>");
                 layer.on('click', function(e) {this.openPopup();});
             }
+            // create a marker cluster group
             var markers = L.markerClusterGroup();
+            // create a layer with all of the locations from the geojson file
             var geoLayer = L.geoJSON(locations, 
                             {
+                                // bind a popup for each marker
                                 onEachFeature: addPopups
                             });
+            // add the layer to the marker cluster group
             geoLayer.addTo(markers);
+            // add the marker cluster group to the map
             markers.addTo(mymap);
                 
        </script>
