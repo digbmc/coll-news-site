@@ -1,7 +1,7 @@
 ---
 title: Letters to the Editor # title for the visulization
 layout: project
-subtitle: 152 Issues and Over 600 Letters
+subtitle: 152 Issues, 600+ Letters
 image: assets/img/portfolio/applebee.png # if using image for viz
 alt: an owl in a waistcoat
 order: 6
