@@ -5,5 +5,5 @@ second: "#381BC6" # use for spot color/link text on light backgrounds
 #black: "#000"
 
 #Image Customization
-header-image: "coll-news-site/assets/img/PAB_Canaday_043_01.png"
-contact-image: "coll-news-site/assets/img/PAB_Canaday_043_01.png"
+header-image: coll-news-site/assets/img/PAB_Canaday_043_01.png
+contact-image: coll-news-site/assets/img/PAB_Canaday_043_01.png
