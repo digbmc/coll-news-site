@@ -69,7 +69,9 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     text: The 2021 <a href="https://digitalscholarship.blogs.brynmawr.edu/digital-scholarship-summer-fellows-program/">Digital Scholarship Summer Fellows Program</a>
-    subtext: "As one of our goals for this project is to help raise awareness towards the lack of representation in Bryn Mawr history, and providing platforms for underrepresented voices. First, we would like to recognize that Bryn Mawr College operates on Lenape land. Therefore, we would like to respect and honor to the caretakers of this land, from time immemorial until now, and into the future. Secondly, we would like to raise awareness that the voices portrayed in the College News are primarily the voices of white students at Bryn Mawr College. Therefore, we recognize that our data is missing the valuable perspectives of Black, Indigenous, People of Color (BIPOC) students. Special thanks to Allison Mills, Bronwen Densmore, and Molly Kuchler for offering their support as project consultants."
+    subtext: "As one of our goals for this project is to help raise awareness towards the lack of representation in Bryn Mawr history, and providing platforms for underrepresented voices. First, we would like to recognize that Bryn Mawr College operates on Lenape land. Therefore, we would like to respect and honor to the caretakers of this land, from time immemorial until now, and into the future. Secondly, we would like to raise awareness that the voices portrayed in the College News are primarily the voices of white students at Bryn Mawr College. Therefore, we recognize that our data is missing the valuable perspectives of Black, Indigenous, People of Color (BIPOC) students. 
+    
+    Special thanks to Allison Mills, Bronwen Densmore, and Molly Kuchler for offering their support as project consultants."
     section: team
     people:
       - name: "Alice McGrath"
