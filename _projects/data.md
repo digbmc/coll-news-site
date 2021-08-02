@@ -12,7 +12,7 @@ caption:
 
 ---
 
-This visualization, created with the [metadata wordcount CSV file](https://github.com/digbmc/college-news/blob/main/data/cn-metadata-wordcounts.csv) located in our [Github repository](https://github.com/digbmc/college-news) and using the Python library [Altair](https://altair-viz.github.io/), displays the word count of each issue. Visitors can discover more information by hovering over any data point on the graph, which will reveal the issue date, volume, number, quantity of words, and object ID. Click on a point to be redirected to the College News issue on the [Tri-College Libraries Digital Collections website](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news), which includes the TIFF image scan of the issue, transcript text, and additional metadata.
+This visualization, created with the [metadata wordcount CSV file](https://github.com/digbmc/college-news/blob/main/data/cn-metadata-wordcounts.csv) located in our [Github repository](https://github.com/digbmc/college-news) and by using the Python library [Altair](https://altair-viz.github.io/), displays the word count of each issue. Visitors can discover more information by hovering over any data point on the graph, which will reveal the issue date, volume, number, quantity of words, and object ID. Click on a point to be redirected to the College News issue on the [Tri-College Libraries Digital Collections website](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news), which includes the TIFF image scan of the issue, transcript text, and additional metadata.
 
 
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
@@ -21,7 +21,11 @@ This visualization, created with the [metadata wordcount CSV file](https://githu
 
 <div class="figure justify-content-center"><div id="vis"></div></div>
 
-TEXT HERE BY LUNCH
+Working with the College News issues from 1914-1968 proved to be a valuable but arduous process, even with the help of computational text analysis tools. In order to compile our corpus, we extracted text from the OCR transcipts of newspaper issues present on the Tri-College Libraries Digital Collections website using the BeautifulSoup Python library. While our project would not have been possible without these transcipts, they bear a multitude of errors. OCR systems were designed to perform best when identifying crisp black text on a white background, so when scans have blurred, skewed, or discolored images — like our collection of imperfect College News issues — there are inevitable lapses in accuracy.
+
+In order to mitigate any issues that might arise from incorrrect OCR text — and make the corpus more grammatically homogenous and easily searchable — the team participated in text cleaning. The process entailed running the corpus through a [code](https://github.com/digbmc/college-news/blob/main/corpus-cleaning/text-cleaning.py) that removes accents, symbols, hyphens, and random strings of characters from the text. It also allowed us to lemmatize, which means we were able to group together different forms of the same word.
+
+Once the College New corpus was cleaned and prepared for use, the Fellows were able to use this data as a starting point for their individual coding and visualization projects. (add more in afternoon here)
 
   <script>
     (function(vegaEmbed) {
