@@ -11,7 +11,7 @@ caption: # info that appears on homepage
   title: Our Corpus
   subtitle: About the College News Corpus
   thumbnail: assets/img/portfolio/corpusimage.jpg
-  alt: college news corpus
+  alt: Front page image of The College News
 ---
 <!--  
 insert visualization code or embedding here
@@ -26,5 +26,7 @@ This work was made possible by a 2012 Special Collections project, which digitiz
 <!--  
 Insert your description for the project here.
 --> 
+
+<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.baseurl }}/projects/data.html">Data</a>
 
 
