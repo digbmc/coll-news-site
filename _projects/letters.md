@@ -18,8 +18,10 @@ To use an image: add relative url and alt text below and uncomment/copy paste
 <img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img" alt="">
 
 --> 
-
-<img class="img-fluid d-block mx-auto w-75" src="{{ site.baseurl }}/assets/img/portfolio/lte-in-issue.PNG" alt="letters to the editor section of college news issue from february 10th, 1967">
+<figure>
+    <img class="img-fluid d-block mx-auto w-75" src="{{ site.baseurl }}/assets/img/portfolio/lte-in-issue.PNG" alt="letters to the editor section of college news issue from february 10th, 1967"/>
+    <figcaption>Some Letters to the Editor in the College News issue from February 10th, 1967.</figcaption>
+</figure>
 
 Nearly every issue of the College News had a handful of Letters to the Editor written by Bryn Mawr students, faculty, staff, or even readers not in the campus community. These letters provide a glimpse into life at the time of publication as their topics range from niche campus controversies to global affairs.
 
