@@ -12,8 +12,6 @@ caption: # info that appears on homepage
   thumbnail: assets/img/portfolio/lte-thumbnail.png
 ---
 
-<img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img/portfolio/lte-in-issue.png" alt="letters to the editor in the 2/10/1967 issue">
-
 <!--  
 Insert your description for the project below.
 --> 
