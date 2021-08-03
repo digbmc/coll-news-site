@@ -19,7 +19,7 @@ To use an image: add relative url and alt text below and uncomment/copy paste
 
 --> 
 
-<img class="img-fluid d-block mx-auto" src="/digbmc/coll-news-site/blob/main/assets/img/portfolio/lte-in-issue.PNG" alt="letters to the editor in an issue">
+<img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img/lte-in-issue.png" alt="letters to the editor in an issue">
 
 Nearly every issue of the College News had a handful of Letters to the Editor written by Bryn Mawr students, faculty, staff, and even readers not in the campus community. These letters provide a glimpse into life at the time of publication as their topics range from niche campus controversies to global affairs.
 
