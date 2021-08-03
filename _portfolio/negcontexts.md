@@ -5,14 +5,14 @@ layout: project
 author: Marianela Luna-Torrado
 auth_year: "'24"
 image: 
-alt: 'negro' and related words project
+alt:
 order: 
 
 caption:
   title: "'Negro' and Related Words"
   subtitle: View their frequency and context in the College News
   thumbnail: assets/img/portfolio/mlt-draft-viz-pic.png
-  alt: 
+  alt: 'negro' and related words project
 ---
 
 <div id="vis"></div>
