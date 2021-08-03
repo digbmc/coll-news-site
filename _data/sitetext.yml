@@ -40,24 +40,24 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Python & Data Management Training"
-        year: "Stage 1"
-        desc: "The Digital Scholarship Summer Fellows arrived with varying degrees of technological experience and exposure to digital scholarship. To ensure each individual was equipped with the knowledge needed to participate in the program, the first three weeks on site were spent navigating laptop files with command line and growing acclimated with Python fundamentals. Learning Python basics allowed the fellows to engage with data analysis methods such as [web scraping](https://www.techopedia.com/definition/5212/web-scraping), [data visualization](https://www.techopedia.com/definition/30180/data-visualization), [distant reading](https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of the College News corpus, and other tools vital to the project."
+       # year: "Stage 1"
+        desc: "The Digital Scholarship Summer Fellows arrived with varying degrees of technological experience and exposure to digital scholarship. To equip each individual with skills needed to complete the project, the cohort spent the first three weeks primarily learning Python fundamentals with a focus of data analysis methods such as [web scraping](https://www.techopedia.com/definition/5212/web-scraping), [data visualization](https://www.techopedia.com/definition/30180/data-visualization), [distant reading](https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of the College News corpus, and other tools vital to the project."
       #  image: assets/img/timeline/1.jpg
         color: blue
       - title: "Research"
-        year: "Stage 2"
-        desc: "In the early stages of research, team members spent substantial time exploring issues of the College News in order to identify topics of interest for our collaborative and individual research projects. Fellows then began the process of transforming their topics of interest into quantitative data through experimentation with [data cleaning](https://www.sisense.com/glossary/data-cleaning/), [Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1), [topic modeling](https://monkeylearn.com/blog/introduction-to-topic-modeling/), keyword searching, and context searching. The team also decided upon a tactile visualization — a flat wooden map with LED lights depicting the concentration of graduated students from each U.S. state. This was made possible by extracting the place names attached to a number of graduation issues between 1935 and 1968."
+       # year: "Stage 2"
+        desc: "In the early stages of research, team members spent substantial time exploring The College News to identify topics of interest for both collaborative and individual research projects. Fellows then began transforming their topics of interest into quantitative data through [data cleaning](https://www.sisense.com/glossary/data-cleaning/), [Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1), [topic modeling](https://monkeylearn.com/blog/introduction-to-topic-modeling/), keyword searching, and context searching. The team also decided upon a tactile project visualizing the concentration of Bryn Mawr graduates from each U.S. state. This data was collected through extracting place names in The College News graduation issues between 1935 and 1968."
        # image: assets/img/timeline/2.jpg
         color: blueviolet
        # alt:
       - title: "Development"
-        year: "Stage 3"
-        desc: "The development stage consisted of many disparate components that individual members were tasked with completing. Some team members exercised their newly acquired coding capabilities by supporting back-end work, while others chose to gather more experience with HTML and CSS by working on front-end website development. Throughout this stage, individual and collaborative projects were refined while website templates and features were evaluated for use."
+       # year: "Stage 3"
+        desc: "Based on individual interests, some team members exercised their newly acquired coding skills by supporting data analysis and visualization, while others worked on front-end website development. Throughout this stage, individual and collaborative projects were refined while website templates and features were evaluated for use."
         #image: assets/img/timeline/3.jpg
         color: red
       - title: "Publication"
-        year: "Stage 4"
-        desc: "To prepare for publication, the fellows used [Jekyll](https://jekyllrb.com/) —  a tool that transforms plain text into a static website — to find a fitting template, make appropriate edits, and deploy the Github-hosted project website. Additionally.. (insert Makerspace information here after we get closer to the finish line)"
+       # year: "Stage 4"
+        desc: "To present their findings, the fellows used [Jekyll](https://jekyllrb.com/) —  a tool that transforms plain text into a static website — to find a fitting template, make appropriate edits, and deploy the Github-hosted project website. Additionally.. (insert Makerspace information here after we get closer to the finish line)"
         #image: assets/img/timeline/4.jpg
         color: orange
         # you can enforce the alignment
@@ -73,7 +73,7 @@ en: &DEFAULT_EN
     text: |
       Special thanks to Allison Mills, Bronwen Densmore, and Molly Kuchler for offering their support as project consultants.
 
-      As one of our goals for this project is to help raise awareness towards the lack of representation in Bryn Mawr history, and providing platforms for underrepresented voices. First, we would like to recognize that Bryn Mawr College operates on Lenape land. Therefore, we would like to respect and honor to the caretakers of this land, from time immemorial until now, and into the future. Secondly, we would like to raise awareness that the voices portrayed in the *College News* are primarily the voices of white students at Bryn Mawr College. Therefore, we recognize that our data is missing the valuable perspectives of Black Indigenous People of Color [(BIPOC)](https://www.thebipocproject.org) students.
+      As one of our goals for this project is to help raise awareness towards the lack of representation in Bryn Mawr history, and providing platforms for underrepresented voices. First, we would like to recognize that Bryn Mawr College operates on Lenape land. Therefore, we would like to respect and honor to the caretakers of this land, from time immemorial until now, and into the future. Secondly, we would like to raise awareness that the voices portrayed in the *College News* are primarily the voices of white students at Bryn Mawr College. Therefore, we recognize that our data is missing the valuable perspectives of Black, Indigenous, People of Color (BIPOC) students.
     section: team
     people:
       - name: "Alice McGrath"
