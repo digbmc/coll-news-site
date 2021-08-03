@@ -12,8 +12,10 @@
 en: &DEFAULT_EN
   nav:
     - title: "About"
-    - section: about
-    - title: "Portfolio"
+      section: about
+    - title: "Corpus"
+      section: projects
+    - title: "Visualizations"
       section: portfolio
     - title: "Timeline"
       section: timeline
