@@ -5,7 +5,7 @@ layout: project
 author: Marianela Luna-Torrado
 auth_year: "'24"
 image: 
-alt:
+alt: 'negro' and related words project
 order: 
 
 caption:
