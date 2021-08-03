@@ -2,7 +2,7 @@
 title: Letters to the Editor # title for the visulization
 layout: project
 subtitle: 152 Issues, 600+ Letters
-image: assets/img/portfolio/lte-in-issue.png # if using image for viz
+image:
 alt: letters to the editor project
 order: 6
 
@@ -20,7 +20,7 @@ To use an image: add relative url and alt text below and uncomment/copy paste
 --> 
 <figure>
     <img class="img-fluid d-block mx-auto w-75" src="{{ site.baseurl }}/assets/img/portfolio/lte-in-issue.PNG" alt="letters to the editor section of college news issue from february 10th, 1967"/>
-    <figcaption>Some Letters to the Editor in the College News issue from February 10th, 1967.</figcaption>
+    <figcaption>Some Letters to the Editor in a College News issue from February 10th, 1967.</figcaption>
 </figure>
 
 Nearly every issue of the College News had a handful of Letters to the Editor written by Bryn Mawr students, faculty, staff, or even readers not in the campus community. These letters provide a glimpse into life at the time of publication as their topics range from niche campus controversies to global affairs.
