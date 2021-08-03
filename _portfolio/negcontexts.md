@@ -12,7 +12,7 @@ caption:
   title: "'Negro' and Related Words"
   subtitle: View their frequency and context in the College News
   thumbnail: assets/img/portfolio/mlt-draft-viz-pic.png
-  alt: 'negro' and related words project
+  alt: "'negro' and related words project"
 ---
 
 <div id="vis"></div>
