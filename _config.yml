@@ -51,3 +51,4 @@ exclude:
 - notes.md
 - cn-site.code-workspace
 - README.md
+- proj-template.md

@@ -15,10 +15,9 @@ caption: # info that appears on homepage
   alt: Wooden map with LED lights depciting the concentration of students graduated from each state
 ---
 <!--  
-insert visualization code or embedding here
-If using an image file for viz, use image variable in header
---> 
-
+To use an image: add relative url and alt text below and uncomment/copy paste
+<img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img" alt="">
+-->
 
 Our tactile visualization was a chance for our team to create a hands-on, physical representation of our corpus data. For this project, we carved a map of the United States onto a piece of plywood indicating the specific states and countries which Bryn Mawr graduates from the time period of 1931-1949 hailed from. 
 

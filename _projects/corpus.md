@@ -3,8 +3,8 @@ title: The College News # title for the visulization
 layout: project
 author:  # author of the visualization along with the class year 
 subtitle:
-image:  # if using image for viz
-alt:
+# image:  # if using image for viz
+# alt:
 order: 1 
 
 caption: # info that appears on homepage
@@ -14,9 +14,9 @@ caption: # info that appears on homepage
   alt: Front page image of The College News
 ---
 <!--  
-insert visualization code or embedding here
-If using an image file for viz, use image variable in header
---> 
+To add an image: add relative url and alt text below and uncomment/copy paste
+<img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img" alt="">
+-->
 
 Our team has spent the summer working with every issue published by the [Bryn Mawr College News](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news) between 1914 and 1968. The newspaper ran weekly (except on national holidays) and is comprised of 1,340 issues. After 1968, the publication transformed into what is now known as the [Bi-College News](https://bicollegenews.com), a joint endeavor with Haverford College.
 
