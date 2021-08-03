@@ -16,6 +16,8 @@ caption:
 
 <div id="vis"></div>
 <br>
+## Motivations and Process
+
 This graph shows how frequently different religions were mentioned in the College News corpus. Protestant Christianity was excluded because Bryn Mawr College was founded as a Protestant Christian (specifically, Quaker) institution and this project aimed to bring attention onto other religious groups.
 
 The motivation for this project was a desire to know more about religious diversity in the history of Bryn Mawr. While I quickly realized that I would not be able to get a huge amount of information about different religious practices at Bryn Mawr in the early 20th century, I was still able to explore attitudes toward religion and ways that students were engaging with religion on campus and through the College News. 
