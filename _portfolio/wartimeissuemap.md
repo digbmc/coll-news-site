@@ -18,7 +18,7 @@ Visitors can add or remove map layers by selecting the checkboxes in the panel t
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ep4CjIcVGGvyQXFljUXzaUUpYhjsi-iI" width="640" height="480"></iframe>
 </div>
 
-My interest in Bryn Mawr students' geopolitical awareness began while exploring College News issues written during World War I. I noticed that the tone and scope of focus were quite different from issues published during more carefree, campus-oriented periods of peace — and decided to embark on a more expansive mapping project that depicts international place names in issues published during World War I, World War II, the Korean War and the Vietnam War up to 1968.
+My interest in Bryn Mawr students' geopolitical awareness began while exploring College News issues written during World War I. I noticed that the tone and scope of focus were quite different from issues published during carefree, campus-oriented periods of peace — and decided to embark on a more expansive mapping project that depicts international place names in issues published during World War I (1914-1918), World War II (1939-1945), the Korean War (1950-1953) and the Vietnam War up to 1968. I was only able to track the Vietnam War until 1968 because The College News became the Bi-College News, marking the end of our corpus.
 
 To bring this visualization to life, I used a [Named Entity Recognition (NER)](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da) to identify geopolitical entities (GPEs). I then used the CSV file that was produced to build a [Google MyMaps](https://www.google.com/maps/about/mymaps/) visualization. 
 
