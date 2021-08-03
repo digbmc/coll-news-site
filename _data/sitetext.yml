@@ -39,7 +39,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Python & Data Management Training"
+      - title: "Training"
        # year: "Stage 1"
         desc: "The Digital Scholarship Summer Fellows arrived with varying degrees of technological experience and exposure to digital scholarship. To equip each individual with skills needed to complete the project, the cohort spent the first three weeks primarily learning Python fundamentals with a focus of data analysis methods such as [web scraping](https://www.techopedia.com/definition/5212/web-scraping), [data visualization](https://www.techopedia.com/definition/30180/data-visualization), [distant reading](https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of the College News corpus, and other tools vital to the project."
       #  image: assets/img/timeline/1.jpg
