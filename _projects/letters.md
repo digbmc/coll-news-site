@@ -10,6 +10,7 @@ caption: # info that appears on homepage
   title: Letters to the Editor
   subtitle: Learn about letter cataloging
   thumbnail: assets/img/portfolio/lte-thumbnail.png
+  alt: "letters to the editor project"
 ---
 
 <!--  
