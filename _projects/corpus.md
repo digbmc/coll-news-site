@@ -9,7 +9,7 @@ order: 1
 
 caption: # info that appears on homepage
   title: The College News
-  subtitle: A student-run newspaper
+  subtitle: A Student-Run newspaper
   thumbnail: assets/img/portfolio/corpusimage.jpg
   alt: explanation of the college news
 ---
