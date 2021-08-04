@@ -6,7 +6,7 @@ order: 2
 
 caption:
   title: Data
-  subtitle: 1,340 Issues as Text Files
+  subtitle: 1,340 issues as text files
   thumbnail: assets/img/portfolio/issue-length-thumb.png
   alt: explanation of data
 
