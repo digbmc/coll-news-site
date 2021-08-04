@@ -47,7 +47,7 @@ en: &DEFAULT_EN
         color: blue
       - title: "Research"
        # year: "Stage 2"
-        desc: "In the early stages of research, team members spent substantial time exploring The College News to identify topics of interest for both collaborative and individual research projects. Fellows then began transforming their topics of interest into quantitative data through [data cleaning](https://www.sisense.com/glossary/data-cleaning/), [Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1), [topic modeling](https://monkeylearn.com/blog/introduction-to-topic-modeling/), keyword searching, and context searching. The team also decided upon a tactile project visualizing the concentration of Bryn Mawr graduates from each U.S. state. This data was collected through extracting place names in The College News graduation issues between 1935 and 1968."
+        desc: "In the early stages of research, team members spent substantial time exploring *The College News* to identify topics of interest for both collaborative and individual research projects. Fellows then began transforming their topics of interest into quantitative data through [Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1), [topic modeling](https://monkeylearn.com/blog/introduction-to-topic-modeling/), keyword searching, and context searching. The team also decided upon a critical making project visualizing the concentration of Bryn Mawr graduates from each U.S. state. This data was collected by extracting place names in *College News* graduation issues between 1935 and 1968."
         image: assets/monitor.svg
         color: blueviolet
        # alt:
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         color: red
       - title: "Publication"
        # year: "Stage 4"
-        desc: "To present their findings, the fellows used [Jekyll](https://jekyllrb.com/) —  a tool that transforms plain text into a static website — to find a fitting template, make appropriate edits, and deploy the Github-hosted project website. Additionally.. (insert Makerspace information here after we get closer to the finish line)"
+        desc: "To present their findings, the fellows used [Jekyll](https://jekyllrb.com/) —  a tool that transforms plain text into a static website — to find a fitting template, make appropriate edits, and deploy the Github-hosted project website. Team members also finished crafting their tactile visualization in Park Science Center's Makerspace during this stage."
         image: assets/usa.png
         color: orange
         # you can enforce the alignment
