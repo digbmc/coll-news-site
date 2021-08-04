@@ -20,7 +20,7 @@ To use an image: add relative url and alt text below and uncomment/copy paste
 
 --> 
 <figure>
-    <img class="img-fluid d-block mx-auto w-75" src="{{ site.baseurl }}/assets/img/portfolio/lte-in-issue.PNG" alt="letters to the editor section of college news issue from february 10th, 1967"/>
+    <img class="img-fluid d-block mx-auto w-75" src="{{ site.baseurl }}/assets/img/portfolio/new-lte-in-issue.PNG" alt="letters to the editor section of college news issue from february 10th, 1967"/>
     <figcaption>Some Letters to the Editor in a College News issue from February 10th, 1967.</figcaption>
 </figure>
 
