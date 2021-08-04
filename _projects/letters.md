@@ -24,8 +24,8 @@ To use an image: add relative url and alt text below and uncomment/copy paste
     <figcaption>Some Letters to the Editor in a College News issue from February 10th, 1967.</figcaption>
 </figure>
 
-Nearly every issue of the College News had a handful of Letters to the Editor written by Bryn Mawr students, faculty, staff, or even readers not in the campus community. These letters provide a glimpse into life at the time of publication as their topics range from niche campus controversies to global affairs.
+Nearly every issue of *The College News* had a handful of Letters to the Editor written by Bryn Mawr students, faculty, staff, or even readers not in the campus community. These letters provide a glimpse into life at the time of publication as their topics range from niche campus controversies to global affairs.
 
-The Letters to the Editor project fulfilled a desire to focus on a unique section of the large College News corpus. By reading letters from issues in the 1960s and creating metadata, the fellows were able to see how readers engaged with the College News during an eventful decade.
+The Letters to the Editor project fulfilled a desire to focus on a unique section of the large *College News* corpus. By reading letters from issues in the 1960s and creating metadata, the fellows were able to see how readers engaged with *The College News* during an eventful decade.
 
-Metadata for each letter includes its writer, their affiliation (student, faculty, staff, etc.), and topic. Library of Congress Subject Headings, a standardized list of cataloging terms, were used to categorize letter topics. Additionally, a text file was assembled for each letter so its content could be easily accessed and studied. All metadata and text files will be available on the College News project Github.
+Metadata for each letter includes its writer, their affiliation (student, faculty, staff, etc.), and topic. Library of Congress Subject Headings, a standardized list of cataloging terms, were used to categorize letter topics. Additionally, a text file was assembled for each letter so its content could be easily accessed and studied. All metadata and text files will be available on the College News project [Github](https://github.com/digbmc/college-news/tree/main/letters-to-editor).
