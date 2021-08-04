@@ -1,7 +1,7 @@
 ---
 title: Map
 layout: project
-subtitle: Locations mentioned in *The College News*
+subtitle: Locations mentioned in The College News
 # image: assets/img/portfolio/map-thumb.png 
 alt:
 order: 3
