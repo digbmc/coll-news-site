@@ -9,7 +9,7 @@ order: 1
 
 caption: # info that appears on homepage
   title: The College News
-  subtitle: Bryn Mawr's Newspaper
+  subtitle: A Student Run Newspaper
   thumbnail: assets/img/portfolio/corpusimage.jpg
   alt: the college news project
 ---
