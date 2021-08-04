@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         color: red
       - title: "Publication"
        # year: "Stage 4"
-        desc: "To present their findings, the fellows used [Jekyll](https://jekyllrb.com/) —  a tool that transforms plain text into a static website — to find a fitting template, make appropriate edits, and deploy the Github-hosted project website. Team members also finished crafting their tactile visualization in Park Science Center's Makerspace during this stage."
+        desc: "To present their findings, the fellows used [Jekyll](https://jekyllrb.com/) —  a tool that transforms plain text into a static website — to find a fitting template, make appropriate edits, and deploy the Github-hosted project website. Team members also finished crafting their tactile visualization in Park Science Center's Makerspace."
         image: assets/usa.png
         color: orange
         # you can enforce the alignment
