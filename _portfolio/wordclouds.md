@@ -45,7 +45,7 @@ The word clouds represent the most frequent words used in the College News issue
 
 ## Word Frequency Tables
 
-<h2>1910s</h2>
+### 1910s
 <table style="width:100%">
 <tr>
 	<th>Word</th>
@@ -452,7 +452,8 @@ The word clouds represent the most frequent words used in the College News issue
 	<td>0.18072866730584852</td>
 </tr>
 </table>
-<h2>1920s</h2>
+
+### 1920s
 <table style="width:100%">
 <tr>
 	<th>Word</th>
@@ -859,7 +860,8 @@ The word clouds represent the most frequent words used in the College News issue
 	<td>0.17204740498569676</td>
 </tr>
 </table>
-<h2>1930s</h2>
+
+### 1930s
 <table style="width:100%">
 <tr>
 	<th>Word</th>
@@ -1266,7 +1268,8 @@ The word clouds represent the most frequent words used in the College News issue
 	<td>0.19779116465863453</td>
 </tr>
 </table>
-<h2>1940s</h2>
+
+### 1940s
 <table style="width:100%">
 <tr>
 	<th>Word</th>
@@ -1673,7 +1676,8 @@ The word clouds represent the most frequent words used in the College News issue
 	<td>0.1573538856775851</td>
 </tr>
 </table>
-<h2>1950s</h2>
+
+### 1950s
 <table style="width:100%">
 <tr>
 	<th>Word</th>
@@ -2080,7 +2084,8 @@ The word clouds represent the most frequent words used in the College News issue
 	<td>0.15448693676637637</td>
 </tr>
 </table>
-<h2>1960s</h2>
+
+### 1960s
 <table style="width:100%">
 <tr>
 	<th>Word</th>
