@@ -11,7 +11,7 @@ caption: # info that appears on homepage
   title: The College News
   subtitle: A Student-Run Newspaper
   thumbnail: assets/img/portfolio/corpusimage.jpg
-  alt: the college news project
+  alt: explanation of the college news
 ---
 <!--  
 To add an image: add relative url and alt text below and uncomment/copy paste
