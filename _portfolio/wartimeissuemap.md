@@ -3,7 +3,7 @@ title: Place Names in Wartime Issues # title for the visulization
 layout: project
 author: Avery Matteo 
 auth_year: "'22"  
-subtitle: Locations mentioned in wartime issues of the *College News* corpus
+subtitle: Locations mentioned in wartime issues of the College News corpus
 alt: A map documenting locations mentioned in wartime issues of the College News corpus
 
 caption: # info that appears on homepage
@@ -22,4 +22,4 @@ My interest in Bryn Mawr students' geopolitical awareness began while exploring 
 
 To bring this visualization to life, I used my team member Marianela's [spaCy Named Entity Recognition (NER) code](https://github.com/digbmc/college-news/blob/main/text-mining/cn-gpe-search.py) for Geopolitical Entity (GPE) extraction. She also created a cleaned version of the CSV file that was produced — filtering the results to omit non-place names and unrecognizable words — that I used for my map visualization. Next, I separated this whole-corpus CSV file into chunks encompassing the years associated with each war. I then uploaded these files as individual layers on [Google MyMaps](https://www.google.com/maps/about/mymaps/) so that website visitors have the ability to add or remove layers that represent each wartime period.
 
-While my intention is to leave this map up for individual interpretation, the College News wartime issues seem to reveal that Bryn Mawr's student body was largely comprised of engaged global citizens who delegated attention not only to pressing campus issues, but also to salient political concerns that reached beyond the scope of the College.
+While my intention is to leave this map up for individual interpretation, the *College News* wartime issues seem to reveal that Bryn Mawr's student body was largely comprised of engaged global citizens who delegated attention not only to pressing campus issues, but also to salient political concerns that reached beyond the scope of the College.
