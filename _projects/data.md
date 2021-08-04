@@ -6,7 +6,7 @@ order: 2
 
 caption:
   title: Data
-  subtitle: 1,340 issues as text files
+  subtitle: 1,340 Issues as Text Files
   thumbnail: assets/img/portfolio/issue-length-thumb.png
   alt: explanation of data
 
@@ -16,9 +16,9 @@ The bubble plot below was made with [metadata](https://github.com/digbmc/college
 
 <figure class="figure"><div id="vis"></div></figure>
 
-Working with The College News issues from 1914-1968 proved to be a valuable but arduous process, even with the help of computational text analysis tools. In order to compile our corpus, we extracted text from the OCR transcipts of issues on the Tri-College Libraries Digital Collections website using the BeautifulSoup Python library. While our project would not have been possible without these transcipts, they have a multitude of errors. OCR systems were designed to idenitfy crisp black text on a white background, so when scans like our imperfect College News collection have blurred, skewed, or discolored images, there are inevitable lapses in accuracy.
+Working with the College news proved to be a valuable but challenging process, even with the help of computational text analysis tools. In order to create our [corpus](https://21centurytext.wordpress.com/home-2/special-section-window-to-corpus/what-is-corpus/), we used the Python library [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) to extract each issue's transcript from the Tri-College Libraries Digital Collections website and save it as a text file. While our project would not have been possible without these transcripts, they had many errors. This is because OCR works best with pre-processed images, unlike those available of the College News.
 
-In order to mitigate any issues that might arise from incorrect OCR text — and make the corpus more grammatically homogenous and easily searchable — the team participated in text cleaning. The process entailed running the issues through a [code](https://github.com/digbmc/college-news/blob/main/corpus-cleaning/text-cleaning.py) that removes accents, symbols, hyphens, and random strings of characters from the text. It also allowed us to lemmatize  or group together different forms of the same word. Once the College News corpus was cleaned and prepared for use, team members were able to use this data as a starting point for their individual coding and subsequent visualization projects.
+In order to combat any issues that might arise from incorrect OCR — and make the corpus more grammatically homogenous and easily searchable — the team participated in text cleaning. The process entailed running the issues through a [code](https://github.com/digbmc/college-news/blob/main/corpus-cleaning/text-cleaning.py) that removes accents, symbols, hyphens, and random strings of characters from the text. It also allowed us to lemmatize  or group together different forms of the same word. Once the College News corpus was cleaned and prepared for use, team members were able to use this data as a starting point for their individual coding and subsequent visualization projects. 
 
 
 
