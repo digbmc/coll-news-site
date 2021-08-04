@@ -44,6 +44,8 @@ caption:
 The word clouds represent the most frequent words used in the College News issues for each decade. Larger font size corresponds with higher frequency. Stopwords (like "a", "the", and other words) were excluded. The word clouds were generated using the Python [WordCloud module](https://amueller.github.io/word_cloud/) and using an owl-shaped image mask. We created word clouds because they are an engaging way to visualize the whole corpus, and we separated them by decade to show how word usage changed over time without having an overwhelming number of images.
 
 ## Word Frequency Tables
+
+
 <div class="container-fluid">
    <div class="row">
      <div class="col-lg-4 col-sm-6">
