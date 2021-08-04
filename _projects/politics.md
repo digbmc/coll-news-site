@@ -8,7 +8,7 @@ alt:
 order: 4
 
 caption:
-  title: Political topics
+  title: Political Topics
   subtitle: Issues between 1950-1968
   thumbnail: assets/img/portfolio/50s60s-viz-thumb.png
   alt: explanation of political topics subproject and visualization
@@ -18,12 +18,12 @@ caption:
  <div id="vis"></div>
 
 
-   The abundance of stop words and OCR noise in The College News predicates that the topic modeling tool, when analyzing our corpus, won’t always produce meaningful results. Therefore, we have chosen to only visualize topics containing meaningful content. There are two topics excluded from the line chart due to their lack of specific information: “2. college mawr bryn news ee pa ardmore 5 ave editor ae page 3 year 2 1 company lancaster wednesday weeks” and “9. page 30 8 1 continued 4 2 room 5 col 3 00 7 music april march 15 6 common friday”.
+   The abundance of stop words and OCR noise in *The College News* predicates that the topic modeling tool, when analyzing our corpus, won’t always produce meaningful results. Therefore, we have chosen to only visualize topics containing meaningful content. There are two topics excluded from the line chart due to their lack of specific information: “2. college mawr bryn news ee pa ardmore 5 ave editor ae page 3 year 2 1 company lancaster wednesday weeks” and “9. page 30 8 1 continued 4 2 room 5 col 3 00 7 music april march 15 6 common friday”.
 
 
 ### x-axis: timeline and its context
 
-  Our timeline starts from years 1950 and ends in year 1968, when the Bryn Mawr College News merged with Haverford’s student newspaper. We have chosen this time period for our political topics visualization because we are aware of the history backdrop of the Cold War, Vietnam war, and civil rights movement, and therefore interested in investigating the political awareness and engagement in the Bryn Mawr community during this period of political and social change.
+  Our timeline starts from years 1950 and ends in year 1968, when the *College News* merged with Haverford’s student newspaper. We have chosen this time period for our political topics visualization because we are aware of the history backdrop of the Cold War, Vietnam War, and civil rights movement, and therefore interested in investigating the political awareness and engagement in the Bryn Mawr community during this period of political and social change.
     
     
 ### y-axis: relative frequency
