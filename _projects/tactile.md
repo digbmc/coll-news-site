@@ -11,8 +11,7 @@ caption: # info that appears on homepage
   title: Tactile Visualization 
   subtitle: Concentration of graduated students from each state (1931-1949)
   thumbnail:  assets/img/portfolio/stainedwood.jpg
- 
-  alt: Wooden map with LED lights depciting the concentration of students graduated from each state
+  alt: explanation of tactile subproject and visualization
 ---
 <!--  
 To use an image: add relative url and alt text below and uncomment/copy paste
