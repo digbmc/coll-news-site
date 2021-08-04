@@ -8,8 +8,8 @@ alt: Individual Project
 order: 4
 
 caption: 
-  title: Mentions of Cigarette and Smoking in The College News
-  subtitle: Relative Frequency Visualized in a Bar Graph
+  title: Mentions of Cigarette and Smoking
+  subtitle: Relative Frequency in a Bar Graph
   thumbnail: assets/img/portfolio/image.png
   alt: Individual Project
 ---
