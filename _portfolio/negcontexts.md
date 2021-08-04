@@ -6,7 +6,7 @@ author: Marianela Luna-Torrado
 auth_year: "'24"
 image: 
 alt:
-order: 
+order: 5
 
 caption:
   title: "'Negro' and Related Words"

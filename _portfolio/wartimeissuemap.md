@@ -5,6 +5,7 @@ author: Avery Matteo
 auth_year: "'22"  
 subtitle: Locations mentioned in wartime issues of the College News corpus
 alt: A map documenting locations mentioned in wartime issues of the College News corpus
+order: 3
 
 caption: # info that appears on homepage
   title: Place Names in Wartime Issues

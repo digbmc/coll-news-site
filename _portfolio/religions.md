@@ -5,7 +5,7 @@ author: Al Nash
 auth_year: "'23"
 subtitle: Frequency and topics
 alt:  Chart of religions mentioned in the College News corpus 
-order: 1
+order: 2
 
 caption: 
   title: Religions in the College News

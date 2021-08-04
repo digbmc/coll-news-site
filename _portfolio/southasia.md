@@ -5,6 +5,7 @@ layout: project
 author: Aanandi Murlidharan
 auth_year: "'23"
 image:  # if using image for viz
+order: 1
 
 caption: # info that appears on homepage
   title: South Asian Keywords

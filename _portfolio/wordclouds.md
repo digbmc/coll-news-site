@@ -3,7 +3,7 @@ title: Wordclouds
 subtitle: Each decade of the college news
 layout: project
 author: DSSF Team
-order: 
+order: 6
 
 caption:
   title: Wordclouds
