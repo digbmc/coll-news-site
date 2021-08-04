@@ -59,7 +59,7 @@ en: &DEFAULT_EN
       - title: "Publication"
        # year: "Stage 4"
         desc: "To present their findings, the fellows used [Jekyll](https://jekyllrb.com/) —  a tool that transforms plain text into a static website — to find a fitting template, make appropriate edits, and deploy the Github-hosted project website. Additionally.. (insert Makerspace information here after we get closer to the finish line)"
-        image: assets/usa.svg
+        image: assets/usa.png
         color: orange
         # you can enforce the alignment
         align: right
