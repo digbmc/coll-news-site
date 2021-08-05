@@ -11,7 +11,15 @@ caption:
   thumbnail: assets/img/portfolio/owl-cloud-thumb.png
   alt: Word clouds shaped like owls
 ---
-
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+</style>
 <div class="container-fluid">
    <div class="row">
      <div class="col-lg-4 col-sm-6">
