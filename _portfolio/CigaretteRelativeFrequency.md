@@ -1,5 +1,5 @@
 ---
-title: Mentions of Cigarette and Smoking in The College News
+title: Mentions of "Cigarette" and "Smoking" in *The College News*
 layout: project
 author: Linda Chen
 auth_year: "'23"
@@ -8,7 +8,7 @@ alt: Individual Project
 order: 4
 
 caption: 
-  title: Mentions of Cigarette and Smoking
+  title: Mentions of "Cigarette" and "Smoking""
   subtitle: Relative frequency in a bar graph
   thumbnail: assets/img/portfolio/image.png
   alt: picture of bar graph visualizing frequency of "cigarette" and "smoking"
@@ -17,17 +17,15 @@ caption:
  <div id="vis"></div>
 
 
-   I have always been interested in potential trends and patterns within our volumious corpus, so at the initial stage of my individual project, I ran a few keyword searches through the whole corpus using python library [Regular Expression (RegEx)](https://docs.python.org/3/library/re.html). I chose to look into the frequency of "cigarette" and "smoking" mostly because during the project team's initial exploration of *The College News*, we discovered a large number of tobacco advertisements. I then ran a keyword search of "cigarette" and "smoking", which returned over 2800 results--a shockingly high number to my generation considering tobacco's well-known negative impact on health nowadays. After an informal discussion with the project team, I realized the frequency of smoking related terms in our corpus might correlate to national policies concerning the tobacco industry during the runtime of *The College News* (1914-1968).
-  To further analyze the data I gathered through keyword searching, I imported the csv file containing the search results to [Pandas](https://pandas.pydata.org/), a python library for data analysis, as a DataFrame, and calculated the relative frequency of "smoking" and "cigarette" by dividing their yearly counts by the total wordcount of all issues published that year.
-  Finally, I graphed my data using [Altair](https://altair-viz.github.io/), a python library for interactive data visualization. I chose to make a bar graph with year as the x-variable and relative frequency on the y-axis because I hope this graph can reveal patterns and trends in the fluctuation of cigarette-related content over time. As the graph shows, these contents have been in gradual decline throughout the 1960s, potentially due to relevant legislations and researches against tobaccos during that time period.
+   I have always been interested in potential trends and patterns within our volumious corpus, so at the initial stage of my individual project, I ran a few keyword searches through the whole corpus using [regular expression](https://docs.python.org/3/library/re.html) and python. I chose to look into the frequency of "cigarette" and "smoking" mostly because during the project team's initial exploration of *The College News*, we discovered a large number of tobacco advertisements. I then ran a keyword search of "cigarette" and "smoking", which returned over 2800 results--a shockingly high number to my generation considering tobacco's well-known negative impact on health nowadays. After an informal discussion with the project team, I realized the frequency of smoking related terms in our corpus might correlate to national policies concerning the tobacco industry during the runtime of *The College News* (1914-1968).
+  To further analyze the data I gathered through keyword searching, I imported the csv file containing the search results to [Pandas](https://pandas.pydata.org/), a python library for data analysis, as a data frame, and calculated the relative frequency of "smoking" and "cigarette" by dividing their yearly counts by the total wordcount of all issues published that year.
+  Finally, I graphed my data using [Altair](https://altair-viz.github.io/), a python library for interactive data visualization. I chose to make a bar graph with year as the x-variable and relative frequency on the y-axis because I hope this graph can reveal patterns and trends in the fluctuation of cigarette-related content over time. As the graph shows, mentions of cigarettes and smoking have been in steep decline throughout the 1960s with the notable nadir in 1964 potentially as a result of ["the Surgeon General’s 1964 Report on Smoking and Health”](https://www.pbs.org/newshour/health/first-surgeon-general-report-on-smokings-health-effects-marks-50-year-anniversary), a research highlighting negative effects of tobacco.
   
   
-### Further Readings on Tobacco-Related Researches and Policies
-- “Achievements in Public Health, 1900-1999: Tobacco Use -- United States, 1900-1999.” Accessed August 5, 2021. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4843a2.htm.
-- Cummings, K. Michael, and Robert N. Proctor. “The Changing Public Image of Smoking in the United States: 1964–2014.” Cancer Epidemiology, Biomarkers & Prevention : A Publication of the American Association for Cancer Research, Cosponsored by the American Society of Preventive Oncology 23, no. 1 (January 2014): 32–36. https://doi.org/10.1158/1055-9965.EPI-13-0798.
-- “Encyclopedia of Greater Philadelphia Smoking and Smoking Regulations.” Accessed August 5, 2021. https://philadelphiaencyclopedia.org/archive/smoking-and-smoking-regulations/.
-- Health, National Center for Chronic Disease Prevention and Health Promotion (US) Office on Smoking and. Fifty Years of Change 1964–2014. The Health Consequences of Smoking—50 Years of Progress: A Report of the Surgeon General. Centers for Disease Control and Prevention (US), 2014. https://www.ncbi.nlm.nih.gov/books/NBK294310/.
-- PBS NewsHour. “Read the Surgeon General’s 1964 Report on Smoking and Health,” January 12, 2014. https://www.pbs.org/newshour/health/first-surgeon-general-report-on-smokings-health-effects-marks-50-year-anniversary.
+### Further Reading on Tobacco-Related Research and Policy Changes
+- “Achievements in Public Health, 1900-1999: Tobacco Use -- United States, 1900-1999.” Accessed August 5, 2021. [https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4843a2.htm](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4843a2.htm).
+- Cummings, K. Michael, and Robert N. Proctor. “The Changing Public Image of Smoking in the United States: 1964–2014.” Cancer Epidemiology, Biomarkers & Prevention : A Publication of the American Association for Cancer Research, Cosponsored by the American Society of Preventive Oncology 23, no. 1 (January 2014): 32–36. [https://doi.org/10.1158/1055-9965.EPI-13-0798](https://doi.org/10.1158/1055-9965.EPI-13-0798).
+- Health, National Center for Chronic Disease Prevention and Health Promotion (US) Office on Smoking and. Fifty Years of Change 1964–2014. The Health Consequences of Smoking—50 Years of Progress: A Report of the Surgeon General. Centers for Disease Control and Prevention (US), 2014. [https://www.ncbi.nlm.nih.gov/books/NBK294310/](https://www.ncbi.nlm.nih.gov/books/NBK294310/.).
 
 
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
