@@ -22,7 +22,7 @@ Creating a physical representation of data allowed our team to step away from ou
 
 We prepared for the project by searching corpus text files for commencement issues that included graduating students' names and where they are from. We were then able create new text files for each of the 26 issues so the files only had these two section(s). After cleaning the data in [OpenRefine](https://openrefine.org/),  we were able to find students from 47 states (plus Washington D.C.) and 34 other countries and territories.
 
-Once we gathered the data, we were able to break ground on the tactile visualization. We prepared the plywood, printed out segments of the U.S. states to trace onto carbon paper that was aligned with the plywood, carefully carved an outline of the states, wood burned five distinct shapes onto the wood, and painted them with acrylics.
+Once we gathered the data, we were able to break ground. We prepared the plywood, printed out chunks of the U.S. map to trace onto carbon paper aligned with the plywood, carefully carved an outline of the states, wood burned shapes in the center of each state and for each international location, and painted the shapes with acrylic for easier identification.
 
 Our key includes five shapes, which have their own distinct color and indicate the number of students from that particular state. For example, triangles are blue and represent 1-10 graduates, squares are yellow and represent 11-20 graduates, circles are green and represent 21-50 graduates, and hexagons are pink and represent 101-500 graduates.
 <!--  
