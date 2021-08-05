@@ -18,12 +18,13 @@ To use an image: add relative url and alt text below and uncomment/copy paste
 <img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img" alt="">
 -->
 
-Our tactile visualization was a chance for our team to create a hands-on, physical representation of our corpus data. For this project, we carved a map of the United States onto a piece of plywood indicating the specific states and countries which Bryn Mawr graduates from the time period of 1931-1949 hailed from. 
+Creating a physical representation of data allowed our team to step away from our laptops and engage in hands-on critical making. For the project, we carved a map of the United States onto a piece of plywood and used a wood burning tool to etch five shapes that represent concentrations of graduated students from each state between 1931 and 1949. Each shape is painted a different color for accessibility and aesthetic purposes.
 
-We began this process by searching corpus text files for commencement issues that had graduating students' names and where they're from. We were then able create new text files for each of the 26 issues so files only had the section(s) with graduating students' names and where they're from. After cleaning the data in OpenRefine,  we were able to find students from 48 states and 36 countries outside of the United States. 
+We prepared for the project by searching corpus text files for commencement issues that included graduating students' names and where they are from. We were then able create new text files for each of the 26 issues so files only had these two section(s). After cleaning the data in [OpenRefine](https://openrefine.org/),  we were able to find students from 47 states (plus Washington D.C.) and 34 other countries and territories.
 
+Once we gathered the data, we were able to break ground on the tactile visualization. We prepared the plywood, printed out segments of the U.S. states to trace onto carbon paper that was aligned with the plywood, carefully carved an outline of the states, wood burned five distinct shapes onto the wood, and painted them with acrylics.
 
-Once we found the data we were able to get started making the physical representation. We began preparing the plywood, tracing the map onto the wood with carbon paper, carving the map of the United States, and then drilling a hole for an LED for each of the 48 states and 36 countries represented. Each LED is represented on a scale of 5 colors, which indicate the amount of students from that particular location. For example: a blue LED indicates 1 to 10 mentions of students from a particular location, whereas a pink LED represents 101 to 500 mentions. The colors were chosen in order to be as accessible as possible. 
+Our key includes five shapes, which have their own distinct color and indicate the number of students from that particular state. For example...
 <!--  
 Insert your description for the project here.
 --> 
