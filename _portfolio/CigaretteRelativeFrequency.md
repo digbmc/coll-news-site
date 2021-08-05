@@ -42,10 +42,10 @@ caption:
       "value": 0.7
     },
     "tooltip": [
-      {"type": "quantitative", "field": "year"},
+      {"type": "ordinal", "field": "year"},
       {"type": "quantitative", "field": "relative_frequency"}
     ],
-    "x": {"type": "quantitative", "axis": {"title": "Year"}, "field": "year"},
+    "x": {"type": "ordinal", "axis": {"title": "Year"}, "field": "year"},
     "y": {
       "type": "quantitative",
       "axis": {"format": "%", "title": "Relative Frequency"},
