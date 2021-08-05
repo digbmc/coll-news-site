@@ -25,7 +25,7 @@ caption:
 ### Further Readings on Tobacco-Related Researches and Policies
 - “Achievements in Public Health, 1900-1999: Tobacco Use -- United States, 1900-1999.” Accessed August 5, 2021. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4843a2.htm.
 - Cummings, K. Michael, and Robert N. Proctor. “The Changing Public Image of Smoking in the United States: 1964–2014.” Cancer Epidemiology, Biomarkers & Prevention : A Publication of the American Association for Cancer Research, Cosponsored by the American Society of Preventive Oncology 23, no. 1 (January 2014): 32–36. https://doi.org/10.1158/1055-9965.EPI-13-0798.
-- “Encyclopedia of Greater Philadelphia | Smoking and Smoking Regulations.” Accessed August 5, 2021. https://philadelphiaencyclopedia.org/archive/smoking-and-smoking-regulations/.
+- “Encyclopedia of Greater Philadelphia Smoking and Smoking Regulations.” Accessed August 5, 2021. https://philadelphiaencyclopedia.org/archive/smoking-and-smoking-regulations/.
 - Health, National Center for Chronic Disease Prevention and Health Promotion (US) Office on Smoking and. Fifty Years of Change 1964–2014. The Health Consequences of Smoking—50 Years of Progress: A Report of the Surgeon General. Centers for Disease Control and Prevention (US), 2014. https://www.ncbi.nlm.nih.gov/books/NBK294310/.
 - PBS NewsHour. “Read the Surgeon General’s 1964 Report on Smoking and Health,” January 12, 2014. https://www.pbs.org/newshour/health/first-surgeon-general-report-on-smokings-health-effects-marks-50-year-anniversary.
 
