@@ -58,7 +58,7 @@ The word clouds represent the most frequent words used in the College News issue
    <div class="row">
      <div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1910s</h3>
-	<table style="width:100%; border: 1px solid black">
+	<table style="width:100%">
 	<tr>
 		<th>Word</th>
 		<th>Frequency</th>
@@ -467,7 +467,7 @@ The word clouds represent the most frequent words used in the College News issue
 	   </div>
     <div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1920s</h3>
-	<table style="width:100%; border: 1px solid black">
+	<table style="width:100%">
 	<tr>
 		<th>Word</th>
 		<th>Frequency</th>
@@ -876,7 +876,7 @@ The word clouds represent the most frequent words used in the College News issue
 	   </div>
 	   <div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1930s</h3>
-	<table style="width:100%; border: 1px solid black">
+	<table style="width:100%">
 	<tr>
 		<th>Word</th>
 		<th>Frequency</th>
@@ -1285,7 +1285,7 @@ The word clouds represent the most frequent words used in the College News issue
 	</div>
 	<div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1940s</h3>
-	<table style="width:100%; border: 1px solid black">
+	<table style="width:100%">
 	<tr>
 		<th>Word</th>
 		<th>Frequency</th>
@@ -1694,7 +1694,7 @@ The word clouds represent the most frequent words used in the College News issue
 	</div>
 	<div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1950s</h3>
-	<table style="width:100%; border: 1px solid black">
+	<table style="width:100%">
 	<tr>
 		<th>Word</th>
 		<th>Frequency</th>
@@ -2103,7 +2103,7 @@ The word clouds represent the most frequent words used in the College News issue
 	</div>
 	<div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1960s</h3>
-	<table style="width:100%; border: 1px solid black">
+	<table style="width:100%">
 	<tr>
 		<th>Word</th>
 		<th>Frequency</th>
