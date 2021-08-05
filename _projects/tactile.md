@@ -3,14 +3,14 @@ title: Tactile Visualization # title for the visualization
 layout: project
 # author of the visualization along with the class year 
 subtitle: 
-image:  assets/img/portfolio/stainedwood.jpg
+image:  assets/img/portfolio/tactilviz.jpg
 alt: image of wooden map
 order: 5
 
 caption: # info that appears on homepage
   title: Tactile Visualization 
   subtitle: Concentration of graduated students from each state (1931-1949)
-  thumbnail:  assets/img/portfolio/stainedwood.jpg
+  thumbnail:  assets/img/portfolio/tactilviz.jpg
   alt: explanation of tactile subproject and visualization
 ---
 <!--  
