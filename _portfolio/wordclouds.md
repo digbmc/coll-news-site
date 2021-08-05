@@ -57,2458 +57,2458 @@ The word clouds represent the most frequent words used in the College News issue
 <div class="container-fluid">
    <div class="row">
      <div class="col-lg-4 col-sm-6">
-	<h3 style="text-align: center">1910s</h3>
-	<table style="width:100%">
-	<tr>
-		<th>Word</th>
-		<th>Frequency</th>
-	</tr>
-	<tr>
-		<td>work</td>
-		<td>1.0</td>
-	</tr>
-	<tr>
-		<td>year</td>
-		<td>0.964046021093001</td>
-	</tr>
-	<tr>
-		<td>student</td>
-		<td>0.8274209012464045</td>
-	</tr>
-	<tr>
-		<td>made</td>
-		<td>0.6735378715244487</td>
-	</tr>
-	<tr>
-		<td>first</td>
-		<td>0.663470757430489</td>
-	</tr>
-	<tr>
-		<td>time</td>
-		<td>0.5958772770853308</td>
-	</tr>
-	<tr>
-		<td>new york</td>
-		<td>0.5891658676893576</td>
-	</tr>
-	<tr>
-		<td>women</td>
-		<td>0.5728667305848514</td>
-	</tr>
-	<tr>
-		<td>war</td>
-		<td>0.5728667305848514</td>
-	</tr>
-	<tr>
-		<td>committee</td>
-		<td>0.5522531160115053</td>
-	</tr>
-	<tr>
-		<td>given</td>
-		<td>0.5321188878235859</td>
-	</tr>
-	<tr>
-		<td>member</td>
-		<td>0.5258868648130393</td>
-	</tr>
-	<tr>
-		<td>said</td>
-		<td>0.5081495685522531</td>
-	</tr>
-	<tr>
-		<td>may</td>
-		<td>0.4942473633748802</td>
-	</tr>
-	<tr>
-		<td>class</td>
-		<td>0.4841802492809204</td>
-	</tr>
-	<tr>
-		<td>course</td>
-		<td>0.4242569511025887</td>
-	</tr>
-	<tr>
-		<td>new</td>
-		<td>0.4228187919463087</td>
-	</tr>
-	<tr>
-		<td>meeting</td>
-		<td>0.40604026845637586</td>
-	</tr>
-	<tr>
-		<td>now</td>
-		<td>0.4046021093000959</td>
-	</tr>
-	<tr>
-		<td>day</td>
-		<td>0.4012464046021093</td>
-	</tr>
-	<tr>
-		<td>play</td>
-		<td>0.3940556088207095</td>
-	</tr>
-	<tr>
-		<td>give</td>
-		<td>0.3916586768935762</td>
-	</tr>
-	<tr>
-		<td>chestnut street</td>
-		<td>0.3652924256951103</td>
-	</tr>
-	<tr>
-		<td>girl</td>
-		<td>0.3581016299137105</td>
-	</tr>
-	<tr>
-		<td>school</td>
-		<td>0.3451581975071908</td>
-	</tr>
-	<tr>
-		<td>smith</td>
-		<td>0.33940556088207097</td>
-	</tr>
-	<tr>
-		<td>president</td>
-		<td>0.33317353787152443</td>
-	</tr>
-	<tr>
-		<td>lancaster ave</td>
-		<td>0.3259827420901246</td>
-	</tr>
-	<tr>
-		<td>many</td>
-		<td>0.32502396931927136</td>
-	</tr>
-	<tr>
-		<td>men</td>
-		<td>0.32358581016299137</td>
-	</tr>
-	<tr>
-		<td>week</td>
-		<td>0.3211888782358581</td>
-	</tr>
-	<tr>
-		<td>red cross</td>
-		<td>0.313039309683605</td>
-	</tr>
-	<tr>
-		<td>senior</td>
-		<td>0.31112176414189835</td>
-	</tr>
-	<tr>
-		<td>make</td>
-		<td>0.3058485139022052</td>
-	</tr>
-	<tr>
-		<td>classes</td>
-		<td>0.2981783317353787</td>
-	</tr>
-	<tr>
-		<td>graduate</td>
-		<td>0.2962607861936721</td>
-	</tr>
-	<tr>
-		<td>present</td>
-		<td>0.29578139980824547</td>
-	</tr>
-	<tr>
-		<td>every</td>
-		<td>0.29482262703739215</td>
-	</tr>
-	<tr>
-		<td>held</td>
-		<td>0.2938638542665388</td>
-	</tr>
-	<tr>
-		<td>france</td>
-		<td>0.29242569511025884</td>
-	</tr>
-	<tr>
-		<td>part</td>
-		<td>0.2914669223394056</td>
-	</tr>
-	<tr>
-		<td>come</td>
-		<td>0.2914669223394056</td>
-	</tr>
-	<tr>
-		<td>life</td>
-		<td>0.28475551294343243</td>
-	</tr>
-	<tr>
-		<td>well</td>
-		<td>0.28427612655800577</td>
-	</tr>
-	<tr>
-		<td>game</td>
-		<td>0.2828379674017258</td>
-	</tr>
-	<tr>
-		<td>goal</td>
-		<td>0.2809204218600192</td>
-	</tr>
-	<tr>
-		<td>take</td>
-		<td>0.27804410354745923</td>
-	</tr>
-	<tr>
-		<td>good</td>
-		<td>0.2694151486097795</td>
-	</tr>
-	<tr>
-		<td>french</td>
-		<td>0.2670182166826462</td>
-	</tr>
-	<tr>
-		<td>people</td>
-		<td>0.2660594439117929</td>
-	</tr>
-	<tr>
-		<td>freshmen</td>
-		<td>0.2651006711409396</td>
-	</tr>
-	<tr>
-		<td>board</td>
-		<td>0.2622243528283797</td>
-	</tr>
-	<tr>
-		<td>point</td>
-		<td>0.26126558005752637</td>
-	</tr>
-	<tr>
-		<td>last year</td>
-		<td>0.2588686481303931</td>
-	</tr>
-	<tr>
-		<td>lecture</td>
-		<td>0.25838926174496646</td>
-	</tr>
-	<tr>
-		<td>much</td>
-		<td>0.2545541706615532</td>
-	</tr>
-	<tr>
-		<td>faculty</td>
-		<td>0.25311601150527324</td>
-	</tr>
-	<tr>
-		<td>plan</td>
-		<td>0.2516778523489933</td>
-	</tr>
-	<tr>
-		<td>street philadelphia</td>
-		<td>0.25071907957814</td>
-	</tr>
-	<tr>
-		<td>way</td>
-		<td>0.24448705656759348</td>
-	</tr>
-	<tr>
-		<td>great</td>
-		<td>0.24400767018216682</td>
-	</tr>
-	<tr>
-		<td>president thomas</td>
-		<td>0.24256951102588686</td>
-	</tr>
-	<tr>
-		<td>taken</td>
-		<td>0.236816874400767</td>
-	</tr>
-	<tr>
-		<td>undergraduate</td>
-		<td>0.23298178331735378</td>
-	</tr>
-	<tr>
-		<td>place</td>
-		<td>0.23154362416107382</td>
-	</tr>
-	<tr>
-		<td>speak</td>
-		<td>0.23058485139022053</td>
-	</tr>
-	<tr>
-		<td>book</td>
-		<td>0.22914669223394055</td>
-	</tr>
-	<tr>
-		<td>second</td>
-		<td>0.2267497603068073</td>
-	</tr>
-	<tr>
-		<td>little</td>
-		<td>0.2214765100671141</td>
-	</tr>
-	<tr>
-		<td>american</td>
-		<td>0.22099712368168745</td>
-	</tr>
-	<tr>
-		<td>editor</td>
-		<td>0.2181208053691275</td>
-	</tr>
-	<tr>
-		<td>elected</td>
-		<td>0.21668264621284755</td>
-	</tr>
-	<tr>
-		<td>meet</td>
-		<td>0.21668264621284755</td>
-	</tr>
-	<tr>
-		<td>best</td>
-		<td>0.21380632790028764</td>
-	</tr>
-	<tr>
-		<td>junior</td>
-		<td>0.21284755512943432</td>
-	</tr>
-	<tr>
-		<td>even</td>
-		<td>0.21236816874400766</td>
-	</tr>
-	<tr>
-		<td>say</td>
-		<td>0.21188878235858102</td>
-	</tr>
-	<tr>
-		<td>see</td>
-		<td>0.21045062320230107</td>
-	</tr>
-	<tr>
-		<td>club</td>
-		<td>0.20853307766059445</td>
-	</tr>
-	<tr>
-		<td>won</td>
-		<td>0.20853307766059445</td>
-	</tr>
-	<tr>
-		<td>sophomore</td>
-		<td>0.20709491850431447</td>
-	</tr>
-	<tr>
-		<td>christian association</td>
-		<td>0.20709491850431447</td>
-	</tr>
-	<tr>
-		<td>german</td>
-		<td>0.20325982742090123</td>
-	</tr>
-	<tr>
-		<td>need</td>
-		<td>0.20325982742090123</td>
-	</tr>
-	<tr>
-		<td>among</td>
-		<td>0.2027804410354746</td>
-	</tr>
-	<tr>
-		<td>hall</td>
-		<td>0.20086289549376798</td>
-	</tr>
-	<tr>
-		<td>thing</td>
-		<td>0.19942473633748803</td>
-	</tr>
-	<tr>
-		<td>association</td>
-		<td>0.1975071907957814</td>
-	</tr>
-	<tr>
-		<td>last week</td>
-		<td>0.1975071907957814</td>
-	</tr>
-	<tr>
-		<td>field</td>
-		<td>0.1955896452540748</td>
-	</tr>
-	<tr>
-		<td>subject</td>
-		<td>0.19175455417066156</td>
-	</tr>
-	<tr>
-		<td>world</td>
-		<td>0.19079578139980824</td>
-	</tr>
-	<tr>
-		<td>line</td>
-		<td>0.19079578139980824</td>
-	</tr>
-	<tr>
-		<td>country</td>
-		<td>0.18983700862895495</td>
-	</tr>
-	<tr>
-		<td>chairman</td>
-		<td>0.18983700862895495</td>
-	</tr>
-	<tr>
-		<td>score</td>
-		<td>0.186960690316395</td>
-	</tr>
-	<tr>
-		<td>played</td>
-		<td>0.18312559923298177</td>
-	</tr>
-	<tr>
-		<td>order</td>
-		<td>0.18168744007670182</td>
-	</tr>
-	<tr>
-		<td>worker</td>
-		<td>0.18120805369127516</td>
-	</tr>
-	<tr>
-		<td>number</td>
-		<td>0.18072866730584852</td>
-	</tr>
-	     </table>
+<h3 style="text-align: center">1910s</h3>
+<table style="width:100%">
+<tr>
+	<th>Word</th>
+	<th>Frequency</th>
+</tr>
+<tr>
+	<td>work</td>
+	<td>1.0000</td>
+</tr>
+<tr>
+	<td>year</td>
+	<td>0.9640</td>
+</tr>
+<tr>
+	<td>student</td>
+	<td>0.8274</td>
+</tr>
+<tr>
+	<td>made</td>
+	<td>0.6735</td>
+</tr>
+<tr>
+	<td>first</td>
+	<td>0.6635</td>
+</tr>
+<tr>
+	<td>time</td>
+	<td>0.5959</td>
+</tr>
+<tr>
+	<td>new york</td>
+	<td>0.5892</td>
+</tr>
+<tr>
+	<td>women</td>
+	<td>0.5729</td>
+</tr>
+<tr>
+	<td>war</td>
+	<td>0.5729</td>
+</tr>
+<tr>
+	<td>committee</td>
+	<td>0.5523</td>
+</tr>
+<tr>
+	<td>given</td>
+	<td>0.5321</td>
+</tr>
+<tr>
+	<td>member</td>
+	<td>0.5259</td>
+</tr>
+<tr>
+	<td>said</td>
+	<td>0.5081</td>
+</tr>
+<tr>
+	<td>may</td>
+	<td>0.4942</td>
+</tr>
+<tr>
+	<td>class</td>
+	<td>0.4842</td>
+</tr>
+<tr>
+	<td>course</td>
+	<td>0.4243</td>
+</tr>
+<tr>
+	<td>new</td>
+	<td>0.4228</td>
+</tr>
+<tr>
+	<td>meeting</td>
+	<td>0.4060</td>
+</tr>
+<tr>
+	<td>now</td>
+	<td>0.4046</td>
+</tr>
+<tr>
+	<td>day</td>
+	<td>0.4012</td>
+</tr>
+<tr>
+	<td>play</td>
+	<td>0.3941</td>
+</tr>
+<tr>
+	<td>give</td>
+	<td>0.3917</td>
+</tr>
+<tr>
+	<td>chestnut street</td>
+	<td>0.3653</td>
+</tr>
+<tr>
+	<td>girl</td>
+	<td>0.3581</td>
+</tr>
+<tr>
+	<td>school</td>
+	<td>0.3452</td>
+</tr>
+<tr>
+	<td>smith</td>
+	<td>0.3394</td>
+</tr>
+<tr>
+	<td>president</td>
+	<td>0.3332</td>
+</tr>
+<tr>
+	<td>lancaster ave</td>
+	<td>0.3260</td>
+</tr>
+<tr>
+	<td>many</td>
+	<td>0.3250</td>
+</tr>
+<tr>
+	<td>men</td>
+	<td>0.3236</td>
+</tr>
+<tr>
+	<td>week</td>
+	<td>0.3212</td>
+</tr>
+<tr>
+	<td>red cross</td>
+	<td>0.3130</td>
+</tr>
+<tr>
+	<td>senior</td>
+	<td>0.3111</td>
+</tr>
+<tr>
+	<td>make</td>
+	<td>0.3058</td>
+</tr>
+<tr>
+	<td>classes</td>
+	<td>0.2982</td>
+</tr>
+<tr>
+	<td>graduate</td>
+	<td>0.2963</td>
+</tr>
+<tr>
+	<td>present</td>
+	<td>0.2958</td>
+</tr>
+<tr>
+	<td>every</td>
+	<td>0.2948</td>
+</tr>
+<tr>
+	<td>held</td>
+	<td>0.2939</td>
+</tr>
+<tr>
+	<td>france</td>
+	<td>0.2924</td>
+</tr>
+<tr>
+	<td>part</td>
+	<td>0.2915</td>
+</tr>
+<tr>
+	<td>come</td>
+	<td>0.2915</td>
+</tr>
+<tr>
+	<td>life</td>
+	<td>0.2848</td>
+</tr>
+<tr>
+	<td>well</td>
+	<td>0.2843</td>
+</tr>
+<tr>
+	<td>game</td>
+	<td>0.2828</td>
+</tr>
+<tr>
+	<td>goal</td>
+	<td>0.2809</td>
+</tr>
+<tr>
+	<td>take</td>
+	<td>0.2780</td>
+</tr>
+<tr>
+	<td>good</td>
+	<td>0.2694</td>
+</tr>
+<tr>
+	<td>french</td>
+	<td>0.2670</td>
+</tr>
+<tr>
+	<td>people</td>
+	<td>0.2661</td>
+</tr>
+<tr>
+	<td>freshmen</td>
+	<td>0.2651</td>
+</tr>
+<tr>
+	<td>board</td>
+	<td>0.2622</td>
+</tr>
+<tr>
+	<td>point</td>
+	<td>0.2613</td>
+</tr>
+<tr>
+	<td>last year</td>
+	<td>0.2589</td>
+</tr>
+<tr>
+	<td>lecture</td>
+	<td>0.2584</td>
+</tr>
+<tr>
+	<td>much</td>
+	<td>0.2546</td>
+</tr>
+<tr>
+	<td>faculty</td>
+	<td>0.2531</td>
+</tr>
+<tr>
+	<td>plan</td>
+	<td>0.2517</td>
+</tr>
+<tr>
+	<td>street philadelphia</td>
+	<td>0.2507</td>
+</tr>
+<tr>
+	<td>way</td>
+	<td>0.2445</td>
+</tr>
+<tr>
+	<td>great</td>
+	<td>0.2440</td>
+</tr>
+<tr>
+	<td>president thomas</td>
+	<td>0.2426</td>
+</tr>
+<tr>
+	<td>taken</td>
+	<td>0.2368</td>
+</tr>
+<tr>
+	<td>undergraduate</td>
+	<td>0.2330</td>
+</tr>
+<tr>
+	<td>place</td>
+	<td>0.2315</td>
+</tr>
+<tr>
+	<td>speak</td>
+	<td>0.2306</td>
+</tr>
+<tr>
+	<td>book</td>
+	<td>0.2291</td>
+</tr>
+<tr>
+	<td>second</td>
+	<td>0.2267</td>
+</tr>
+<tr>
+	<td>little</td>
+	<td>0.2215</td>
+</tr>
+<tr>
+	<td>american</td>
+	<td>0.2210</td>
+</tr>
+<tr>
+	<td>editor</td>
+	<td>0.2181</td>
+</tr>
+<tr>
+	<td>elected</td>
+	<td>0.2167</td>
+</tr>
+<tr>
+	<td>meet</td>
+	<td>0.2167</td>
+</tr>
+<tr>
+	<td>best</td>
+	<td>0.2138</td>
+</tr>
+<tr>
+	<td>junior</td>
+	<td>0.2128</td>
+</tr>
+<tr>
+	<td>even</td>
+	<td>0.2124</td>
+</tr>
+<tr>
+	<td>say</td>
+	<td>0.2119</td>
+</tr>
+<tr>
+	<td>see</td>
+	<td>0.2105</td>
+</tr>
+<tr>
+	<td>club</td>
+	<td>0.2085</td>
+</tr>
+<tr>
+	<td>won</td>
+	<td>0.2085</td>
+</tr>
+<tr>
+	<td>sophomore</td>
+	<td>0.2071</td>
+</tr>
+<tr>
+	<td>christian association</td>
+	<td>0.2071</td>
+</tr>
+<tr>
+	<td>german</td>
+	<td>0.2033</td>
+</tr>
+<tr>
+	<td>need</td>
+	<td>0.2033</td>
+</tr>
+<tr>
+	<td>among</td>
+	<td>0.2028</td>
+</tr>
+<tr>
+	<td>hall</td>
+	<td>0.2009</td>
+</tr>
+<tr>
+	<td>thing</td>
+	<td>0.1994</td>
+</tr>
+<tr>
+	<td>association</td>
+	<td>0.1975</td>
+</tr>
+<tr>
+	<td>last week</td>
+	<td>0.1975</td>
+</tr>
+<tr>
+	<td>field</td>
+	<td>0.1956</td>
+</tr>
+<tr>
+	<td>subject</td>
+	<td>0.1918</td>
+</tr>
+<tr>
+	<td>world</td>
+	<td>0.1908</td>
+</tr>
+<tr>
+	<td>line</td>
+	<td>0.1908</td>
+</tr>
+<tr>
+	<td>country</td>
+	<td>0.1898</td>
+</tr>
+<tr>
+	<td>chairman</td>
+	<td>0.1898</td>
+</tr>
+<tr>
+	<td>score</td>
+	<td>0.1870</td>
+</tr>
+<tr>
+	<td>played</td>
+	<td>0.1831</td>
+</tr>
+<tr>
+	<td>order</td>
+	<td>0.1817</td>
+</tr>
+<tr>
+	<td>worker</td>
+	<td>0.1812</td>
+</tr>
+<tr>
+	<td>number</td>
+	<td>0.1807</td>
+</tr>
+</table>
 	   </div>
     <div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1920s</h3>
-	<table style="width:100%">
-	<tr>
-		<th>Word</th>
-		<th>Frequency</th>
-	</tr>
-	<tr>
-		<td>student</td>
-		<td>1.0</td>
-	</tr>
-	<tr>
-		<td>year</td>
-		<td>0.7274213322435635</td>
-	</tr>
-	<tr>
-		<td>work</td>
-		<td>0.7245606865549653</td>
-	</tr>
-	<tr>
-		<td>first</td>
-		<td>0.5704944830404577</td>
-	</tr>
-	<tr>
-		<td>time</td>
-		<td>0.5702901512055578</td>
-	</tr>
-	<tr>
-		<td>made</td>
-		<td>0.5102165917449939</td>
-	</tr>
-	<tr>
-		<td>may</td>
-		<td>0.4701675521046179</td>
-	</tr>
-	<tr>
-		<td>new</td>
-		<td>0.45892930118512465</td>
-	</tr>
-	<tr>
-		<td>life</td>
-		<td>0.4511646914589293</td>
-	</tr>
-	<tr>
-		<td>play</td>
-		<td>0.43686146301593787</td>
-	</tr>
-	<tr>
-		<td>new york</td>
-		<td>0.4311401716387413</td>
-	</tr>
-	<tr>
-		<td>make</td>
-		<td>0.4062116877809563</td>
-	</tr>
-	<tr>
-		<td>said</td>
-		<td>0.4027380465876584</td>
-	</tr>
-	<tr>
-		<td>given</td>
-		<td>0.3821005312627707</td>
-	</tr>
-	<tr>
-		<td>give</td>
-		<td>0.3675929709848794</td>
-	</tr>
-	<tr>
-		<td>many</td>
-		<td>0.3628933387821823</td>
-	</tr>
-	<tr>
-		<td>people</td>
-		<td>0.3628933387821823</td>
-	</tr>
-	<tr>
-		<td>lancaster ave</td>
-		<td>0.35022476501838984</td>
-	</tr>
-	<tr>
-		<td>school</td>
-		<td>0.3463424601552922</td>
-	</tr>
-	<tr>
-		<td>great</td>
-		<td>0.34572946465059257</td>
-	</tr>
-	<tr>
-		<td>world</td>
-		<td>0.33673886391499797</td>
-	</tr>
-	<tr>
-		<td>come</td>
-		<td>0.3365345320800981</td>
-	</tr>
-	<tr>
-		<td>women</td>
-		<td>0.3344912137310993</td>
-	</tr>
-	<tr>
-		<td>now</td>
-		<td>0.3318348998774009</td>
-	</tr>
-	<tr>
-		<td>course</td>
-		<td>0.3308132407029015</td>
-	</tr>
-	<tr>
-		<td>thing</td>
-		<td>0.3302002451982019</td>
-	</tr>
-	<tr>
-		<td>member</td>
-		<td>0.32590927666530445</td>
-	</tr>
-	<tr>
-		<td>way</td>
-		<td>0.32120964446260725</td>
-	</tr>
-	<tr>
-		<td>day</td>
-		<td>0.3208009807928075</td>
-	</tr>
-	<tr>
-		<td>men</td>
-		<td>0.3165100122599101</td>
-	</tr>
-	<tr>
-		<td>man</td>
-		<td>0.311606048222313</td>
-	</tr>
-	<tr>
-		<td>well</td>
-		<td>0.30608908868001633</td>
-	</tr>
-	<tr>
-		<td>good</td>
-		<td>0.30302411115651817</td>
-	</tr>
-	<tr>
-		<td>see</td>
-		<td>0.2979158152840212</td>
-	</tr>
-	<tr>
-		<td>much</td>
-		<td>0.28156926849203107</td>
-	</tr>
-	<tr>
-		<td>girl</td>
-		<td>0.2813649366571312</td>
-	</tr>
-	<tr>
-		<td>part</td>
-		<td>0.28075194115243157</td>
-	</tr>
-	<tr>
-		<td>even</td>
-		<td>0.2772782999591336</td>
-	</tr>
-	<tr>
-		<td>game</td>
-		<td>0.25970576215774416</td>
-	</tr>
-	<tr>
-		<td>class</td>
-		<td>0.25807110747854517</td>
-	</tr>
-	<tr>
-		<td>committee</td>
-		<td>0.2578667756436453</td>
-	</tr>
-	<tr>
-		<td>say</td>
-		<td>0.2558234572946465</td>
-	</tr>
-	<tr>
-		<td>take</td>
-		<td>0.24601552921945238</td>
-	</tr>
-	<tr>
-		<td>place</td>
-		<td>0.2451982018798529</td>
-	</tr>
-	<tr>
-		<td>little</td>
-		<td>0.24499387004495302</td>
-	</tr>
-	<tr>
-		<td>week</td>
-		<td>0.24254188802615448</td>
-	</tr>
-	<tr>
-		<td>present</td>
-		<td>0.24090723334695546</td>
-	</tr>
-	<tr>
-		<td>every</td>
-		<td>0.2368205966489579</td>
-	</tr>
-	<tr>
-		<td>subject</td>
-		<td>0.23579893747445851</td>
-	</tr>
-	<tr>
-		<td>philadelphia</td>
-		<td>0.23457294646505925</td>
-	</tr>
-	<tr>
-		<td>president</td>
-		<td>0.2315079689415611</td>
-	</tr>
-	<tr>
-		<td>american</td>
-		<td>0.23130363710666121</td>
-	</tr>
-	<tr>
-		<td>fact</td>
-		<td>0.22926031875766245</td>
-	</tr>
-	<tr>
-		<td>book</td>
-		<td>0.22742133224356353</td>
-	</tr>
-	<tr>
-		<td>held</td>
-		<td>0.22129137719656722</td>
-	</tr>
-	<tr>
-		<td>second</td>
-		<td>0.21945239068246833</td>
-	</tr>
-	<tr>
-		<td>faculty</td>
-		<td>0.21822639967306906</td>
-	</tr>
-	<tr>
-		<td>know</td>
-		<td>0.21659174499387004</td>
-	</tr>
-	<tr>
-		<td>question</td>
-		<td>0.21536575398447078</td>
-	</tr>
-	<tr>
-		<td>best</td>
-		<td>0.21454842664487128</td>
-	</tr>
-	<tr>
-		<td>point</td>
-		<td>0.21454842664487128</td>
-	</tr>
-	<tr>
-		<td>meeting</td>
-		<td>0.2096444626072742</td>
-	</tr>
-	<tr>
-		<td>find</td>
-		<td>0.2088271352676747</td>
-	</tr>
-	<tr>
-		<td>lancaster avenue</td>
-		<td>0.20760114425827544</td>
-	</tr>
-	<tr>
-		<td>among</td>
-		<td>0.2071924805884757</td>
-	</tr>
-	<tr>
-		<td>interest</td>
-		<td>0.2061708214139763</td>
-	</tr>
-	<tr>
-		<td>seem</td>
-		<td>0.20596648957907643</td>
-	</tr>
-	<tr>
-		<td>field</td>
-		<td>0.2043318348998774</td>
-	</tr>
-	<tr>
-		<td>senior</td>
-		<td>0.2043318348998774</td>
-	</tr>
-	<tr>
-		<td>group</td>
-		<td>0.20310584389047814</td>
-	</tr>
-	<tr>
-		<td>smith</td>
-		<td>0.20290151205557827</td>
-	</tr>
-	<tr>
-		<td>end</td>
-		<td>0.20269718022067837</td>
-	</tr>
-	<tr>
-		<td>country</td>
-		<td>0.20187985288107888</td>
-	</tr>
-	<tr>
-		<td>graduate</td>
-		<td>0.1979975480179812</td>
-	</tr>
-	<tr>
-		<td>art</td>
-		<td>0.19738455251328157</td>
-	</tr>
-	<tr>
-		<td>need</td>
-		<td>0.1951369023293829</td>
-	</tr>
-	<tr>
-		<td>colleges</td>
-		<td>0.1945239068246833</td>
-	</tr>
-	<tr>
-		<td>freshmen</td>
-		<td>0.19411524315488354</td>
-	</tr>
-	<tr>
-		<td>goal</td>
-		<td>0.19391091131998364</td>
-	</tr>
-	<tr>
-		<td>think</td>
-		<td>0.19391091131998364</td>
-	</tr>
-	<tr>
-		<td>whole</td>
-		<td>0.19186759297098488</td>
-	</tr>
-	<tr>
-		<td>god</td>
-		<td>0.18818961994278707</td>
-	</tr>
-	<tr>
-		<td>speak</td>
-		<td>0.1861463015937883</td>
-	</tr>
-	<tr>
-		<td>never</td>
-		<td>0.18573763792398856</td>
-	</tr>
-	<tr>
-		<td>old</td>
-		<td>0.18532897425418882</td>
-	</tr>
-	<tr>
-		<td>war</td>
-		<td>0.18492031058438904</td>
-	</tr>
-	<tr>
-		<td>yet</td>
-		<td>0.18246832856559053</td>
-	</tr>
-	<tr>
-		<td>study</td>
-		<td>0.18042501021659174</td>
-	</tr>
-	<tr>
-		<td>long</td>
-		<td>0.17981201471189212</td>
-	</tr>
-	<tr>
-		<td>lecture</td>
-		<td>0.1781773600326931</td>
-	</tr>
-	<tr>
-		<td>problem</td>
-		<td>0.1771557008581937</td>
-	</tr>
-	<tr>
-		<td>university</td>
-		<td>0.17674703718839396</td>
-	</tr>
-	<tr>
-		<td>plan</td>
-		<td>0.17531671434409482</td>
-	</tr>
-	<tr>
-		<td>education</td>
-		<td>0.1744993870044953</td>
-	</tr>
-	<tr>
-		<td>form</td>
-		<td>0.17409072333469555</td>
-	</tr>
-	<tr>
-		<td>found</td>
-		<td>0.1734777278299959</td>
-	</tr>
-	<tr>
-		<td>without</td>
-		<td>0.17306906416019616</td>
-	</tr>
-	<tr>
-		<td>back</td>
-		<td>0.17306906416019616</td>
-	</tr>
-	<tr>
-		<td>hand</td>
-		<td>0.17204740498569676</td>
-	</tr>
-	<tr>
-		<td>alway</td>
-		<td>0.17204740498569676</td>
-	</tr>
-	</table>
-	   </div>
+<table style="width:100%">
+<tr>
+	<th>Word</th>
+	<th>Frequency</th>
+</tr>
+<tr>
+	<td>student</td>
+	<td>1.0000</td>
+</tr>
+<tr>
+	<td>year</td>
+	<td>0.7274</td>
+</tr>
+<tr>
+	<td>work</td>
+	<td>0.7246</td>
+</tr>
+<tr>
+	<td>first</td>
+	<td>0.5705</td>
+</tr>
+<tr>
+	<td>time</td>
+	<td>0.5703</td>
+</tr>
+<tr>
+	<td>made</td>
+	<td>0.5102</td>
+</tr>
+<tr>
+	<td>may</td>
+	<td>0.4702</td>
+</tr>
+<tr>
+	<td>new</td>
+	<td>0.4589</td>
+</tr>
+<tr>
+	<td>life</td>
+	<td>0.4512</td>
+</tr>
+<tr>
+	<td>play</td>
+	<td>0.4369</td>
+</tr>
+<tr>
+	<td>new york</td>
+	<td>0.4311</td>
+</tr>
+<tr>
+	<td>make</td>
+	<td>0.4062</td>
+</tr>
+<tr>
+	<td>said</td>
+	<td>0.4027</td>
+</tr>
+<tr>
+	<td>given</td>
+	<td>0.3821</td>
+</tr>
+<tr>
+	<td>give</td>
+	<td>0.3676</td>
+</tr>
+<tr>
+	<td>many</td>
+	<td>0.3629</td>
+</tr>
+<tr>
+	<td>people</td>
+	<td>0.3629</td>
+</tr>
+<tr>
+	<td>lancaster ave</td>
+	<td>0.3502</td>
+</tr>
+<tr>
+	<td>school</td>
+	<td>0.3463</td>
+</tr>
+<tr>
+	<td>great</td>
+	<td>0.3457</td>
+</tr>
+<tr>
+	<td>world</td>
+	<td>0.3367</td>
+</tr>
+<tr>
+	<td>come</td>
+	<td>0.3365</td>
+</tr>
+<tr>
+	<td>women</td>
+	<td>0.3345</td>
+</tr>
+<tr>
+	<td>now</td>
+	<td>0.3318</td>
+</tr>
+<tr>
+	<td>course</td>
+	<td>0.3308</td>
+</tr>
+<tr>
+	<td>thing</td>
+	<td>0.3302</td>
+</tr>
+<tr>
+	<td>member</td>
+	<td>0.3259</td>
+</tr>
+<tr>
+	<td>way</td>
+	<td>0.3212</td>
+</tr>
+<tr>
+	<td>day</td>
+	<td>0.3208</td>
+</tr>
+<tr>
+	<td>men</td>
+	<td>0.3165</td>
+</tr>
+<tr>
+	<td>man</td>
+	<td>0.3116</td>
+</tr>
+<tr>
+	<td>well</td>
+	<td>0.3061</td>
+</tr>
+<tr>
+	<td>good</td>
+	<td>0.3030</td>
+</tr>
+<tr>
+	<td>see</td>
+	<td>0.2979</td>
+</tr>
+<tr>
+	<td>much</td>
+	<td>0.2816</td>
+</tr>
+<tr>
+	<td>girl</td>
+	<td>0.2814</td>
+</tr>
+<tr>
+	<td>part</td>
+	<td>0.2808</td>
+</tr>
+<tr>
+	<td>even</td>
+	<td>0.2773</td>
+</tr>
+<tr>
+	<td>game</td>
+	<td>0.2597</td>
+</tr>
+<tr>
+	<td>class</td>
+	<td>0.2581</td>
+</tr>
+<tr>
+	<td>committee</td>
+	<td>0.2579</td>
+</tr>
+<tr>
+	<td>say</td>
+	<td>0.2558</td>
+</tr>
+<tr>
+	<td>take</td>
+	<td>0.2460</td>
+</tr>
+<tr>
+	<td>place</td>
+	<td>0.2452</td>
+</tr>
+<tr>
+	<td>little</td>
+	<td>0.2450</td>
+</tr>
+<tr>
+	<td>week</td>
+	<td>0.2425</td>
+</tr>
+<tr>
+	<td>present</td>
+	<td>0.2409</td>
+</tr>
+<tr>
+	<td>every</td>
+	<td>0.2368</td>
+</tr>
+<tr>
+	<td>subject</td>
+	<td>0.2358</td>
+</tr>
+<tr>
+	<td>philadelphia</td>
+	<td>0.2346</td>
+</tr>
+<tr>
+	<td>president</td>
+	<td>0.2315</td>
+</tr>
+<tr>
+	<td>american</td>
+	<td>0.2313</td>
+</tr>
+<tr>
+	<td>fact</td>
+	<td>0.2293</td>
+</tr>
+<tr>
+	<td>book</td>
+	<td>0.2274</td>
+</tr>
+<tr>
+	<td>held</td>
+	<td>0.2213</td>
+</tr>
+<tr>
+	<td>second</td>
+	<td>0.2195</td>
+</tr>
+<tr>
+	<td>faculty</td>
+	<td>0.2182</td>
+</tr>
+<tr>
+	<td>know</td>
+	<td>0.2166</td>
+</tr>
+<tr>
+	<td>question</td>
+	<td>0.2154</td>
+</tr>
+<tr>
+	<td>best</td>
+	<td>0.2145</td>
+</tr>
+<tr>
+	<td>point</td>
+	<td>0.2145</td>
+</tr>
+<tr>
+	<td>meeting</td>
+	<td>0.2096</td>
+</tr>
+<tr>
+	<td>find</td>
+	<td>0.2088</td>
+</tr>
+<tr>
+	<td>lancaster avenue</td>
+	<td>0.2076</td>
+</tr>
+<tr>
+	<td>among</td>
+	<td>0.2072</td>
+</tr>
+<tr>
+	<td>interest</td>
+	<td>0.2062</td>
+</tr>
+<tr>
+	<td>seem</td>
+	<td>0.2060</td>
+</tr>
+<tr>
+	<td>field</td>
+	<td>0.2043</td>
+</tr>
+<tr>
+	<td>senior</td>
+	<td>0.2043</td>
+</tr>
+<tr>
+	<td>group</td>
+	<td>0.2031</td>
+</tr>
+<tr>
+	<td>smith</td>
+	<td>0.2029</td>
+</tr>
+<tr>
+	<td>end</td>
+	<td>0.2027</td>
+</tr>
+<tr>
+	<td>country</td>
+	<td>0.2019</td>
+</tr>
+<tr>
+	<td>graduate</td>
+	<td>0.1980</td>
+</tr>
+<tr>
+	<td>art</td>
+	<td>0.1974</td>
+</tr>
+<tr>
+	<td>need</td>
+	<td>0.1951</td>
+</tr>
+<tr>
+	<td>colleges</td>
+	<td>0.1945</td>
+</tr>
+<tr>
+	<td>freshmen</td>
+	<td>0.1941</td>
+</tr>
+<tr>
+	<td>goal</td>
+	<td>0.1939</td>
+</tr>
+<tr>
+	<td>think</td>
+	<td>0.1939</td>
+</tr>
+<tr>
+	<td>whole</td>
+	<td>0.1919</td>
+</tr>
+<tr>
+	<td>god</td>
+	<td>0.1882</td>
+</tr>
+<tr>
+	<td>speak</td>
+	<td>0.1861</td>
+</tr>
+<tr>
+	<td>never</td>
+	<td>0.1857</td>
+</tr>
+<tr>
+	<td>old</td>
+	<td>0.1853</td>
+</tr>
+<tr>
+	<td>war</td>
+	<td>0.1849</td>
+</tr>
+<tr>
+	<td>yet</td>
+	<td>0.1825</td>
+</tr>
+<tr>
+	<td>study</td>
+	<td>0.1804</td>
+</tr>
+<tr>
+	<td>long</td>
+	<td>0.1798</td>
+</tr>
+<tr>
+	<td>lecture</td>
+	<td>0.1782</td>
+</tr>
+<tr>
+	<td>problem</td>
+	<td>0.1772</td>
+</tr>
+<tr>
+	<td>university</td>
+	<td>0.1767</td>
+</tr>
+<tr>
+	<td>plan</td>
+	<td>0.1753</td>
+</tr>
+<tr>
+	<td>education</td>
+	<td>0.1745</td>
+</tr>
+<tr>
+	<td>form</td>
+	<td>0.1741</td>
+</tr>
+<tr>
+	<td>found</td>
+	<td>0.1735</td>
+</tr>
+<tr>
+	<td>without</td>
+	<td>0.1731</td>
+</tr>
+<tr>
+	<td>back</td>
+	<td>0.1731</td>
+</tr>
+<tr>
+	<td>hand</td>
+	<td>0.1720</td>
+</tr>
+<tr>
+	<td>alway</td>
+	<td>0.1720</td>
+</tr>
+</table>
+</div>
 	   <div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1930s</h3>
-	<table style="width:100%">
-	<tr>
-		<th>Word</th>
-		<th>Frequency</th>
-	</tr>
-	<tr>
-		<td>student</td>
-		<td>1.0</td>
-	</tr>
-	<tr>
-		<td>time</td>
-		<td>0.8122489959839357</td>
-	</tr>
-	<tr>
-		<td>year</td>
-		<td>0.7961847389558233</td>
-	</tr>
-	<tr>
-		<td>work</td>
-		<td>0.7857429718875502</td>
-	</tr>
-	<tr>
-		<td>play</td>
-		<td>0.6809236947791165</td>
-	</tr>
-	<tr>
-		<td>first</td>
-		<td>0.6447791164658635</td>
-	</tr>
-	<tr>
-		<td>made</td>
-		<td>0.6034136546184738</td>
-	</tr>
-	<tr>
-		<td>new</td>
-		<td>0.5387550200803213</td>
-	</tr>
-	<tr>
-		<td>now</td>
-		<td>0.4879518072289157</td>
-	</tr>
-	<tr>
-		<td>may</td>
-		<td>0.4791164658634538</td>
-	</tr>
-	<tr>
-		<td>make</td>
-		<td>0.4674698795180723</td>
-	</tr>
-	<tr>
-		<td>many</td>
-		<td>0.4399598393574297</td>
-	</tr>
-	<tr>
-		<td>give</td>
-		<td>0.43755020080321283</td>
-	</tr>
-	<tr>
-		<td>new york</td>
-		<td>0.43052208835341366</td>
-	</tr>
-	<tr>
-		<td>come</td>
-		<td>0.4114457831325301</td>
-	</tr>
-	<tr>
-		<td>way</td>
-		<td>0.40803212851405624</td>
-	</tr>
-	<tr>
-		<td>course</td>
-		<td>0.4034136546184739</td>
-	</tr>
-	<tr>
-		<td>well</td>
-		<td>0.3963855421686747</td>
-	</tr>
-	<tr>
-		<td>good</td>
-		<td>0.39437751004016064</td>
-	</tr>
-	<tr>
-		<td>people</td>
-		<td>0.3929718875502008</td>
-	</tr>
-	<tr>
-		<td>part</td>
-		<td>0.3865461847389558</td>
-	</tr>
-	<tr>
-		<td>life</td>
-		<td>0.3857429718875502</td>
-	</tr>
-	<tr>
-		<td>great</td>
-		<td>0.37610441767068276</td>
-	</tr>
-	<tr>
-		<td>even</td>
-		<td>0.3753012048192771</td>
-	</tr>
-	<tr>
-		<td>day</td>
-		<td>0.37349397590361444</td>
-	</tr>
-	<tr>
-		<td>present</td>
-		<td>0.37309236947791163</td>
-	</tr>
-	<tr>
-		<td>much</td>
-		<td>0.3682730923694779</td>
-	</tr>
-	<tr>
-		<td>said</td>
-		<td>0.3602409638554217</td>
-	</tr>
-	<tr>
-		<td>given</td>
-		<td>0.3538152610441767</td>
-	</tr>
-	<tr>
-		<td>little</td>
-		<td>0.34357429718875504</td>
-	</tr>
-	<tr>
-		<td>member</td>
-		<td>0.34357429718875504</td>
-	</tr>
-	<tr>
-		<td>see</td>
-		<td>0.33795180722891566</td>
-	</tr>
-	<tr>
-		<td>group</td>
-		<td>0.3244979919678715</td>
-	</tr>
-	<tr>
-		<td>girl</td>
-		<td>0.3236947791164659</td>
-	</tr>
-	<tr>
-		<td>book</td>
-		<td>0.31867469879518073</td>
-	</tr>
-	<tr>
-		<td>say</td>
-		<td>0.31666666666666665</td>
-	</tr>
-	<tr>
-		<td>man</td>
-		<td>0.3132530120481928</td>
-	</tr>
-	<tr>
-		<td>world</td>
-		<td>0.3066265060240964</td>
-	</tr>
-	<tr>
-		<td>take</td>
-		<td>0.3044176706827309</td>
-	</tr>
-	<tr>
-		<td>women</td>
-		<td>0.29538152610441765</td>
-	</tr>
-	<tr>
-		<td>last</td>
-		<td>0.2927710843373494</td>
-	</tr>
-	<tr>
-		<td>week</td>
-		<td>0.2869477911646586</td>
-	</tr>
-	<tr>
-		<td>fact</td>
-		<td>0.2849397590361446</td>
-	</tr>
-	<tr>
-		<td>thing</td>
-		<td>0.2785140562248996</td>
-	</tr>
-	<tr>
-		<td>seem</td>
-		<td>0.2753012048192771</td>
-	</tr>
-	<tr>
-		<td>interest</td>
-		<td>0.2656626506024096</td>
-	</tr>
-	<tr>
-		<td>know</td>
-		<td>0.264859437751004</td>
-	</tr>
-	<tr>
-		<td>find</td>
-		<td>0.26305220883534136</td>
-	</tr>
-	<tr>
-		<td>school</td>
-		<td>0.2620481927710843</td>
-	</tr>
-	<tr>
-		<td>war</td>
-		<td>0.2596385542168675</td>
-	</tr>
-	<tr>
-		<td>men</td>
-		<td>0.25863453815261045</td>
-	</tr>
-	<tr>
-		<td>art</td>
-		<td>0.25742971887550203</td>
-	</tr>
-	<tr>
-		<td>class</td>
-		<td>0.2572289156626506</td>
-	</tr>
-	<tr>
-		<td>american</td>
-		<td>0.256425702811245</td>
-	</tr>
-	<tr>
-		<td>plan</td>
-		<td>0.25381526104417673</td>
-	</tr>
-	<tr>
-		<td>found</td>
-		<td>0.2532128514056225</td>
-	</tr>
-	<tr>
-		<td>end</td>
-		<td>0.2516064257028112</td>
-	</tr>
-	<tr>
-		<td>problem</td>
-		<td>0.25140562248995985</td>
-	</tr>
-	<tr>
-		<td>show</td>
-		<td>0.25100401606425704</td>
-	</tr>
-	<tr>
-		<td>may day</td>
-		<td>0.25</td>
-	</tr>
-	<tr>
-		<td>although</td>
-		<td>0.24899598393574296</td>
-	</tr>
-	<tr>
-		<td>every</td>
-		<td>0.24899598393574296</td>
-	</tr>
-	<tr>
-		<td>point</td>
-		<td>0.2457831325301205</td>
-	</tr>
-	<tr>
-		<td>subject</td>
-		<td>0.24538152610441766</td>
-	</tr>
-	<tr>
-		<td>form</td>
-		<td>0.24518072289156626</td>
-	</tr>
-	<tr>
-		<td>whole</td>
-		<td>0.24457831325301205</td>
-	</tr>
-	<tr>
-		<td>faculty</td>
-		<td>0.24096385542168675</td>
-	</tr>
-	<tr>
-		<td>dance</td>
-		<td>0.23815261044176708</td>
-	</tr>
-	<tr>
-		<td>another</td>
-		<td>0.23775100401606425</td>
-	</tr>
-	<tr>
-		<td>best</td>
-		<td>0.23654618473895583</td>
-	</tr>
-	<tr>
-		<td>second</td>
-		<td>0.23493975903614459</td>
-	</tr>
-	<tr>
-		<td>never</td>
-		<td>0.23453815261044178</td>
-	</tr>
-	<tr>
-		<td>alway</td>
-		<td>0.22931726907630523</td>
-	</tr>
-	<tr>
-		<td>field</td>
-		<td>0.22630522088353414</td>
-	</tr>
-	<tr>
-		<td>need</td>
-		<td>0.2251004016064257</td>
-	</tr>
-	<tr>
-		<td>idea</td>
-		<td>0.22389558232931728</td>
-	</tr>
-	<tr>
-		<td>use</td>
-		<td>0.221285140562249</td>
-	</tr>
-	<tr>
-		<td>place</td>
-		<td>0.22108433734939759</td>
-	</tr>
-	<tr>
-		<td>feel</td>
-		<td>0.2178714859437751</td>
-	</tr>
-	<tr>
-		<td>campus</td>
-		<td>0.2176706827309237</td>
-	</tr>
-	<tr>
-		<td>line</td>
-		<td>0.21746987951807228</td>
-	</tr>
-	<tr>
-		<td>word</td>
-		<td>0.21746987951807228</td>
-	</tr>
-	<tr>
-		<td>still</td>
-		<td>0.21566265060240963</td>
-	</tr>
-	<tr>
-		<td>back</td>
-		<td>0.21506024096385543</td>
-	</tr>
-	<tr>
-		<td>long</td>
-		<td>0.21365461847389558</td>
-	</tr>
-	<tr>
-		<td>music</td>
-		<td>0.21285140562248997</td>
-	</tr>
-	<tr>
-		<td>country</td>
-		<td>0.21285140562248997</td>
-	</tr>
-	<tr>
-		<td>state</td>
-		<td>0.21224899598393573</td>
-	</tr>
-	<tr>
-		<td>program</td>
-		<td>0.21004016064257028</td>
-	</tr>
-	<tr>
-		<td>undergraduate</td>
-		<td>0.21004016064257028</td>
-	</tr>
-	<tr>
-		<td>among</td>
-		<td>0.20963855421686747</td>
-	</tr>
-	<tr>
-		<td>yet</td>
-		<td>0.20742971887550202</td>
-	</tr>
-	<tr>
-		<td>think</td>
-		<td>0.20722891566265061</td>
-	</tr>
-	<tr>
-		<td>rather</td>
-		<td>0.20562248995983937</td>
-	</tr>
-	<tr>
-		<td>committee</td>
-		<td>0.20381526104417672</td>
-	</tr>
-	<tr>
-		<td>mean</td>
-		<td>0.20261044176706827</td>
-	</tr>
-	<tr>
-		<td>question</td>
-		<td>0.20220883534136547</td>
-	</tr>
-	<tr>
-		<td>without</td>
-		<td>0.20160642570281123</td>
-	</tr>
-	<tr>
-		<td>change</td>
-		<td>0.19859437751004017</td>
-	</tr>
-	<tr>
-		<td>thought</td>
-		<td>0.19779116465863453</td>
-	</tr>
-	</table>
-	</div>
+<table style="width:100%">
+<tr>
+	<th>Word</th>
+	<th>Frequency</th>
+</tr>
+<tr>
+	<td>student</td>
+	<td>1.0000</td>
+</tr>
+<tr>
+	<td>time</td>
+	<td>0.8122</td>
+</tr>
+<tr>
+	<td>year</td>
+	<td>0.7962</td>
+</tr>
+<tr>
+	<td>work</td>
+	<td>0.7857</td>
+</tr>
+<tr>
+	<td>play</td>
+	<td>0.6809</td>
+</tr>
+<tr>
+	<td>first</td>
+	<td>0.6448</td>
+</tr>
+<tr>
+	<td>made</td>
+	<td>0.6034</td>
+</tr>
+<tr>
+	<td>new</td>
+	<td>0.5388</td>
+</tr>
+<tr>
+	<td>now</td>
+	<td>0.4880</td>
+</tr>
+<tr>
+	<td>may</td>
+	<td>0.4791</td>
+</tr>
+<tr>
+	<td>make</td>
+	<td>0.4675</td>
+</tr>
+<tr>
+	<td>many</td>
+	<td>0.4400</td>
+</tr>
+<tr>
+	<td>give</td>
+	<td>0.4376</td>
+</tr>
+<tr>
+	<td>new york</td>
+	<td>0.4305</td>
+</tr>
+<tr>
+	<td>come</td>
+	<td>0.4114</td>
+</tr>
+<tr>
+	<td>way</td>
+	<td>0.4080</td>
+</tr>
+<tr>
+	<td>course</td>
+	<td>0.4034</td>
+</tr>
+<tr>
+	<td>well</td>
+	<td>0.3964</td>
+</tr>
+<tr>
+	<td>good</td>
+	<td>0.3944</td>
+</tr>
+<tr>
+	<td>people</td>
+	<td>0.3930</td>
+</tr>
+<tr>
+	<td>part</td>
+	<td>0.3865</td>
+</tr>
+<tr>
+	<td>life</td>
+	<td>0.3857</td>
+</tr>
+<tr>
+	<td>great</td>
+	<td>0.3761</td>
+</tr>
+<tr>
+	<td>even</td>
+	<td>0.3753</td>
+</tr>
+<tr>
+	<td>day</td>
+	<td>0.3735</td>
+</tr>
+<tr>
+	<td>present</td>
+	<td>0.3731</td>
+</tr>
+<tr>
+	<td>much</td>
+	<td>0.3683</td>
+</tr>
+<tr>
+	<td>said</td>
+	<td>0.3602</td>
+</tr>
+<tr>
+	<td>given</td>
+	<td>0.3538</td>
+</tr>
+<tr>
+	<td>little</td>
+	<td>0.3436</td>
+</tr>
+<tr>
+	<td>member</td>
+	<td>0.3436</td>
+</tr>
+<tr>
+	<td>see</td>
+	<td>0.3380</td>
+</tr>
+<tr>
+	<td>group</td>
+	<td>0.3245</td>
+</tr>
+<tr>
+	<td>girl</td>
+	<td>0.3237</td>
+</tr>
+<tr>
+	<td>book</td>
+	<td>0.3187</td>
+</tr>
+<tr>
+	<td>say</td>
+	<td>0.3167</td>
+</tr>
+<tr>
+	<td>man</td>
+	<td>0.3133</td>
+</tr>
+<tr>
+	<td>world</td>
+	<td>0.3066</td>
+</tr>
+<tr>
+	<td>take</td>
+	<td>0.3044</td>
+</tr>
+<tr>
+	<td>women</td>
+	<td>0.2954</td>
+</tr>
+<tr>
+	<td>last</td>
+	<td>0.2928</td>
+</tr>
+<tr>
+	<td>week</td>
+	<td>0.2869</td>
+</tr>
+<tr>
+	<td>fact</td>
+	<td>0.2849</td>
+</tr>
+<tr>
+	<td>thing</td>
+	<td>0.2785</td>
+</tr>
+<tr>
+	<td>seem</td>
+	<td>0.2753</td>
+</tr>
+<tr>
+	<td>interest</td>
+	<td>0.2657</td>
+</tr>
+<tr>
+	<td>know</td>
+	<td>0.2649</td>
+</tr>
+<tr>
+	<td>find</td>
+	<td>0.2631</td>
+</tr>
+<tr>
+	<td>school</td>
+	<td>0.2620</td>
+</tr>
+<tr>
+	<td>war</td>
+	<td>0.2596</td>
+</tr>
+<tr>
+	<td>men</td>
+	<td>0.2586</td>
+</tr>
+<tr>
+	<td>art</td>
+	<td>0.2574</td>
+</tr>
+<tr>
+	<td>class</td>
+	<td>0.2572</td>
+</tr>
+<tr>
+	<td>american</td>
+	<td>0.2564</td>
+</tr>
+<tr>
+	<td>plan</td>
+	<td>0.2538</td>
+</tr>
+<tr>
+	<td>found</td>
+	<td>0.2532</td>
+</tr>
+<tr>
+	<td>end</td>
+	<td>0.2516</td>
+</tr>
+<tr>
+	<td>problem</td>
+	<td>0.2514</td>
+</tr>
+<tr>
+	<td>show</td>
+	<td>0.2510</td>
+</tr>
+<tr>
+	<td>may day</td>
+	<td>0.2500</td>
+</tr>
+<tr>
+	<td>although</td>
+	<td>0.2490</td>
+</tr>
+<tr>
+	<td>every</td>
+	<td>0.2490</td>
+</tr>
+<tr>
+	<td>point</td>
+	<td>0.2458</td>
+</tr>
+<tr>
+	<td>subject</td>
+	<td>0.2454</td>
+</tr>
+<tr>
+	<td>form</td>
+	<td>0.2452</td>
+</tr>
+<tr>
+	<td>whole</td>
+	<td>0.2446</td>
+</tr>
+<tr>
+	<td>faculty</td>
+	<td>0.2410</td>
+</tr>
+<tr>
+	<td>dance</td>
+	<td>0.2382</td>
+</tr>
+<tr>
+	<td>another</td>
+	<td>0.2378</td>
+</tr>
+<tr>
+	<td>best</td>
+	<td>0.2365</td>
+</tr>
+<tr>
+	<td>second</td>
+	<td>0.2349</td>
+</tr>
+<tr>
+	<td>never</td>
+	<td>0.2345</td>
+</tr>
+<tr>
+	<td>alway</td>
+	<td>0.2293</td>
+</tr>
+<tr>
+	<td>field</td>
+	<td>0.2263</td>
+</tr>
+<tr>
+	<td>need</td>
+	<td>0.2251</td>
+</tr>
+<tr>
+	<td>idea</td>
+	<td>0.2239</td>
+</tr>
+<tr>
+	<td>use</td>
+	<td>0.2213</td>
+</tr>
+<tr>
+	<td>place</td>
+	<td>0.2211</td>
+</tr>
+<tr>
+	<td>feel</td>
+	<td>0.2179</td>
+</tr>
+<tr>
+	<td>campus</td>
+	<td>0.2177</td>
+</tr>
+<tr>
+	<td>line</td>
+	<td>0.2175</td>
+</tr>
+<tr>
+	<td>word</td>
+	<td>0.2175</td>
+</tr>
+<tr>
+	<td>still</td>
+	<td>0.2157</td>
+</tr>
+<tr>
+	<td>back</td>
+	<td>0.2151</td>
+</tr>
+<tr>
+	<td>long</td>
+	<td>0.2137</td>
+</tr>
+<tr>
+	<td>music</td>
+	<td>0.2129</td>
+</tr>
+<tr>
+	<td>country</td>
+	<td>0.2129</td>
+</tr>
+<tr>
+	<td>state</td>
+	<td>0.2122</td>
+</tr>
+<tr>
+	<td>program</td>
+	<td>0.2100</td>
+</tr>
+<tr>
+	<td>undergraduate</td>
+	<td>0.2100</td>
+</tr>
+<tr>
+	<td>among</td>
+	<td>0.2096</td>
+</tr>
+<tr>
+	<td>yet</td>
+	<td>0.2074</td>
+</tr>
+<tr>
+	<td>think</td>
+	<td>0.2072</td>
+</tr>
+<tr>
+	<td>rather</td>
+	<td>0.2056</td>
+</tr>
+<tr>
+	<td>committee</td>
+	<td>0.2038</td>
+</tr>
+<tr>
+	<td>mean</td>
+	<td>0.2026</td>
+</tr>
+<tr>
+	<td>question</td>
+	<td>0.2022</td>
+</tr>
+<tr>
+	<td>without</td>
+	<td>0.2016</td>
+</tr>
+<tr>
+	<td>change</td>
+	<td>0.1986</td>
+</tr>
+<tr>
+	<td>thought</td>
+	<td>0.1978</td>
+</tr>
+</table>
+</div>
 	<div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1940s</h3>
-	<table style="width:100%">
-	<tr>
-		<th>Word</th>
-		<th>Frequency</th>
-	</tr>
-	<tr>
-		<td>student</td>
-		<td>1.0</td>
-	</tr>
-	<tr>
-		<td>year</td>
-		<td>0.7383857846285592</td>
-	</tr>
-	<tr>
-		<td>work</td>
-		<td>0.6788696210661529</td>
-	</tr>
-	<tr>
-		<td>time</td>
-		<td>0.6330550203382573</td>
-	</tr>
-	<tr>
-		<td>first</td>
-		<td>0.5071719117961893</td>
-	</tr>
-	<tr>
-		<td>now</td>
-		<td>0.4849068721901092</td>
-	</tr>
-	<tr>
-		<td>said</td>
-		<td>0.4448726182830229</td>
-	</tr>
-	<tr>
-		<td>war</td>
-		<td>0.441233140655106</td>
-	</tr>
-	<tr>
-		<td>play</td>
-		<td>0.4311710554485121</td>
-	</tr>
-	<tr>
-		<td>made</td>
-		<td>0.42110897024191823</td>
-	</tr>
-	<tr>
-		<td>well</td>
-		<td>0.39220723613787195</td>
-	</tr>
-	<tr>
-		<td>new</td>
-		<td>0.38235923785056736</td>
-	</tr>
-	<tr>
-		<td>new york</td>
-		<td>0.3637336758724042</td>
-	</tr>
-	<tr>
-		<td>group</td>
-		<td>0.3605223720830657</td>
-	</tr>
-	<tr>
-		<td>member</td>
-		<td>0.35067437379576105</td>
-	</tr>
-	<tr>
-		<td>course</td>
-		<td>0.35067437379576105</td>
-	</tr>
-	<tr>
-		<td>present</td>
-		<td>0.34981802611860413</td>
-	</tr>
-	<tr>
-		<td>make</td>
-		<td>0.3412545493470349</td>
-	</tr>
-	<tr>
-		<td>many</td>
-		<td>0.339541853992721</td>
-	</tr>
-	<tr>
-		<td>people</td>
-		<td>0.33269107257546565</td>
-	</tr>
-	<tr>
-		<td>come</td>
-		<td>0.32862342110897025</td>
-	</tr>
-	<tr>
-		<td>campus</td>
-		<td>0.32669663883536715</td>
-	</tr>
-	<tr>
-		<td>plan</td>
-		<td>0.322843074288161</td>
-	</tr>
-	<tr>
-		<td>problem</td>
-		<td>0.31920359666024406</td>
-	</tr>
-	<tr>
-		<td>may</td>
-		<td>0.31235281524298864</td>
-	</tr>
-	<tr>
-		<td>girl</td>
-		<td>0.30785698993791477</td>
-	</tr>
-	<tr>
-		<td>day</td>
-		<td>0.30700064226075785</td>
-	</tr>
-	<tr>
-		<td>good</td>
-		<td>0.30464568614857634</td>
-	</tr>
-	<tr>
-		<td>give</td>
-		<td>0.30293299079426245</td>
-	</tr>
-	<tr>
-		<td>given</td>
-		<td>0.29672447013487474</td>
-	</tr>
-	<tr>
-		<td>see</td>
-		<td>0.27574395204453006</td>
-	</tr>
-	<tr>
-		<td>man</td>
-		<td>0.27467351744808394</td>
-	</tr>
-	<tr>
-		<td>way</td>
-		<td>0.26953543138514235</td>
-	</tr>
-	<tr>
-		<td>committee</td>
-		<td>0.2643973453222008</td>
-	</tr>
-	<tr>
-		<td>faculty</td>
-		<td>0.2584029115821023</td>
-	</tr>
-	<tr>
-		<td>life</td>
-		<td>0.2575465639049454</td>
-	</tr>
-	<tr>
-		<td>world</td>
-		<td>0.25347891243845</td>
-	</tr>
-	<tr>
-		<td>week</td>
-		<td>0.25112395632626844</td>
-	</tr>
-	<tr>
-		<td>much</td>
-		<td>0.24941126097195462</td>
-	</tr>
-	<tr>
-		<td>part</td>
-		<td>0.24834082637550844</td>
-	</tr>
-	<tr>
-		<td>last</td>
-		<td>0.24427317490901307</td>
-	</tr>
-	<tr>
-		<td>even</td>
-		<td>0.24234639263540997</td>
-	</tr>
-	<tr>
-		<td>interest</td>
-		<td>0.24234639263540997</td>
-	</tr>
-	<tr>
-		<td>need</td>
-		<td>0.2342110897024192</td>
-	</tr>
-	<tr>
-		<td>take</td>
-		<td>0.23249839434810532</td>
-	</tr>
-	<tr>
-		<td>program</td>
-		<td>0.23249839434810532</td>
-	</tr>
-	<tr>
-		<td>women</td>
-		<td>0.22800256904303148</td>
-	</tr>
-	<tr>
-		<td>american</td>
-		<td>0.2254335260115607</td>
-	</tr>
-	<tr>
-		<td>men</td>
-		<td>0.22500535217298223</td>
-	</tr>
-	<tr>
-		<td>book</td>
-		<td>0.224791265253693</td>
-	</tr>
-	<tr>
-		<td>president</td>
-		<td>0.2226503960608007</td>
-	</tr>
-	<tr>
-		<td>fact</td>
-		<td>0.22093770070648683</td>
-	</tr>
-	<tr>
-		<td>field</td>
-		<td>0.21965317919075145</td>
-	</tr>
-	<tr>
-		<td>say</td>
-		<td>0.21751230999785914</td>
-	</tr>
-	<tr>
-		<td>show</td>
-		<td>0.2172982230785699</td>
-	</tr>
-	<tr>
-		<td>seem</td>
-		<td>0.2132305716120745</td>
-	</tr>
-	<tr>
-		<td>great</td>
-		<td>0.21216013701562836</td>
-	</tr>
-	<tr>
-		<td>little</td>
-		<td>0.20423892100192678</td>
-	</tr>
-	<tr>
-		<td>held</td>
-		<td>0.20124170413187753</td>
-	</tr>
-	<tr>
-		<td>haverford</td>
-		<td>0.20081353029329907</td>
-	</tr>
-	<tr>
-		<td>thing</td>
-		<td>0.19995718261614215</td>
-	</tr>
-	<tr>
-		<td>class</td>
-		<td>0.19760222650396062</td>
-	</tr>
-	<tr>
-		<td>united state</td>
-		<td>0.1963177049882252</td>
-	</tr>
-	<tr>
-		<td>know</td>
-		<td>0.1948190965532006</td>
-	</tr>
-	<tr>
-		<td>although</td>
-		<td>0.19460500963391136</td>
-	</tr>
-	<tr>
-		<td>art</td>
-		<td>0.18903874973239135</td>
-	</tr>
-	<tr>
-		<td>common room</td>
-		<td>0.1886105758938129</td>
-	</tr>
-	<tr>
-		<td>country</td>
-		<td>0.18839648897452366</td>
-	</tr>
-	<tr>
-		<td>job</td>
-		<td>0.18775422821665597</td>
-	</tr>
-	<tr>
-		<td>feel</td>
-		<td>0.18368657675016056</td>
-	</tr>
-	<tr>
-		<td>hall</td>
-		<td>0.1832584029115821</td>
-	</tr>
-	<tr>
-		<td>point</td>
-		<td>0.18304431599229287</td>
-	</tr>
-	<tr>
-		<td>state</td>
-		<td>0.18283022907300364</td>
-	</tr>
-	<tr>
-		<td>end</td>
-		<td>0.18154570755726826</td>
-	</tr>
-	<tr>
-		<td>question</td>
-		<td>0.18090344679940057</td>
-	</tr>
-	<tr>
-		<td>subject</td>
-		<td>0.1798330122029544</td>
-	</tr>
-	<tr>
-		<td>meeting</td>
-		<td>0.17940483836437593</td>
-	</tr>
-	<tr>
-		<td>every</td>
-		<td>0.17897666452579747</td>
-	</tr>
-	<tr>
-		<td>lecture</td>
-		<td>0.17747805609077286</td>
-	</tr>
-	<tr>
-		<td>history</td>
-		<td>0.1770498822521944</td>
-	</tr>
-	<tr>
-		<td>school</td>
-		<td>0.1751230999785913</td>
-	</tr>
-	<tr>
-		<td>best</td>
-		<td>0.17469492614001284</td>
-	</tr>
-	<tr>
-		<td>still</td>
-		<td>0.17362449154356668</td>
-	</tr>
-	<tr>
-		<td>found</td>
-		<td>0.16998501391564974</td>
-	</tr>
-	<tr>
-		<td>whole</td>
-		<td>0.16955684007707128</td>
-	</tr>
-	<tr>
-		<td>use</td>
-		<td>0.16805823164204667</td>
-	</tr>
-	<tr>
-		<td>freshmen</td>
-		<td>0.1667737101263113</td>
-	</tr>
-	<tr>
-		<td>organization</td>
-		<td>0.16655962320702206</td>
-	</tr>
-	<tr>
-		<td>find</td>
-		<td>0.16570327552986513</td>
-	</tr>
-	<tr>
-		<td>another</td>
-		<td>0.16399058017555126</td>
-	</tr>
-	<tr>
-		<td>place</td>
-		<td>0.16334831941768357</td>
-	</tr>
-	<tr>
-		<td>help</td>
-		<td>0.16334831941768357</td>
-	</tr>
-	<tr>
-		<td>french</td>
-		<td>0.16163562406336973</td>
-	</tr>
-	<tr>
-		<td>senior</td>
-		<td>0.16013701562834512</td>
-	</tr>
-	<tr>
-		<td>dance</td>
-		<td>0.1599229287090559</td>
-	</tr>
-	<tr>
-		<td>head</td>
-		<td>0.15970884178976666</td>
-	</tr>
-	<tr>
-		<td>among</td>
-		<td>0.1594947548704774</td>
-	</tr>
-	<tr>
-		<td>set</td>
-		<td>0.15863840719332048</td>
-	</tr>
-	<tr>
-		<td>form</td>
-		<td>0.15778205951616356</td>
-	</tr>
-	<tr>
-		<td>home</td>
-		<td>0.1573538856775851</td>
-	</tr>
-	</table>
-	</div>
+<table style="width:100%">
+<tr>
+	<th>Word</th>
+	<th>Frequency</th>
+</tr>
+<tr>
+	<td>student</td>
+	<td>1.0000</td>
+</tr>
+<tr>
+	<td>year</td>
+	<td>0.7384</td>
+</tr>
+<tr>
+	<td>work</td>
+	<td>0.6789</td>
+</tr>
+<tr>
+	<td>time</td>
+	<td>0.6331</td>
+</tr>
+<tr>
+	<td>first</td>
+	<td>0.5072</td>
+</tr>
+<tr>
+	<td>now</td>
+	<td>0.4849</td>
+</tr>
+<tr>
+	<td>said</td>
+	<td>0.4449</td>
+</tr>
+<tr>
+	<td>war</td>
+	<td>0.4412</td>
+</tr>
+<tr>
+	<td>play</td>
+	<td>0.4312</td>
+</tr>
+<tr>
+	<td>made</td>
+	<td>0.4211</td>
+</tr>
+<tr>
+	<td>well</td>
+	<td>0.3922</td>
+</tr>
+<tr>
+	<td>new</td>
+	<td>0.3824</td>
+</tr>
+<tr>
+	<td>new york</td>
+	<td>0.3637</td>
+</tr>
+<tr>
+	<td>group</td>
+	<td>0.3605</td>
+</tr>
+<tr>
+	<td>member</td>
+	<td>0.3507</td>
+</tr>
+<tr>
+	<td>course</td>
+	<td>0.3507</td>
+</tr>
+<tr>
+	<td>present</td>
+	<td>0.3498</td>
+</tr>
+<tr>
+	<td>make</td>
+	<td>0.3413</td>
+</tr>
+<tr>
+	<td>many</td>
+	<td>0.3395</td>
+</tr>
+<tr>
+	<td>people</td>
+	<td>0.3327</td>
+</tr>
+<tr>
+	<td>come</td>
+	<td>0.3286</td>
+</tr>
+<tr>
+	<td>campus</td>
+	<td>0.3267</td>
+</tr>
+<tr>
+	<td>plan</td>
+	<td>0.3228</td>
+</tr>
+<tr>
+	<td>problem</td>
+	<td>0.3192</td>
+</tr>
+<tr>
+	<td>may</td>
+	<td>0.3124</td>
+</tr>
+<tr>
+	<td>girl</td>
+	<td>0.3079</td>
+</tr>
+<tr>
+	<td>day</td>
+	<td>0.3070</td>
+</tr>
+<tr>
+	<td>good</td>
+	<td>0.3046</td>
+</tr>
+<tr>
+	<td>give</td>
+	<td>0.3029</td>
+</tr>
+<tr>
+	<td>given</td>
+	<td>0.2967</td>
+</tr>
+<tr>
+	<td>see</td>
+	<td>0.2757</td>
+</tr>
+<tr>
+	<td>man</td>
+	<td>0.2747</td>
+</tr>
+<tr>
+	<td>way</td>
+	<td>0.2695</td>
+</tr>
+<tr>
+	<td>committee</td>
+	<td>0.2644</td>
+</tr>
+<tr>
+	<td>faculty</td>
+	<td>0.2584</td>
+</tr>
+<tr>
+	<td>life</td>
+	<td>0.2575</td>
+</tr>
+<tr>
+	<td>world</td>
+	<td>0.2535</td>
+</tr>
+<tr>
+	<td>week</td>
+	<td>0.2511</td>
+</tr>
+<tr>
+	<td>much</td>
+	<td>0.2494</td>
+</tr>
+<tr>
+	<td>part</td>
+	<td>0.2483</td>
+</tr>
+<tr>
+	<td>last</td>
+	<td>0.2443</td>
+</tr>
+<tr>
+	<td>even</td>
+	<td>0.2423</td>
+</tr>
+<tr>
+	<td>interest</td>
+	<td>0.2423</td>
+</tr>
+<tr>
+	<td>need</td>
+	<td>0.2342</td>
+</tr>
+<tr>
+	<td>take</td>
+	<td>0.2325</td>
+</tr>
+<tr>
+	<td>program</td>
+	<td>0.2325</td>
+</tr>
+<tr>
+	<td>women</td>
+	<td>0.2280</td>
+</tr>
+<tr>
+	<td>american</td>
+	<td>0.2254</td>
+</tr>
+<tr>
+	<td>men</td>
+	<td>0.2250</td>
+</tr>
+<tr>
+	<td>book</td>
+	<td>0.2248</td>
+</tr>
+<tr>
+	<td>president</td>
+	<td>0.2227</td>
+</tr>
+<tr>
+	<td>fact</td>
+	<td>0.2209</td>
+</tr>
+<tr>
+	<td>field</td>
+	<td>0.2197</td>
+</tr>
+<tr>
+	<td>say</td>
+	<td>0.2175</td>
+</tr>
+<tr>
+	<td>show</td>
+	<td>0.2173</td>
+</tr>
+<tr>
+	<td>seem</td>
+	<td>0.2132</td>
+</tr>
+<tr>
+	<td>great</td>
+	<td>0.2122</td>
+</tr>
+<tr>
+	<td>little</td>
+	<td>0.2042</td>
+</tr>
+<tr>
+	<td>held</td>
+	<td>0.2012</td>
+</tr>
+<tr>
+	<td>haverford</td>
+	<td>0.2008</td>
+</tr>
+<tr>
+	<td>thing</td>
+	<td>0.2000</td>
+</tr>
+<tr>
+	<td>class</td>
+	<td>0.1976</td>
+</tr>
+<tr>
+	<td>united state</td>
+	<td>0.1963</td>
+</tr>
+<tr>
+	<td>know</td>
+	<td>0.1948</td>
+</tr>
+<tr>
+	<td>although</td>
+	<td>0.1946</td>
+</tr>
+<tr>
+	<td>art</td>
+	<td>0.1890</td>
+</tr>
+<tr>
+	<td>common room</td>
+	<td>0.1886</td>
+</tr>
+<tr>
+	<td>country</td>
+	<td>0.1884</td>
+</tr>
+<tr>
+	<td>job</td>
+	<td>0.1878</td>
+</tr>
+<tr>
+	<td>feel</td>
+	<td>0.1837</td>
+</tr>
+<tr>
+	<td>hall</td>
+	<td>0.1833</td>
+</tr>
+<tr>
+	<td>point</td>
+	<td>0.1830</td>
+</tr>
+<tr>
+	<td>state</td>
+	<td>0.1828</td>
+</tr>
+<tr>
+	<td>end</td>
+	<td>0.1815</td>
+</tr>
+<tr>
+	<td>question</td>
+	<td>0.1809</td>
+</tr>
+<tr>
+	<td>subject</td>
+	<td>0.1798</td>
+</tr>
+<tr>
+	<td>meeting</td>
+	<td>0.1794</td>
+</tr>
+<tr>
+	<td>every</td>
+	<td>0.1790</td>
+</tr>
+<tr>
+	<td>lecture</td>
+	<td>0.1775</td>
+</tr>
+<tr>
+	<td>history</td>
+	<td>0.1770</td>
+</tr>
+<tr>
+	<td>school</td>
+	<td>0.1751</td>
+</tr>
+<tr>
+	<td>best</td>
+	<td>0.1747</td>
+</tr>
+<tr>
+	<td>still</td>
+	<td>0.1736</td>
+</tr>
+<tr>
+	<td>found</td>
+	<td>0.1700</td>
+</tr>
+<tr>
+	<td>whole</td>
+	<td>0.1696</td>
+</tr>
+<tr>
+	<td>use</td>
+	<td>0.1681</td>
+</tr>
+<tr>
+	<td>freshmen</td>
+	<td>0.1668</td>
+</tr>
+<tr>
+	<td>organization</td>
+	<td>0.1666</td>
+</tr>
+<tr>
+	<td>find</td>
+	<td>0.1657</td>
+</tr>
+<tr>
+	<td>another</td>
+	<td>0.1640</td>
+</tr>
+<tr>
+	<td>place</td>
+	<td>0.1633</td>
+</tr>
+<tr>
+	<td>help</td>
+	<td>0.1633</td>
+</tr>
+<tr>
+	<td>french</td>
+	<td>0.1616</td>
+</tr>
+<tr>
+	<td>senior</td>
+	<td>0.1601</td>
+</tr>
+<tr>
+	<td>dance</td>
+	<td>0.1599</td>
+</tr>
+<tr>
+	<td>head</td>
+	<td>0.1597</td>
+</tr>
+<tr>
+	<td>among</td>
+	<td>0.1595</td>
+</tr>
+<tr>
+	<td>set</td>
+	<td>0.1586</td>
+</tr>
+<tr>
+	<td>form</td>
+	<td>0.1578</td>
+</tr>
+<tr>
+	<td>home</td>
+	<td>0.1574</td>
+</tr>
+</table>
+</div>
 	<div class="col-lg-4 col-sm-6">
-	<h3 style="text-align: center">1950s</h3>
-	<table style="width:100%">
-	<tr>
-		<th>Word</th>
-		<th>Frequency</th>
-	</tr>
-	<tr>
-		<td>student</td>
-		<td>1.0</td>
-	</tr>
-	<tr>
-		<td>time</td>
-		<td>0.6202196137826581</td>
-	</tr>
-	<tr>
-		<td>year</td>
-		<td>0.6124574024990533</td>
-	</tr>
-	<tr>
-		<td>work</td>
-		<td>0.5636122680802726</td>
-	</tr>
-	<tr>
-		<td>play</td>
-		<td>0.48031048845134416</td>
-	</tr>
-	<tr>
-		<td>first</td>
-		<td>0.46402877697841727</td>
-	</tr>
-	<tr>
-		<td>many</td>
-		<td>0.39360090874668685</td>
-	</tr>
-	<tr>
-		<td>people</td>
-		<td>0.3862173419159409</td>
-	</tr>
-	<tr>
-		<td>well</td>
-		<td>0.3843241196516471</td>
-	</tr>
-	<tr>
-		<td>may</td>
-		<td>0.38053767512305947</td>
-	</tr>
-	<tr>
-		<td>group</td>
-		<td>0.37712987504733053</td>
-	</tr>
-	<tr>
-		<td>new york</td>
-		<td>0.36368799697084436</td>
-	</tr>
-	<tr>
-		<td>now</td>
-		<td>0.3578190079515335</td>
-	</tr>
-	<tr>
-		<td>new</td>
-		<td>0.33510034078000756</td>
-	</tr>
-	<tr>
-		<td>make</td>
-		<td>0.3349110185535782</td>
-	</tr>
-	<tr>
-		<td>made</td>
-		<td>0.33434305187429003</td>
-	</tr>
-	<tr>
-		<td>said</td>
-		<td>0.32998864066641426</td>
-	</tr>
-	<tr>
-		<td>man</td>
-		<td>0.3237410071942446</td>
-	</tr>
-	<tr>
-		<td>good</td>
-		<td>0.32317304051495643</td>
-	</tr>
-	<tr>
-		<td>come</td>
-		<td>0.3205225293449451</td>
-	</tr>
-	<tr>
-		<td>col</td>
-		<td>0.3195759182127982</td>
-	</tr>
-	<tr>
-		<td>problem</td>
-		<td>0.306134040136312</td>
-	</tr>
-	<tr>
-		<td>way</td>
-		<td>0.3017796289284362</td>
-	</tr>
-	<tr>
-		<td>see</td>
-		<td>0.299697084437713</td>
-	</tr>
-	<tr>
-		<td>program</td>
-		<td>0.2991291177584248</td>
-	</tr>
-	<tr>
-		<td>present</td>
-		<td>0.29818250662627793</td>
-	</tr>
-	<tr>
-		<td>much</td>
-		<td>0.29609996213555473</td>
-	</tr>
-	<tr>
-		<td>member</td>
-		<td>0.285876561908368</td>
-	</tr>
-	<tr>
-		<td>life</td>
-		<td>0.2851192730026505</td>
-	</tr>
-	<tr>
-		<td>part</td>
-		<td>0.284361984096933</td>
-	</tr>
-	<tr>
-		<td>campus</td>
-		<td>0.28246876183263914</td>
-	</tr>
-	<tr>
-		<td>course</td>
-		<td>0.28227943960620977</td>
-	</tr>
-	<tr>
-		<td>world</td>
-		<td>0.26921620598258234</td>
-	</tr>
-	<tr>
-		<td>day</td>
-		<td>0.26902688375615297</td>
-	</tr>
-	<tr>
-		<td>interest</td>
-		<td>0.2614539946989777</td>
-	</tr>
-	<tr>
-		<td>even</td>
-		<td>0.2599394168875426</td>
-	</tr>
-	<tr>
-		<td>give</td>
-		<td>0.2588034835289663</td>
-	</tr>
-	<tr>
-		<td>show</td>
-		<td>0.2580461946232488</td>
-	</tr>
-	<tr>
-		<td>girl</td>
-		<td>0.25747822794396064</td>
-	</tr>
-	<tr>
-		<td>given</td>
-		<td>0.24290041650889815</td>
-	</tr>
-	<tr>
-		<td>book</td>
-		<td>0.23324498296099963</td>
-	</tr>
-	<tr>
-		<td>feel</td>
-		<td>0.23248769405528208</td>
-	</tr>
-	<tr>
-		<td>say</td>
-		<td>0.22983718288527072</td>
-	</tr>
-	<tr>
-		<td>seem</td>
-		<td>0.22642938280954183</td>
-	</tr>
-	<tr>
-		<td>question</td>
-		<td>0.2192351382052253</td>
-	</tr>
-	<tr>
-		<td>fact</td>
-		<td>0.2167739492616433</td>
-	</tr>
-	<tr>
-		<td>great</td>
-		<td>0.21544869367663763</td>
-	</tr>
-	<tr>
-		<td>class</td>
-		<td>0.2114729269216206</td>
-	</tr>
-	<tr>
-		<td>take</td>
-		<td>0.2078758046194623</td>
-	</tr>
-	<tr>
-		<td>plan</td>
-		<td>0.20730783794017418</td>
-	</tr>
-	<tr>
-		<td>idea</td>
-		<td>0.20730783794017418</td>
-	</tr>
-	<tr>
-		<td>need</td>
-		<td>0.20692919348731542</td>
-	</tr>
-	<tr>
-		<td>thing</td>
-		<td>0.202764104505869</td>
-	</tr>
-	<tr>
-		<td>last</td>
-		<td>0.20181749337372207</td>
-	</tr>
-	<tr>
-		<td>although</td>
-		<td>0.20030291556228702</td>
-	</tr>
-	<tr>
-		<td>rather</td>
-		<td>0.20011359333585763</td>
-	</tr>
-	<tr>
-		<td>know</td>
-		<td>0.19992427110942826</td>
-	</tr>
-	<tr>
-		<td>american</td>
-		<td>0.1991669822037107</td>
-	</tr>
-	<tr>
-		<td>music</td>
-		<td>0.19878833775085195</td>
-	</tr>
-	<tr>
-		<td>find</td>
-		<td>0.1970844377129875</td>
-	</tr>
-	<tr>
-		<td>men</td>
-		<td>0.193865959863688</td>
-	</tr>
-	<tr>
-		<td>think</td>
-		<td>0.19348731541082922</td>
-	</tr>
-	<tr>
-		<td>state</td>
-		<td>0.19159409314653542</td>
-	</tr>
-	<tr>
-		<td>professor</td>
-		<td>0.1904581597879591</td>
-	</tr>
-	<tr>
-		<td>little</td>
-		<td>0.18799697084437714</td>
-	</tr>
-	<tr>
-		<td>point</td>
-		<td>0.18799697084437714</td>
-	</tr>
-	<tr>
-		<td>field</td>
-		<td>0.18723968193865959</td>
-	</tr>
-	<tr>
-		<td>president</td>
-		<td>0.18364255963650133</td>
-	</tr>
-	<tr>
-		<td>school</td>
-		<td>0.18231730405149565</td>
-	</tr>
-	<tr>
-		<td>haverford</td>
-		<td>0.18004543733434306</td>
-	</tr>
-	<tr>
-		<td>still</td>
-		<td>0.17625899280575538</td>
-	</tr>
-	<tr>
-		<td>set</td>
-		<td>0.1739871260886028</td>
-	</tr>
-	<tr>
-		<td>use</td>
-		<td>0.17266187050359713</td>
-	</tr>
-	<tr>
-		<td>speak</td>
-		<td>0.17228322605073837</td>
-	</tr>
-	<tr>
-		<td>week</td>
-		<td>0.17228322605073837</td>
-	</tr>
-	<tr>
-		<td>country</td>
-		<td>0.17209390382430897</td>
-	</tr>
-	<tr>
-		<td>every</td>
-		<td>0.17152593714502082</td>
-	</tr>
-	<tr>
-		<td>change</td>
-		<td>0.1709579704657327</td>
-	</tr>
-	<tr>
-		<td>held</td>
-		<td>0.1705793260128739</td>
-	</tr>
-	<tr>
-		<td>committee</td>
-		<td>0.169632714880727</td>
-	</tr>
-	<tr>
-		<td>study</td>
-		<td>0.16887542597500946</td>
-	</tr>
-	<tr>
-		<td>art</td>
-		<td>0.16811813706929193</td>
-	</tr>
-	<tr>
-		<td>subject</td>
-		<td>0.16698220371071565</td>
-	</tr>
-	<tr>
-		<td>among</td>
-		<td>0.16527830367285118</td>
-	</tr>
-	<tr>
-		<td>united state</td>
-		<td>0.16527830367285118</td>
-	</tr>
-	<tr>
-		<td>faculty</td>
-		<td>0.16489965921999242</td>
-	</tr>
-	<tr>
-		<td>end</td>
-		<td>0.1641423703142749</td>
-	</tr>
-	<tr>
-		<td>history</td>
-		<td>0.16319575918212798</td>
-	</tr>
-	<tr>
-		<td>job</td>
-		<td>0.1628171147292692</td>
-	</tr>
-	<tr>
-		<td>education</td>
-		<td>0.1620598258235517</td>
-	</tr>
-	<tr>
-		<td>another</td>
-		<td>0.1584627035213934</td>
-	</tr>
-	<tr>
-		<td>found</td>
-		<td>0.1575160923892465</td>
-	</tr>
-	<tr>
-		<td>lecture</td>
-		<td>0.15732677016281713</td>
-	</tr>
-	<tr>
-		<td>mean</td>
-		<td>0.15713744793638773</td>
-	</tr>
-	<tr>
-		<td>place</td>
-		<td>0.1563801590306702</td>
-	</tr>
-	<tr>
-		<td>audience</td>
-		<td>0.1563801590306702</td>
-	</tr>
-	<tr>
-		<td>help</td>
-		<td>0.15600151457781145</td>
-	</tr>
-	<tr>
-		<td>women</td>
-		<td>0.1554335478985233</td>
-	</tr>
-	<tr>
-		<td>right</td>
-		<td>0.15467625899280577</td>
-	</tr>
-	<tr>
-		<td>best</td>
-		<td>0.15448693676637637</td>
-	</tr>
-	</table>
+<h3 style="text-align: center">1950s</h3>
+<table style="width:100%">
+<tr>
+	<th>Word</th>
+	<th>Frequency</th>
+</tr>
+<tr>
+	<td>student</td>
+	<td>1.0000</td>
+</tr>
+<tr>
+	<td>time</td>
+	<td>0.6202</td>
+</tr>
+<tr>
+	<td>year</td>
+	<td>0.6125</td>
+</tr>
+<tr>
+	<td>work</td>
+	<td>0.5636</td>
+</tr>
+<tr>
+	<td>play</td>
+	<td>0.4803</td>
+</tr>
+<tr>
+	<td>first</td>
+	<td>0.4640</td>
+</tr>
+<tr>
+	<td>many</td>
+	<td>0.3936</td>
+</tr>
+<tr>
+	<td>people</td>
+	<td>0.3862</td>
+</tr>
+<tr>
+	<td>well</td>
+	<td>0.3843</td>
+</tr>
+<tr>
+	<td>may</td>
+	<td>0.3805</td>
+</tr>
+<tr>
+	<td>group</td>
+	<td>0.3771</td>
+</tr>
+<tr>
+	<td>new york</td>
+	<td>0.3637</td>
+</tr>
+<tr>
+	<td>now</td>
+	<td>0.3578</td>
+</tr>
+<tr>
+	<td>new</td>
+	<td>0.3351</td>
+</tr>
+<tr>
+	<td>make</td>
+	<td>0.3349</td>
+</tr>
+<tr>
+	<td>made</td>
+	<td>0.3343</td>
+</tr>
+<tr>
+	<td>said</td>
+	<td>0.3300</td>
+</tr>
+<tr>
+	<td>man</td>
+	<td>0.3237</td>
+</tr>
+<tr>
+	<td>good</td>
+	<td>0.3232</td>
+</tr>
+<tr>
+	<td>come</td>
+	<td>0.3205</td>
+</tr>
+<tr>
+	<td>col</td>
+	<td>0.3196</td>
+</tr>
+<tr>
+	<td>problem</td>
+	<td>0.3061</td>
+</tr>
+<tr>
+	<td>way</td>
+	<td>0.3018</td>
+</tr>
+<tr>
+	<td>see</td>
+	<td>0.2997</td>
+</tr>
+<tr>
+	<td>program</td>
+	<td>0.2991</td>
+</tr>
+<tr>
+	<td>present</td>
+	<td>0.2982</td>
+</tr>
+<tr>
+	<td>much</td>
+	<td>0.2961</td>
+</tr>
+<tr>
+	<td>member</td>
+	<td>0.2859</td>
+</tr>
+<tr>
+	<td>life</td>
+	<td>0.2851</td>
+</tr>
+<tr>
+	<td>part</td>
+	<td>0.2844</td>
+</tr>
+<tr>
+	<td>campus</td>
+	<td>0.2825</td>
+</tr>
+<tr>
+	<td>course</td>
+	<td>0.2823</td>
+</tr>
+<tr>
+	<td>world</td>
+	<td>0.2692</td>
+</tr>
+<tr>
+	<td>day</td>
+	<td>0.2690</td>
+</tr>
+<tr>
+	<td>interest</td>
+	<td>0.2615</td>
+</tr>
+<tr>
+	<td>even</td>
+	<td>0.2599</td>
+</tr>
+<tr>
+	<td>give</td>
+	<td>0.2588</td>
+</tr>
+<tr>
+	<td>show</td>
+	<td>0.2580</td>
+</tr>
+<tr>
+	<td>girl</td>
+	<td>0.2575</td>
+</tr>
+<tr>
+	<td>given</td>
+	<td>0.2429</td>
+</tr>
+<tr>
+	<td>book</td>
+	<td>0.2332</td>
+</tr>
+<tr>
+	<td>feel</td>
+	<td>0.2325</td>
+</tr>
+<tr>
+	<td>say</td>
+	<td>0.2298</td>
+</tr>
+<tr>
+	<td>seem</td>
+	<td>0.2264</td>
+</tr>
+<tr>
+	<td>question</td>
+	<td>0.2192</td>
+</tr>
+<tr>
+	<td>fact</td>
+	<td>0.2168</td>
+</tr>
+<tr>
+	<td>great</td>
+	<td>0.2154</td>
+</tr>
+<tr>
+	<td>class</td>
+	<td>0.2115</td>
+</tr>
+<tr>
+	<td>take</td>
+	<td>0.2079</td>
+</tr>
+<tr>
+	<td>plan</td>
+	<td>0.2073</td>
+</tr>
+<tr>
+	<td>idea</td>
+	<td>0.2073</td>
+</tr>
+<tr>
+	<td>need</td>
+	<td>0.2069</td>
+</tr>
+<tr>
+	<td>thing</td>
+	<td>0.2028</td>
+</tr>
+<tr>
+	<td>last</td>
+	<td>0.2018</td>
+</tr>
+<tr>
+	<td>although</td>
+	<td>0.2003</td>
+</tr>
+<tr>
+	<td>rather</td>
+	<td>0.2001</td>
+</tr>
+<tr>
+	<td>know</td>
+	<td>0.1999</td>
+</tr>
+<tr>
+	<td>american</td>
+	<td>0.1992</td>
+</tr>
+<tr>
+	<td>music</td>
+	<td>0.1988</td>
+</tr>
+<tr>
+	<td>find</td>
+	<td>0.1971</td>
+</tr>
+<tr>
+	<td>men</td>
+	<td>0.1939</td>
+</tr>
+<tr>
+	<td>think</td>
+	<td>0.1935</td>
+</tr>
+<tr>
+	<td>state</td>
+	<td>0.1916</td>
+</tr>
+<tr>
+	<td>professor</td>
+	<td>0.1905</td>
+</tr>
+<tr>
+	<td>little</td>
+	<td>0.1880</td>
+</tr>
+<tr>
+	<td>point</td>
+	<td>0.1880</td>
+</tr>
+<tr>
+	<td>field</td>
+	<td>0.1872</td>
+</tr>
+<tr>
+	<td>president</td>
+	<td>0.1836</td>
+</tr>
+<tr>
+	<td>school</td>
+	<td>0.1823</td>
+</tr>
+<tr>
+	<td>haverford</td>
+	<td>0.1800</td>
+</tr>
+<tr>
+	<td>still</td>
+	<td>0.1763</td>
+</tr>
+<tr>
+	<td>set</td>
+	<td>0.1740</td>
+</tr>
+<tr>
+	<td>use</td>
+	<td>0.1727</td>
+</tr>
+<tr>
+	<td>speak</td>
+	<td>0.1723</td>
+</tr>
+<tr>
+	<td>week</td>
+	<td>0.1723</td>
+</tr>
+<tr>
+	<td>country</td>
+	<td>0.1721</td>
+</tr>
+<tr>
+	<td>every</td>
+	<td>0.1715</td>
+</tr>
+<tr>
+	<td>change</td>
+	<td>0.1710</td>
+</tr>
+<tr>
+	<td>held</td>
+	<td>0.1706</td>
+</tr>
+<tr>
+	<td>committee</td>
+	<td>0.1696</td>
+</tr>
+<tr>
+	<td>study</td>
+	<td>0.1689</td>
+</tr>
+<tr>
+	<td>art</td>
+	<td>0.1681</td>
+</tr>
+<tr>
+	<td>subject</td>
+	<td>0.1670</td>
+</tr>
+<tr>
+	<td>among</td>
+	<td>0.1653</td>
+</tr>
+<tr>
+	<td>united state</td>
+	<td>0.1653</td>
+</tr>
+<tr>
+	<td>faculty</td>
+	<td>0.1649</td>
+</tr>
+<tr>
+	<td>end</td>
+	<td>0.1641</td>
+</tr>
+<tr>
+	<td>history</td>
+	<td>0.1632</td>
+</tr>
+<tr>
+	<td>job</td>
+	<td>0.1628</td>
+</tr>
+<tr>
+	<td>education</td>
+	<td>0.1621</td>
+</tr>
+<tr>
+	<td>another</td>
+	<td>0.1585</td>
+</tr>
+<tr>
+	<td>found</td>
+	<td>0.1575</td>
+</tr>
+<tr>
+	<td>lecture</td>
+	<td>0.1573</td>
+</tr>
+<tr>
+	<td>mean</td>
+	<td>0.1571</td>
+</tr>
+<tr>
+	<td>place</td>
+	<td>0.1564</td>
+</tr>
+<tr>
+	<td>audience</td>
+	<td>0.1564</td>
+</tr>
+<tr>
+	<td>help</td>
+	<td>0.1560</td>
+</tr>
+<tr>
+	<td>women</td>
+	<td>0.1554</td>
+</tr>
+<tr>
+	<td>right</td>
+	<td>0.1547</td>
+</tr>
+<tr>
+	<td>best</td>
+	<td>0.1545</td>
+</tr>
+</table>
 	</div>
 	<div class="col-lg-4 col-sm-6">
 	<h3 style="text-align: center">1960s</h3>
-	<table style="width:100%">
-	<tr>
-		<th>Word</th>
-		<th>Frequency</th>
-	</tr>
-	<tr>
-		<td>student</td>
-		<td>1.0</td>
-	</tr>
-	<tr>
-		<td>year</td>
-		<td>0.40250498149729574</td>
-	</tr>
-	<tr>
-		<td>time</td>
-		<td>0.3743239396527185</td>
-	</tr>
-	<tr>
-		<td>work</td>
-		<td>0.35269000853970967</td>
-	</tr>
-	<tr>
-		<td>haverford</td>
-		<td>0.3033020210646171</td>
-	</tr>
-	<tr>
-		<td>new</td>
-		<td>0.2919157415314546</td>
-	</tr>
-	<tr>
-		<td>first</td>
-		<td>0.28778821520068315</td>
-	</tr>
-	<tr>
-		<td>campus</td>
-		<td>0.2859379447765443</td>
-	</tr>
-	<tr>
-		<td>group</td>
-		<td>0.2736976942783945</td>
-	</tr>
-	<tr>
-		<td>program</td>
-		<td>0.26857386848847137</td>
-	</tr>
-	<tr>
-		<td>people</td>
-		<td>0.2593225163677768</td>
-	</tr>
-	<tr>
-		<td>many</td>
-		<td>0.25491033304867633</td>
-	</tr>
-	<tr>
-		<td>problem</td>
-		<td>0.2517791061770566</td>
-	</tr>
-	<tr>
-		<td>play</td>
-		<td>0.24679760888129804</td>
-	</tr>
-	<tr>
-		<td>may</td>
-		<td>0.2466552803871335</td>
-	</tr>
-	<tr>
-		<td>now</td>
-		<td>0.24224309706803301</td>
-	</tr>
-	<tr>
-		<td>girl</td>
-		<td>0.2372615997722744</td>
-	</tr>
-	<tr>
-		<td>well</td>
-		<td>0.23028750355821234</td>
-	</tr>
-	<tr>
-		<td>make</td>
-		<td>0.2201821804725306</td>
-	</tr>
-	<tr>
-		<td>school</td>
-		<td>0.2112154853401651</td>
-	</tr>
-	<tr>
-		<td>new york</td>
-		<td>0.21050384286934246</td>
-	</tr>
-	<tr>
-		<td>member</td>
-		<td>0.203956732137774</td>
-	</tr>
-	<tr>
-		<td>present</td>
-		<td>0.2035297466552804</td>
-	</tr>
-	<tr>
-		<td>course</td>
-		<td>0.20025619128949615</td>
-	</tr>
-	<tr>
-		<td>said</td>
-		<td>0.1968403074295474</td>
-	</tr>
-	<tr>
-		<td>made</td>
-		<td>0.19385140905209222</td>
-	</tr>
-	<tr>
-		<td>plan</td>
-		<td>0.18716196982635924</td>
-	</tr>
-	<tr>
-		<td>see</td>
-		<td>0.18602334187304298</td>
-	</tr>
-	<tr>
-		<td>way</td>
-		<td>0.18531169940222034</td>
-	</tr>
-	<tr>
-		<td>come</td>
-		<td>0.18075718758895531</td>
-	</tr>
-	<tr>
-		<td>world</td>
-		<td>0.17833760318815828</td>
-	</tr>
-	<tr>
-		<td>even</td>
-		<td>0.16808995160831197</td>
-	</tr>
-	<tr>
-		<td>committee</td>
-		<td>0.16623968118417307</td>
-	</tr>
-	<tr>
-		<td>week</td>
-		<td>0.1649587247366923</td>
-	</tr>
-	<tr>
-		<td>much</td>
-		<td>0.15826928551095928</td>
-	</tr>
-	<tr>
-		<td>interest</td>
-		<td>0.15755764304013664</td>
-	</tr>
-	<tr>
-		<td>part</td>
-		<td>0.1569883290634785</td>
-	</tr>
-	<tr>
-		<td>man</td>
-		<td>0.15414175918018788</td>
-	</tr>
-	<tr>
-		<td>good</td>
-		<td>0.15172217477939084</td>
-	</tr>
-	<tr>
-		<td>question</td>
-		<td>0.15044121833191004</td>
-	</tr>
-	<tr>
-		<td>day</td>
-		<td>0.14674067748363223</td>
-	</tr>
-	<tr>
-		<td>need</td>
-		<td>0.1457443780244805</td>
-	</tr>
-	<tr>
-		<td>say</td>
-		<td>0.14460575007116425</td>
-	</tr>
-	<tr>
-		<td>take</td>
-		<td>0.14460575007116425</td>
-	</tr>
-	<tr>
-		<td>show</td>
-		<td>0.14389410760034158</td>
-	</tr>
-	<tr>
-		<td>self gov</td>
-		<td>0.13976658126957017</td>
-	</tr>
-	<tr>
-		<td>give</td>
-		<td>0.13877028181041845</td>
-	</tr>
-	<tr>
-		<td>feel</td>
-		<td>0.13834329632792486</td>
-	</tr>
-	<tr>
-		<td>faculty</td>
-		<td>0.13820096783376032</td>
-	</tr>
-	<tr>
-		<td>issue</td>
-		<td>0.1354967264446342</td>
-	</tr>
-	<tr>
-		<td>life</td>
-		<td>0.1353543979504697</td>
-	</tr>
-	<tr>
-		<td>change</td>
-		<td>0.1350697409621406</td>
-	</tr>
-	<tr>
-		<td>think</td>
-		<td>0.1332194705380017</td>
-	</tr>
-	<tr>
-		<td>seem</td>
-		<td>0.13236549957301452</td>
-	</tr>
-	<tr>
-		<td>fact</td>
-		<td>0.13222317107884998</td>
-	</tr>
-	<tr>
-		<td>system</td>
-		<td>0.13037290065471108</td>
-	</tr>
-	<tr>
-		<td>music</td>
-		<td>0.130088243666382</td>
-	</tr>
-	<tr>
-		<td>editor</td>
-		<td>0.12980358667805295</td>
-	</tr>
-	<tr>
-		<td>rather</td>
-		<td>0.12937660119555935</td>
-	</tr>
-	<tr>
-		<td>book</td>
-		<td>0.12923427270139481</td>
-	</tr>
-	<tr>
-		<td>use</td>
-		<td>0.12894961571306576</td>
-	</tr>
-	<tr>
-		<td>meeting</td>
-		<td>0.1273840022772559</td>
-	</tr>
-	<tr>
-		<td>area</td>
-		<td>0.12439510389980074</td>
-	</tr>
-	<tr>
-		<td>given</td>
-		<td>0.12339880444064902</td>
-	</tr>
-	<tr>
-		<td>american</td>
-		<td>0.12325647594648449</td>
-	</tr>
-	<tr>
-		<td>discussion</td>
-		<td>0.1224025049814973</td>
-	</tr>
-	<tr>
-		<td>idea</td>
-		<td>0.12126387702818105</td>
-	</tr>
-	<tr>
-		<td>thing</td>
-		<td>0.12126387702818105</td>
-	</tr>
-	<tr>
-		<td>find</td>
-		<td>0.12126387702818105</td>
-	</tr>
-	<tr>
-		<td>know</td>
-		<td>0.12069456305152292</td>
-	</tr>
-	<tr>
-		<td>hope</td>
-		<td>0.11984059208653572</td>
-	</tr>
-	<tr>
-		<td>president</td>
-		<td>0.1192712781098776</td>
-	</tr>
-	<tr>
-		<td>another</td>
-		<td>0.11912894961571306</td>
-	</tr>
-	<tr>
-		<td>lecture</td>
-		<td>0.118844292627384</td>
-	</tr>
-	<tr>
-		<td>organization</td>
-		<td>0.11827497865072588</td>
-	</tr>
-	<tr>
-		<td>set</td>
-		<td>0.11727867919157416</td>
-	</tr>
-	<tr>
-		<td>individual</td>
-		<td>0.11642470822658696</td>
-	</tr>
-	<tr>
-		<td>community</td>
-		<td>0.11528608027327071</td>
-	</tr>
-	<tr>
-		<td>class</td>
-		<td>0.11500142328494165</td>
-	</tr>
-	<tr>
-		<td>open</td>
-		<td>0.11500142328494165</td>
-	</tr>
-	<tr>
-		<td>men</td>
-		<td>0.11471676629661258</td>
-	</tr>
-	<tr>
-		<td>stu dent</td>
-		<td>0.11471676629661258</td>
-	</tr>
-	<tr>
-		<td>professor</td>
-		<td>0.11372046683746086</td>
-	</tr>
-	<tr>
-		<td>might</td>
-		<td>0.1130088243666382</td>
-	</tr>
-	<tr>
-		<td>art</td>
-		<td>0.11272416737830913</td>
-	</tr>
-	<tr>
-		<td>although</td>
-		<td>0.11258183888414461</td>
-	</tr>
-	<tr>
-		<td>end</td>
-		<td>0.11229718189581554</td>
-	</tr>
-	<tr>
-		<td>col</td>
-		<td>0.11101622544833475</td>
-	</tr>
-	<tr>
-		<td>perhaps</td>
-		<td>0.11101622544833475</td>
-	</tr>
-	<tr>
-		<td>point</td>
-		<td>0.11044691147167662</td>
-	</tr>
-	<tr>
-		<td>study</td>
-		<td>0.10831198405920865</td>
-	</tr>
-	<tr>
-		<td>help</td>
-		<td>0.10831198405920865</td>
-	</tr>
-	<tr>
-		<td>mean</td>
-		<td>0.10788499857671506</td>
-	</tr>
-	<tr>
-		<td>state</td>
-		<td>0.107600341588386</td>
-	</tr>
-	<tr>
-		<td>last</td>
-		<td>0.1063193851409052</td>
-	</tr>
-	<tr>
-		<td>right</td>
-		<td>0.1063193851409052</td>
-	</tr>
-	<tr>
-		<td>major</td>
-		<td>0.10603472815257614</td>
-	</tr>
-	<tr>
-		<td>great</td>
-		<td>0.10575007116424709</td>
-	</tr>
-	<tr>
-		<td>action</td>
-		<td>0.10560774267008255</td>
-	</tr>
-	<tr>
-		<td>undergrad</td>
-		<td>0.10418445772843724</td>
-	</tr>
-	</table>
+<table style="width:100%">
+<tr>
+	<th>Word</th>
+	<th>Frequency</th>
+</tr>
+<tr>
+	<td>student</td>
+	<td>1.0000</td>
+</tr>
+<tr>
+	<td>year</td>
+	<td>0.4025</td>
+</tr>
+<tr>
+	<td>time</td>
+	<td>0.3743</td>
+</tr>
+<tr>
+	<td>work</td>
+	<td>0.3527</td>
+</tr>
+<tr>
+	<td>haverford</td>
+	<td>0.3033</td>
+</tr>
+<tr>
+	<td>new</td>
+	<td>0.2919</td>
+</tr>
+<tr>
+	<td>first</td>
+	<td>0.2878</td>
+</tr>
+<tr>
+	<td>campus</td>
+	<td>0.2859</td>
+</tr>
+<tr>
+	<td>group</td>
+	<td>0.2737</td>
+</tr>
+<tr>
+	<td>program</td>
+	<td>0.2686</td>
+</tr>
+<tr>
+	<td>people</td>
+	<td>0.2593</td>
+</tr>
+<tr>
+	<td>many</td>
+	<td>0.2549</td>
+</tr>
+<tr>
+	<td>problem</td>
+	<td>0.2518</td>
+</tr>
+<tr>
+	<td>play</td>
+	<td>0.2468</td>
+</tr>
+<tr>
+	<td>may</td>
+	<td>0.2467</td>
+</tr>
+<tr>
+	<td>now</td>
+	<td>0.2422</td>
+</tr>
+<tr>
+	<td>girl</td>
+	<td>0.2373</td>
+</tr>
+<tr>
+	<td>well</td>
+	<td>0.2303</td>
+</tr>
+<tr>
+	<td>make</td>
+	<td>0.2202</td>
+</tr>
+<tr>
+	<td>school</td>
+	<td>0.2112</td>
+</tr>
+<tr>
+	<td>new york</td>
+	<td>0.2105</td>
+</tr>
+<tr>
+	<td>member</td>
+	<td>0.2040</td>
+</tr>
+<tr>
+	<td>present</td>
+	<td>0.2035</td>
+</tr>
+<tr>
+	<td>course</td>
+	<td>0.2003</td>
+</tr>
+<tr>
+	<td>said</td>
+	<td>0.1968</td>
+</tr>
+<tr>
+	<td>made</td>
+	<td>0.1939</td>
+</tr>
+<tr>
+	<td>plan</td>
+	<td>0.1872</td>
+</tr>
+<tr>
+	<td>see</td>
+	<td>0.1860</td>
+</tr>
+<tr>
+	<td>way</td>
+	<td>0.1853</td>
+</tr>
+<tr>
+	<td>come</td>
+	<td>0.1808</td>
+</tr>
+<tr>
+	<td>world</td>
+	<td>0.1783</td>
+</tr>
+<tr>
+	<td>even</td>
+	<td>0.1681</td>
+</tr>
+<tr>
+	<td>committee</td>
+	<td>0.1662</td>
+</tr>
+<tr>
+	<td>week</td>
+	<td>0.1650</td>
+</tr>
+<tr>
+	<td>much</td>
+	<td>0.1583</td>
+</tr>
+<tr>
+	<td>interest</td>
+	<td>0.1576</td>
+</tr>
+<tr>
+	<td>part</td>
+	<td>0.1570</td>
+</tr>
+<tr>
+	<td>man</td>
+	<td>0.1541</td>
+</tr>
+<tr>
+	<td>good</td>
+	<td>0.1517</td>
+</tr>
+<tr>
+	<td>question</td>
+	<td>0.1504</td>
+</tr>
+<tr>
+	<td>day</td>
+	<td>0.1467</td>
+</tr>
+<tr>
+	<td>need</td>
+	<td>0.1457</td>
+</tr>
+<tr>
+	<td>say</td>
+	<td>0.1446</td>
+</tr>
+<tr>
+	<td>take</td>
+	<td>0.1446</td>
+</tr>
+<tr>
+	<td>show</td>
+	<td>0.1439</td>
+</tr>
+<tr>
+	<td>self gov</td>
+	<td>0.1398</td>
+</tr>
+<tr>
+	<td>give</td>
+	<td>0.1388</td>
+</tr>
+<tr>
+	<td>feel</td>
+	<td>0.1383</td>
+</tr>
+<tr>
+	<td>faculty</td>
+	<td>0.1382</td>
+</tr>
+<tr>
+	<td>issue</td>
+	<td>0.1355</td>
+</tr>
+<tr>
+	<td>life</td>
+	<td>0.1354</td>
+</tr>
+<tr>
+	<td>change</td>
+	<td>0.1351</td>
+</tr>
+<tr>
+	<td>think</td>
+	<td>0.1332</td>
+</tr>
+<tr>
+	<td>seem</td>
+	<td>0.1324</td>
+</tr>
+<tr>
+	<td>fact</td>
+	<td>0.1322</td>
+</tr>
+<tr>
+	<td>system</td>
+	<td>0.1304</td>
+</tr>
+<tr>
+	<td>music</td>
+	<td>0.1301</td>
+</tr>
+<tr>
+	<td>editor</td>
+	<td>0.1298</td>
+</tr>
+<tr>
+	<td>rather</td>
+	<td>0.1294</td>
+</tr>
+<tr>
+	<td>book</td>
+	<td>0.1292</td>
+</tr>
+<tr>
+	<td>use</td>
+	<td>0.1289</td>
+</tr>
+<tr>
+	<td>meeting</td>
+	<td>0.1274</td>
+</tr>
+<tr>
+	<td>area</td>
+	<td>0.1244</td>
+</tr>
+<tr>
+	<td>given</td>
+	<td>0.1234</td>
+</tr>
+<tr>
+	<td>american</td>
+	<td>0.1233</td>
+</tr>
+<tr>
+	<td>discussion</td>
+	<td>0.1224</td>
+</tr>
+<tr>
+	<td>idea</td>
+	<td>0.1213</td>
+</tr>
+<tr>
+	<td>thing</td>
+	<td>0.1213</td>
+</tr>
+<tr>
+	<td>find</td>
+	<td>0.1213</td>
+</tr>
+<tr>
+	<td>know</td>
+	<td>0.1207</td>
+</tr>
+<tr>
+	<td>hope</td>
+	<td>0.1198</td>
+</tr>
+<tr>
+	<td>president</td>
+	<td>0.1193</td>
+</tr>
+<tr>
+	<td>another</td>
+	<td>0.1191</td>
+</tr>
+<tr>
+	<td>lecture</td>
+	<td>0.1188</td>
+</tr>
+<tr>
+	<td>organization</td>
+	<td>0.1183</td>
+</tr>
+<tr>
+	<td>set</td>
+	<td>0.1173</td>
+</tr>
+<tr>
+	<td>individual</td>
+	<td>0.1164</td>
+</tr>
+<tr>
+	<td>community</td>
+	<td>0.1153</td>
+</tr>
+<tr>
+	<td>class</td>
+	<td>0.1150</td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>0.1150</td>
+</tr>
+<tr>
+	<td>men</td>
+	<td>0.1147</td>
+</tr>
+<tr>
+	<td>stu dent</td>
+	<td>0.1147</td>
+</tr>
+<tr>
+	<td>professor</td>
+	<td>0.1137</td>
+</tr>
+<tr>
+	<td>might</td>
+	<td>0.1130</td>
+</tr>
+<tr>
+	<td>art</td>
+	<td>0.1127</td>
+</tr>
+<tr>
+	<td>although</td>
+	<td>0.1126</td>
+</tr>
+<tr>
+	<td>end</td>
+	<td>0.1123</td>
+</tr>
+<tr>
+	<td>col</td>
+	<td>0.1110</td>
+</tr>
+<tr>
+	<td>perhaps</td>
+	<td>0.1110</td>
+</tr>
+<tr>
+	<td>point</td>
+	<td>0.1104</td>
+</tr>
+<tr>
+	<td>study</td>
+	<td>0.1083</td>
+</tr>
+<tr>
+	<td>help</td>
+	<td>0.1083</td>
+</tr>
+<tr>
+	<td>mean</td>
+	<td>0.1079</td>
+</tr>
+<tr>
+	<td>state</td>
+	<td>0.1076</td>
+</tr>
+<tr>
+	<td>last</td>
+	<td>0.1063</td>
+</tr>
+<tr>
+	<td>right</td>
+	<td>0.1063</td>
+</tr>
+<tr>
+	<td>major</td>
+	<td>0.1060</td>
+</tr>
+<tr>
+	<td>great</td>
+	<td>0.1058</td>
+</tr>
+<tr>
+	<td>action</td>
+	<td>0.1056</td>
+</tr>
+<tr>
+	<td>undergrad</td>
+	<td>0.1042</td>
+</tr>
+</table>
 	   </div>
 	</div>
 	</div>
