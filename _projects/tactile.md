@@ -25,5 +25,3 @@ Our key includes five shapes with their own distinct color that indicate the num
 <!--  
 Insert your description for the project here.
 --> 
-
-
