@@ -17,9 +17,19 @@ caption:
 
 <div id="vis"></div>
 
-Need to write up how to use and reason for topic.
+## How To Use
+The visualization above has one dot for every issue of *The College News* in which 'negra', 'negress', 'negritude', or 'negro or negroes' is mentioned. Each word has 3, 4, 2, and 440 dots, respectively. Click on the dot next to a word in the key to display its dots only.
+Hover over a dot to view a popup with the issue date, mentioned word, word count, and word context. Find the issue by searching for its date on [The College News collection](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news) or in the [corpus text files](https://github.com/digbmc/college-news/blob/main/data/all-cn-issues.zip).
+To zoom, pinch in or out on a computer touchpad while hovering over the visualization. 
 
-I began by using Voyant to search our corpus for different race related words. The word 'negro' and its various forms appeared several times, hence my topic focus. To learn further about these words, I wrote a script that searched every issue in the corpus for a keyword and its count. This information was saved to a CSV file and showed that many issues didn't mention the keyword at all. I then wrote another script that searched every issue in the corpus for a keyword, and if an issue had it, grabbed its context (100 characters before and after the keyword).  These two scripts were eventually combined into one new script. I adjusted the new script so it did the functions described previously plus grabbed the first and last contexts for issues with more than one instance of a keyword. This information was saved to a CSV file once more. Next steps: cleaning in OpenRefine, using Altair.
+## Motivation
+With the resurgence of the Black Lives Matter movement last summer and the Bi-College strike against institutional racism the following fall, I wanted to learn more about how the Bryn Mawr community historically perceived and treated black people.
+ 
+## Process
+First, I used[Voyant](https://voyant-tools.org/docs/#!/guide/start) to look through the corpus for race-related words. The word 'negro' and its related forms appeared several times, hence my project focus. To study these words, I wrote and ran a [script](https://github.com/digbmc/college-news/blob/main/neg-contexts/mlt-keyword-count.py) that searched every issue for a word and its count. I also wrote and ran another [script](https://github.com/digbmc/college-news/blob/main/neg-contexts/mlt-keyword-context.py) that searched every issue for a word, and if found, identified its context by selecting 100 characters before and after. Eventually, these two scripts were combined into one [script](https://github.com/digbmc/college-news/blob/main/neg-contexts/mlt-multi-keyword-context-search.py), which I edited so it did the functions described previously plus selected the first and last contexts for issues with more than one instance of a word. All of this information was saved to a CSV file.
+ 
+Afterward, I cleaned the CSV file in [OpenRefine](https://docs.openrefine.org/). This involved fixing errors like duplicate contexts and formatting certain cells so they were more readable. Lastly, I used the Python library [Altair](https://altair-viz.github.io/index.html) to visualize the [cleaned CSV file](https://github.com/digbmc/college-news/blob/main/neg-contexts/mlt-viz-data.csv) as a table bubble plot.
+
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
