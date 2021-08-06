@@ -8,7 +8,7 @@ order: 6
 
 caption: # info that appears on homepage
   title: Letters to the Editor
-  subtitle: Learn about letter cataloging
+  subtitle: A glimpse into history
   thumbnail: assets/img/portfolio/lte-thumbnail.png
   alt: "explanation of letters to the editor subproject"
 ---
