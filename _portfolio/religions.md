@@ -28,8 +28,8 @@ I used the [Topic Modeling Tool](https://github.com/senderle/topic-modeling-tool
 
 ## Topics and Associated Keywords
 
-| :Topic: |  :Keywords: |
-|-------|-----------|
+| Topic |  Keywords |
+|:-------:|:-----------:|
 | 0. | mawr rhoads art league bryn merion radnor denbigh alliance interfaith |
 | 1. | art catholic jewish jew time greek roman church period century |
 | 2. | room lecture mr common dr college interfaith bryn university mawr |
