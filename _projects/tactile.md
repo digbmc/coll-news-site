@@ -3,20 +3,17 @@ title: Tactile Visualization # title for the visualization
 layout: project
 # author of the visualization along with the class year 
 subtitle: 
-image:  assets/img/portfolio/tactilviz.jpg
-alt: image of wooden map
 order: 5
 
 caption: # info that appears on homepage
   title: Tactile Visualization 
   subtitle: Concentration of graduated students from each state (1931-1949)
-  thumbnail:  assets/img/portfolio/tactilviz.jpg
+  thumbnail:  assets/img/portfolio/tactile-map-thumbnail.jpeg
   alt: explanation of tactile subproject and visualization
 ---
-<!--  
-To use an image: add relative url and alt text below and uncomment/copy paste
-<img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img" alt="">
--->
+
+<img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}/assets/img/portfolio/tactile-map.jpeg" alt="Wooden map of the USA with colored shapes on each state">
+
 
 Creating a physical representation of data allowed our team to step away from our laptops and engage in hands-on critical making. For the project, we carved a map of the United States onto a piece of plywood and etched one of five shapes in the middle of each state, representing different concentrations of graduated students from each location in a handful of years between 1931 and 1949. Not every commencement issue listed the home states of graduating students, so some graduating classes are not represented in the visualization.
 
