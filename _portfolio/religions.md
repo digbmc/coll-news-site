@@ -27,17 +27,18 @@ The data for this visualization was acquired through a combination of keyword se
 I used the [Topic Modeling Tool](https://github.com/senderle/topic-modeling-tool) to generate topic data for each context chunk and added the most relevant topic for that instance to my dataset. Then, I aggregated data by year and identified the most frequent topic for each religion in each year. Finally, I used [Altair](https://altair-viz.github.io/index.html) to display the data. I modeled my chart after the “Natural Disasters” visualization from the [Altair example gallery](https://altair-viz.github.io/gallery/natural_disasters.html) and added tooltips to show the specific numbers as well as the topic data for each point. I exported the chart as a [JSON](https://www.json.org/json-en.html) object and then embedded it in the site using [Vega](https://vega.github.io).
 
 ## Topics and Associated Keywords
-
-0. mawr rhoads art league bryn merion radnor denbigh alliance interfaith
-1. art catholic jewish jew time greek roman church period century
-2. room lecture mr common dr college interfaith bryn university mawr
-3. hindu moslem american government india school catholic woman british country
-4. year president interfaith association freshman hall committee league council student
-5. jew arab jewish state palestine mr country world german problem
-6. religion buddhism zen life mr confucianism nature page china man
-7. religion islam god christianity muslim judaism christian people life born
-8. interfaith student group church religious discussion service campus jewish faith
-9. jewish book philosophy catholic judaism jew modern study life rabbi
+| Topic |  Keywords |
+|-------|-----------|
+| 0. | mawr rhoads art league bryn merion radnor denbigh alliance interfaith |
+| 1. | art catholic jewish jew time greek roman church period century |
+| 2. | room lecture mr common dr college interfaith bryn university mawr |
+| 3. | hindu moslem american government india school catholic woman british country |
+| 4. | year president interfaith association freshman hall committee league council student |
+| 5. | jew arab jewish state palestine mr country world german problem |
+| 6. | religion buddhism zen life mr confucianism nature page china man |
+| 7. | religion islam god christianity muslim judaism christian people life born |
+| 8. | interfaith student group church religious discussion service campus jewish faith |
+| 9. | jewish book philosophy catholic judaism jew modern study life rabbi |
 
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
