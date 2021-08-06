@@ -27,6 +27,7 @@ The data for this visualization was acquired through a combination of keyword se
 I used the [Topic Modeling Tool](https://github.com/senderle/topic-modeling-tool) to generate topic data for each context chunk and added the most relevant topic for that instance to my dataset. Then, I aggregated data by year and identified the most frequent topic for each religion in each year. Finally, I used [Altair](https://altair-viz.github.io/index.html) to display the data. I modeled my chart after the “Natural Disasters” visualization from the [Altair example gallery](https://altair-viz.github.io/gallery/natural_disasters.html) and added tooltips to show the specific numbers as well as the topic data for each point. I exported the chart as a [JSON](https://www.json.org/json-en.html) object and then embedded it in the site using [Vega](https://vega.github.io).
 
 ## Topics and Associated Keywords
+
 | Topic |  Keywords |
 |-------|-----------|
 | 0. | mawr rhoads art league bryn merion radnor denbigh alliance interfaith |
