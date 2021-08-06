@@ -90,23 +90,23 @@ en: &DEFAULT_EN
         image: assets/img/team/stella.jpg
         
       - name: "Aanandi Murlidharan"
-        role: "Digital Scholarship Summer Fellow"
+        role: "Web Content Strategist"
         image: assets/img/team/aanandi.jpg
         
       - name: "Al Nash"
-        role: "Digital Scholarship Summer Fellow"
+        role: "Lead Developer"
         image: assets/img/team/al.jpeg
         
       - name: "Avery Matteo"
-        role: "Digital Scholarship Summer Fellow"
+        role: "Web Content Strategist"
         image: assets/img/team/avery.jpeg
         
       - name: "Linda Chen"
-        role: "Digital Scholarship Summer Fellow"
+        role: "Data Visualization Specialist"
         image: assets/img/team/linda.jpeg  
         
       - name: "Marianela Luna-Torrado"
-        role: "Digital Scholarship Summer Fellow"
+        role: "Data Specialist"
         image: assets/img/team/marianela.jpeg
 
   footer:
