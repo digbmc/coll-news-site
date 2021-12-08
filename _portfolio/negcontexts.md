@@ -11,7 +11,7 @@ order: 5
 caption:
   title: "'Negro' and Related Words"
   subtitle: View their frequency and context
-  thumbnail: assets/img/portfolio/mlt-draft-viz-pic.png
+  thumbnail: assets/img/portfolio/mlt-viz.png
   alt: "explanation of 'negro' and related words project"
 ---
 

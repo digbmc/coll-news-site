@@ -10,7 +10,7 @@ order: 4
 caption: 
   title: Mentions of "Cigarette" and "Smoking""
   subtitle: Relative frequency in a bar graph
-  thumbnail: assets/img/portfolio/image.png
+  thumbnail: assets/img/portfolio/cig-thumb.png
   alt: picture of bar graph visualizing frequency of "cigarette" and "smoking"
 ---
 
